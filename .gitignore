@@ -90,10 +90,10 @@ cmake-build-*/
 .idea/**/mongoSettings.xml
 
 # File-based project format
-*.iws
+#*.iws
 
 # IntelliJ
-out/
+#out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -120,7 +120,7 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 ### Gradle template
-.gradle
+#.gradle
 **/build/
 !src/**/build/
 
@@ -138,7 +138,7 @@ gradle-app.setting
 
 # Eclipse Gradle plugin generated files
 # Eclipse Core
-.project
+#.project
 # JDT-specific (Eclipse Java Development Tools)
-.classpath
+#.classpath
 
