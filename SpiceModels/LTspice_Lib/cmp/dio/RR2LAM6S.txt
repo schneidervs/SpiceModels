@@ -1,0 +1,1 @@
+.model RR2LAM6S D(Is=3.4722E-9 N=1.6773 Rs=19.675E-3 Ikf=15.962 Eg=0.989 Cjo=42.989E-12 M=.38222 Vj=.43692 Isr=1.0575E-9 Nr=2.3 Bv=600 Tt=5.6421E-6 Tikf=11.260E-3 Iave=2 Vpk=600 mfg=Rohm type=Silicon)

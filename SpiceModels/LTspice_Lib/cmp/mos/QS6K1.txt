@@ -1,0 +1,1 @@
+.model QS6K1 VDMOS(Rg=45 Vto=1.179 Rd=19.2m Rs=100m Rb=60m Kp=6.084 Lambda=50m Cgdmin=9p Cgdmax=75p A=0.6 Cgso=62p Is=1.7898p N=1.127 Cjo=15.057p M=235.72m Vj=617.76m TT=20n ksubthres=.1 mfg=Rohm Vds=30 Ron=170m Qg=1.7n)

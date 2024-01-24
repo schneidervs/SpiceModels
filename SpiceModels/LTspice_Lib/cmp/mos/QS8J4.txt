@@ -1,0 +1,1 @@
+.model QS8J4 VDMOS(pchan Rg=40 Vto=-2.169 Rd=14.1m Rs=20m Rb=25m Kp=21.66 Lambda=50m Cgdmin=65p Cgdmax=400p A=0.4 Cgso=656p Is=5.5256p N=1.075 Cjo=90.936p M=856.68m Vj=822.62m TT=18n ksubthres=.1 mfg=Rohm Vds=-30 Ron=40m Qg=13n)

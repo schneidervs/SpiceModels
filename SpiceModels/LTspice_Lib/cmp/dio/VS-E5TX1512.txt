@@ -1,0 +1,1 @@
+.model VS-E5TX1512 D(Is=700.00E-6 N=6.1854 Rs=13.659E-3 Ikf=.52346 Cjo=112.11E-12 M=.40001 Vj=.3905 Isr=10.010E-21 Nr=4.9950 Bv=1.5221E3 Ibv=.25868 tt=59.567E-9 Vp=0.39 Xti=32 Tikf=0.044 Trs1=0.0005 Iave=15 Vpk=1200 mfg=Vishay type=FastRecovery)

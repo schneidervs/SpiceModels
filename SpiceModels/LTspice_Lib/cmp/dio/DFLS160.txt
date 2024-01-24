@@ -1,0 +1,1 @@
+.model DFLS160 D(Is=736n Rs=63.0m Vpk=60.0 ibv=100u Cjo=163p  M=0.333 N=1.01 tt=14.4n Iave=1 )

@@ -1,0 +1,1 @@
+.model FDPC8014SQ1 VDMOS(mtriode=2 Rg=1.4 Vto=1.6 Rd=.25m Rs=2.3m Rb=2.9m Kp=210 Lambda=0.3 Cgdmin=40p Cgdmax=350p A=0.9 Cgs=2.1n Cjo=1.1n M=0.5 VJ=0.9 Is=66p N=1.1 ksubthres=.1 mfg=Fairchild Vds=25 Ron=2.8m Qg=25n)

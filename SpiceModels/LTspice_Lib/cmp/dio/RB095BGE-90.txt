@@ -1,0 +1,1 @@
+.model RB095BGE-90 D(Is=686.82E-09 N=0.9883 Rs=81.268E-03 Ikf=140.28E-03 Xti=2.0 Eg=0.684 Cjo=342.00E-12 M=0.5100 Vj=0.5000 Isr=467.84E-09 Nr=1.1077 Bv=90 Trs1=-2.1378E-03 Iave=6 Vpk=90 mfg=Rohm type=Schottky)

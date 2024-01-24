@@ -1,0 +1,1 @@
+.model VS-E5PH3012 D(Is=250.00E-6 N=4.2675 Rs=7.6123E-3 Ikf=.69493 Cjo=203.71E-12 M=.4044 Vj=.3905 Isr=10.010E-21 Nr=4.9950 Bv=1.3555E3 Ibv=25.866E-3 tt=57.625E-9 Vp=0.41 Xti=14.5 Tikf=0.054 Trs1=0.0012 Iave=30 Vpk=1200 mfg=Vishay type=FastRecovery)

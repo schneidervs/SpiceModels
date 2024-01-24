@@ -1,0 +1,1 @@
+.model RSL020P03 VDMOS(pchan Rg=35 Vto=-2.131 Rd=52.3m Rs=10m Rb=181.78m Kp=7.004 Lambda=50m Cgdmin=30p Cgdmax=180p A=0.3 Cgso=265p Is=5.5007f N=891.87m Cjo=107.91p M=422.02m Vj=505.97m TT=33n ksubthres=.1 mfg=Rohm Vds=-30 Ron=80m Qg=3.9n)

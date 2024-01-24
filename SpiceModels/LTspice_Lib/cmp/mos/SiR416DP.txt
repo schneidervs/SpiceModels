@@ -1,0 +1,1 @@
+.model SiR416DP VDMOS(Kp=90.4055 Rs=0.0016 Rd=0.0001 Rg=1.1 Vto=1.9 lambda=0.035 Cgdmax=2089p Cgdmin=190p Cgs=3153p TT=45n Is=5.03E-11 N=1.105 Rb=0.001448 M=0.332 VJ=0.1 Cjo=2204.73pF mfg=Vishay Vds=40 Ron=0.0038 Qg=28.2n)

@@ -1,0 +1,1 @@
+.model RB530CM-30 D(Is=5.6509E-9 N=1.0026 Rs=1.4711 Ikf=4.3789E-3 Xti=2 Eg=.69 Cjo=6.7795E-12 M=.40157 Vj=.5014 Isr=20.750E-9 Nr=1.3000 Bv=30.000 Trs1=4.2000E-3 Iave=0.1 Vpk=30 mfg=Rohm type=Schottky)

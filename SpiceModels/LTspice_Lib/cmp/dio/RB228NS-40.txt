@@ -1,0 +1,1 @@
+.model RB228NS-40 D(Is=53.700E-9 N=1.0399 Rs=6.7658E-3 Ikf=2.5400 Xti=2 Eg=.81 Cjo=1.8764E-9 M=.51834 Vj=.54781 Isr=62.201E-9 Nr=1.2300 Bv=45 Trs1=1.2000E-3 Tikf=-0.0040 Iave=30 Vpk=45 mfg=Rohm type=Schottky)

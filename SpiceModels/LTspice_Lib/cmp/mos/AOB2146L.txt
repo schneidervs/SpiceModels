@@ -1,0 +1,1 @@
+.model AOB2146L VDMOS(Rs=775u Rd=775u Rg=2 Vto=2.61 Kp=241 lambda=72.9m mtriode=1.42 ksubthres=.1 Is=6.56p N=1.04307 Rb=1.08m Eg=1.11 XTI=2.95595 vtotc=-2.5m trd1=5m trs1=5m Cgs=4.25n Cgdmin=10p Cgdmax=.8n Cjo=3n m=.5 tt=2.5n mfg=Alpha_&_Omega Vds=40 Ron=3.1m Qg=20n)

@@ -1,0 +1,1 @@
+.model RB551VM-30 D(Is=2.2551E-6 N=.91822 Rs=.23078 Ikf=832.79 Xti=2 Eg=.55 Cjo=67.000E-12 M=.67348 Vj=.59177 Isr=3.5061E-6 Nr=1.1000 Bv=30 Trs1=0.003 Iave=0.5 Vpk=30 mfg=Rohm type=Schottky)

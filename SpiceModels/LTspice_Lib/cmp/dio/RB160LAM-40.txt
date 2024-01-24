@@ -1,0 +1,1 @@
+.model RB160LAM-40 D(Is=133.65E-9 N=.95277 Rs=63.592E-3 Ikf=5.1394 Xti=2 Eg=.51 Cjo=280.52E-12 M=.62835 Vj=.71137 Isr=164.28E-9 Nr=1.2000 Bv=40 Iave=1 Vpk=40 mfg=Rohm type=Schottky)

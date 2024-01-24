@@ -1,0 +1,1 @@
+.model FTZ30E D(Is=517.48E-18 N=1.0424 Rs=.19251 Ikf=.13647 Cjo=9.0937E-12 M=.32393 Vj=.8043 Isr=27.367E-12 Bv=29.940 Ibv=5.0000E-3 Tt=317.39E-9 Nbv=0.3 Tbv1=0.00086 Vpk=30 mfg=Rohm type=Zener)

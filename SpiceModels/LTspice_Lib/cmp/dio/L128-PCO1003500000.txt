@@ -1,0 +1,1 @@
+.model L128-PCO1003500000 D(Is=2.2406E-25 Rs=2.0775 N=1.9597 Cj0=456p Iave=120m mfg=Lumileds type=LED)

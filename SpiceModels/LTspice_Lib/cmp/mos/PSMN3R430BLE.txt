@@ -1,0 +1,1 @@
+.model PSMN3R430BLE VDMOS(Rg=0.96 Vto=2.21 Rd=1.5m Rs=100u Rb=1.1m Kp=224 Lambda=0 Cgdmin=389p Cgdmax=2.63n A=0.6 Cgs=3.96n Cjo=3.15n M=0.62 Is=1.96p VJ=0.7 N=1 TT=3n Fc=0.5 Bv=33 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=3.4m Qg=81n RthetaJA=50 Imult=50 Iexponent=.4 R6=21.1m C6=.333u R5=38.8m C5=.544u R4=176m C4=2.48m R3=518m C3=14.5m R2=26.8m C2=205m R1=9.5m C1=2.35m)

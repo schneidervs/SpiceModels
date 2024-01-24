@@ -1,0 +1,1 @@
+.model RFN10NS8D D(Is=3.8970E-9 N=1.4986 Rs=121.90E-3 Ikf=15.531E-3 Eg=1.02 Cjo=131.99E-12 M=.4617 Vj=.62875 Isr=1.5405E-9 Nr=2.4000 Bv=800 Tt=43.974E-9 Tikf=0.0800 Trs1=-0.002 Iave=10 Vpk=800 mfg=Rohm type=Silicon)

@@ -1,0 +1,1 @@
+.model AON6280 VDMOS(Kp=118 Rs=0.3m Rd=0.0018 Rg=0.7 Vto=3.41 VtoTc=-4m Bex=-1.8 mtriode=1.5 Ksubthres=0.1 Lambda=0.1 Cgdmax=1194p Cgdmin=54p Cgs=3864p tt=52n A=0.33 Is=2.06E-12 N=1.005 Rb=0.000913 M=1.045 Vj=9.12 Cjo=3000.0pF mfg=AOS Vds=80 Ron=4m Qg=68n)

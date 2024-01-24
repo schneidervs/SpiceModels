@@ -1,0 +1,1 @@
+.model AONS66811 VDMOS(Rs=760u Rd=760u Rg=1 Vto=4.16 Kp=225 lambda=143m mtriode=3.05 ksubthres=.1 Is=64.1p N=1.23242 Rb=5.28m Eg=1.11 XTI=1.82233 trb1=1.21m vtotc=-2m trd1=8m trs1=8m Cgs=5n Cgdmin=100p Cgdmax=2n Cjo=4n m=.4 tt=8.75n mfg=Alpha_&_Omega Vds=80 Ron=1.9m Qg=77n)

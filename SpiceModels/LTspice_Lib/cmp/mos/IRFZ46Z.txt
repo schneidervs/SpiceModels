@@ -1,0 +1,1 @@
+.model IRFZ46Z VDMOS(Rg=0.593 Vto=4 Rd=3.9m Rs=0.0m Rb=4.5m Kp=25 Cgdmax=1.8n Cgdmin=0.05n Cgs=1.1n Cjo=0.42n Is=5p tt=21n ksubthres=.1 mfg=International_Rectifier Vds=55 Ron=10.9m Qg=31n)

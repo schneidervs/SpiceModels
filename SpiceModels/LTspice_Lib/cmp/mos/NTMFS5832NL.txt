@@ -1,0 +1,1 @@
+.model NTMFS5832NL VDMOS(Rg=1.2 Vto=2.4 Rd=1.3m Rs=.1m Rb=.7m Kp=120 ksubthres=.1 Mtriode=1.6 Theta=.2 Lambda=.01 Cgdmin=80p Cgdmax=1.4n A=.5 Cgs=2.6n Cjo=.8n M=.5 Is=1.2p VJ=1 N=1 mfg=Onsemi Vds=40 Ron=3.1m Qg=51n)

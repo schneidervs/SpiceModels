@@ -1,0 +1,1 @@
+.model RB168MM100 D(Is=14.601E-9 N=1.2478 Rs=15.400E-3 Ikf=33.987E-3 Xti=2 Eg=.90 Cjo=140.00E-12 M=.51030 Vj=.59353 Isr=1.6332E-9 Nr=1.3000 Bv=100 Tikf=10.000E-3 Trs1=-1.5300E-3 Iave=1 Vpk=100 mfg=Rohm type=Schottky)

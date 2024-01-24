@@ -1,0 +1,1 @@
+.model IPB200N25N3 VDMOS(Rg=2.3 Vto=3.7 Rd=15.69m Rs=878u Rb=2.01m Kp=146.6 Lambda=0.015 Cgdmin=19p Cgdmax=0.8n A=0.5 Cgs=5.33n Cjo=8n M=0.48 Is=50.7p VJ=0.9 N=1.12 TT=150n ksubthres=.1 mfg=Infineon Vds=250 Ron=20m Qg=64n RthetaJA=40 Imult=35 Iexponent=.4 R6=8.62m C6=.798u R5=16m C5=.4u R4=93.2m C4=5.36m R3=189m C3=21.2m R2=198m C2=226m R1=28.6m C1=3.72m)

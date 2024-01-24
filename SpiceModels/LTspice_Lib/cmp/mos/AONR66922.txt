@@ -1,0 +1,1 @@
+.model AONR66922 VDMOS(Kp=73 Rs=100u Rd=6.5m Rg=1.05 Vto=2.45 mtriode=2 VtoTc=-2.7m Trd1=7.5m Eg=0.99 Trb1=-5m Lambda=0.029 Cgdmax=433p Cgdmin=0p Cgs=2168p tt=46n A=0.26 Is=3.59E-12 N=1.045 Rb=1.5m BV=120 IBV=250u M=1.316 Vj=49.96 Cjo=1337.63pF mfg=AOS Vds=100 Ron=7.4m Qg=15n)

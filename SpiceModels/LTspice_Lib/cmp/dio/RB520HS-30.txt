@@ -1,0 +1,1 @@
+.model RB520HS-30 D(Is=11.570E-9 N=1.0710 Rs=1.2430 Ikf=39.653E-3 Xti=2 Eg=.72 Cjo=19.124E-12 M=.34378 Vj=.5012 Isr=19.4500E-9 Nr=1.2000 Bv=30 Trs1=2.9450E-3 Iave=0.2 Vpk=30 mfg=Rohm type=Schottky)

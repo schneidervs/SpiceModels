@@ -1,0 +1,1 @@
+.model PSMN6R125MLD VDMOS(Rg=0.66 Vto=2.10 Rd=4.806m Rs=100u Rb=1.796m Kp=115 Lambda=0 Cgdmin=45p Cgdmax=299p A=0.6 Cgs=0.705n Cjo=1.16n M=0.25 Is=0.299p VJ=0.59 N=1 TT=3n Fc=0.5 Bv=27.5 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=25 Ron=6.5m Qg=6n)

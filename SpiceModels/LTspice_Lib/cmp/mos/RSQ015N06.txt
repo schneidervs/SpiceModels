@@ -1,0 +1,1 @@
+.model RSQ015N06 VDMOS(Rg=35 Vto=2.08 Rd=137.4m Rs=60m Rb=25m Kp=10 Lambda=0.05 Cgdmin=5p Cgdmax=80p A=0.7 Cgso=100p Is=4.3682p N=1.129 Cjo=67.476p M=544.03m Vj=764.01m TT=28n ksubthres=.1 mfg=Rohm Vds=60 Ron=210m Qg=2n)

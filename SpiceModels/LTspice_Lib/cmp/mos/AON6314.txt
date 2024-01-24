@@ -1,0 +1,1 @@
+.model AON6314 VDMOS(Kp=190 Rs=0.1m Rd=1.6m Rg=1.8 Vto=2.07 VtoTc=-2.4m Bex=-1.6 mtriode=0.6 Ksubthres=0.01 Lambda=0.208 Cgdmax=861p Cgdmin=48p Cgs=1840p tt=17n A=1.74 Is=4.96E-12 N=1.038 Eg=1.03 Rb=0.28m Trb1=-.2 BV=33 IBV=250u M=.354 Vj=0.51 Cjo=1135.0pF mfg=AOS Vds=30 Ron=2.3m Qg=13n)

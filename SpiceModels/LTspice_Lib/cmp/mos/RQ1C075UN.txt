@@ -1,0 +1,1 @@
+.model RQ1C075UN VDMOS(Rg=13 Vto=863.25m Rd=8.16m Rs=1m Rb=8m Kp=146.3 Lambda=50m Cgdmin=170p Cgdmax=1400p A=1 Cgso=1.19n Is=2.4109n N=1.32 Cjo=453.36p M=571.09m Vj=762.93m TT=35n ksubthres=.1 mfg=Rohm Vds=20 Ron=11m Qg=18n)

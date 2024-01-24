@@ -1,0 +1,1 @@
+.model RSX101MM-30 D(Is=598.08E-9 N=.66808 Rs=44.158E-3 Ikf=10.167E-3 Xti=2 Eg=.56 Cjo=300.10E-12 M=.50965 Vj=.53769 Isr=10.432E-6 Nr=1.1000 Bv=30 Trs1=0.7000E-3 Iave=1 Vpk=30 mfg=Rohm type=Schottky)

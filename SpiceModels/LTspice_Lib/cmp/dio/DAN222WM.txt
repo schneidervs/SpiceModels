@@ -1,0 +1,1 @@
+.model DAN222WM D(Is=1.2872E-9 N=1.7918 Rs=.90633 Ikf=83.541E-3 Cjo=628.00E-15 M=.12181 Vj=7.4703 Isr=3.4924E-9 Nr=2.3000 Bv=80 Tt=27.411E-9 Iave=0.1 Vpk=80 mfg=Rohm type=Silicon)

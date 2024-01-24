@@ -1,0 +1,1 @@
+.model IXTK200N10P VDMOS(Rg=3 Vto=5.35 Rd=3m Rs=.8m Rb=4m Kp=70 lambda=.06 Cgdmax=2n Cgdmin=1.5n Cgs=12n Cjo=4.8n Is=480p ksubthres=.1 mfg=IXYS Vds=100 Ron=7.5m Qg=240n)

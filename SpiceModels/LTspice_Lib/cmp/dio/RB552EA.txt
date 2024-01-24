@@ -1,0 +1,1 @@
+.model RB552EA D(Is=105.75E-9 N=1.0125 Rs=.16369 Ikf=.17809 Xti=2 Eg=.67 Cjo=56.300E-12 M=.59154 Vj=.45777 Isr=74.398E-9 Nr=1.3000 Bv=30 Trs1=0.004 Iave=0.5 Vpk=30 mfg=Rohm type=Schottky)

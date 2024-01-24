@@ -1,0 +1,1 @@
+.model AONS62618 VDMOS(Vto=2.33 Kp=219 Lambda=53m mtriode=0.91 BV=66 IBV=250u Rd=0.3m Rs=2.84m Rg=1.2 Rb=1.437m Cjo=1458p Cgs=2455p Cgdmin=0p Cgdmax=1247p A=0.25 Is=4.21p N=1.022 Vj=16.03 M=834m tt=32n Eg=1.065 Tnom=25 Bex=-1.9 vtotc=-3.6m Trs1=5.4m Trs2=12u Trb1=3.1m Vds=60 Ron=3.8m Qg=21n mfg=AOS)

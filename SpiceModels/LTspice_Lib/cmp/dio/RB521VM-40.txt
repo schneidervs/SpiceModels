@@ -1,0 +1,1 @@
+.model RB521VM-40 D(Is=1.0431E-6 N=1.0173 Rs=.85052 Ikf=45.028 Xti=2 Eg=.59 Cjo=27.877E-12 M=.47424 Vj=.5005 Isr=2.010E-6 Nr=1.2000 Bv=40 Trs1=0.005 Iave=0.2 Vpk=40 mfg=Rohm type=Schottky)

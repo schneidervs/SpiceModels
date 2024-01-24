@@ -1,0 +1,1 @@
+.model RBQ15BGE65A D(Is=156.27E-9 N=0.9081 Rs=10.705E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.733 Cjo=854.00E-12 M=0.5113 Vj=0.5437 Isr=2.0755E-6 Nr=1.1880 Bv=65 Trs1=-285.34E-6 Iave=15 Vpk=65 mfg=Rohm type=Schottky)

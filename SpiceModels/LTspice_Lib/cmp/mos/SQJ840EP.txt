@@ -1,0 +1,1 @@
+.model SQJ840EP VDMOS(Kp=26.513 Rs=0.0001 Rd=0.0029 Rg=1.05 Vto=1.71 lambda=0.001 Cgdmax=918p Cgdmin=200p Cgs=1440p TT=40n Is=2.95E-12 N=0.985 Rb=0.003256 M=0.512 VJ=1.29 Cjo=1340.2pF mfg=Vishay Vds=30 Ron=0.0093 Qg=25.3n)

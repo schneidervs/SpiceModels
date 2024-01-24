@@ -1,0 +1,1 @@
+.model AOB66518L VDMOS(Kp=59 Rs=0.0 Rd=0.0001 Rg=2.3 Vto=4.28 Vtotc=-4m Bex=-1.1 mtriode=1.2 Ksubthres=.01 Lambda=0.023 Cgdmax=1370p Cgdmin=3p Cgs=6455p tt=124n A=3.55 Is=1.08E-11 N=1.031 Rb=0.000723 M=0.605 Vj=1.41 Cjo=9112.0pF mfg=AOS Vds=150 Ron=4.2m Qg=80n)

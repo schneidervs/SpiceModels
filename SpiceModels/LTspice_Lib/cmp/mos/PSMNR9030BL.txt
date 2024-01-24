@@ -1,0 +1,1 @@
+.model PSMNR9030BL VDMOS(Rg=1.08 Vto=1.92 Rd=240u Rs=100u Rb=1m Kp=510 Lambda=0 Cgdmin=1125p Cgdmax=12000p A=0.6 Cgs=12.5n Cjo=10.47n M=0.58 Is=16.11p VJ=0.59 N=1 TT=3n Fc=0.5 Bv=34 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=1m Qg=118n)

@@ -1,0 +1,1 @@
+.model SP8M21_P VDMOS(pchan Rg=12 Vto=-2.314 Rd=19.3m Rs=10m Rb=15m Kp=34.55 Lambda=50m Cgdmin=130p Cgdmax=550p A=0.4 Cgso=2200p Is=4.4091p N=1.043 Cjo=426.65p M=455.22m Vj=656.83m TT=44n mfg=Rohm Vds=-45 Ron=33m Qg=20n)

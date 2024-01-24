@@ -1,0 +1,1 @@
+.model VS-E5PX7506 D(Is=500.00E-6 N=3.5331 Rs=2.0777E-3 Ikf=1.8791 Cjo=1.0636E-9 M=.42417 Vj=.3905 Isr=10.010E-21 Nr=4.9950 Bv=716.40 Ibv=1 tt=22.967E-9 Vp=0.13 Xti=10 Tikf=0.062 Trs1=0.001 Iave=75 Vpk=600 mfg=Vishay type=FastRecovery)

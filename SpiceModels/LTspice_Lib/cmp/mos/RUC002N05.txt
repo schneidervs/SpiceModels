@@ -1,0 +1,1 @@
+.model RUC002N05 VDMOS(Rg=200 Vto=907.67m Rd=1.022 Rs=500m Rb=200m Kp=3.559 Lambda=100m Cgdmin=1.7p Cgdmax=16p A=1 Cgso=22p Is=902.67f N=1.175 Cjo=8.5443p M=393.33m Vj=751.26m TT=22n mfg=Rohm Vds=50 Ron=1600m Qg=1n)

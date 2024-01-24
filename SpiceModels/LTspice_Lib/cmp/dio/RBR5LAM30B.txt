@@ -1,0 +1,1 @@
+.model RBR5LAM30B D(Is=876.86E-9 N=0.9238 Rs=3.3251E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.696 Cjo=1.1933E-9 M=0.5315 Vj=0.5000 Isr=4.7789E-6 Nr=1.1179 Bv=30 Trs1=4.9692E-3 Tikf=1.8531E-03 Iave=5 Vpk=30 mfg=Rohm type=Schottky)

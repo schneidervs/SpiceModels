@@ -1,0 +1,1 @@
+.model STZ6_2N D(Is=235.19E-18 N=1.0349 Rs=.20667 Ikf=5.7211 Cjo=21.599E-12 M=.35129 Vj=.80122 Isr=79.860E-12 Bv=6.1950 Ibv=4.9900E-3 Tt=180.34E-9 Nbv=0.3 Tbv1=0.0004 Nbvl=2 Ibvl=1.0000E-5 Vpk=6.2 mfg=Rohm type=Zener)

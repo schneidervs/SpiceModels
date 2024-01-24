@@ -1,0 +1,1 @@
+.model RB168MM-30 D(Is=4.8705E-9 N=1.0667 Rs=29.951E-3 Ikf=.8971 Xti=2 Eg=.81 Cjo=210.08E-12 M=.48936 Vj=.54046 Isr=5.8132E-9 Nr=1.2200 Bv=30 Trs1=-1.5000E-3 Tikf=-0.006 Iave=1 Vpk=30 mfg=Rohm type=Schottky)

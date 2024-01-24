@@ -1,0 +1,1 @@
+.model RFU02VS6S D(Is=4.9427E-9 N=2.3572 Rs=1.2300 Ikf=9.5772E-3 Eg=1.2000 Cjo=5.0000E-12 M=.40785 Vj=.75082 Isr=134.67E-12 Nr=3 Bv=600 Tt=34n Tikf=0.01 Iave=0.2 Vpk=600 mfg=Rohm type=Silicon)

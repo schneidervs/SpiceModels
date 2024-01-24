@@ -1,0 +1,1 @@
+.model IRF7809A VDMOS(Rg=3 Rd=2m Rs=2.6m Vto=2 Kp=93 Cgdmax=2.4n Cgdmin=.31n Cgs=4.1n Cjo=1.22n Is=122p Rb=4.3m mfg=International_Rectifier ksubthres=.1 Vds=30 Ron=8.5m Qg=61n mtriode=2)

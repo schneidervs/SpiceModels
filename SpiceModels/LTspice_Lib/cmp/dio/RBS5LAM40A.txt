@@ -1,0 +1,1 @@
+.model RBS5LAM40A D(Is=24.207E-6 N=1.2693 Rs=28.294E-3 Ikf=84.081 Xti=2.0 Eg=0.5291 Cjo=497.50E-12 M=0.5193 Vj=0.5000 Isr=134.79E-6 Nr=1.042 Bv=40 Trs1=1.1200E-3 Iave=5 Vpk=40 mfg=Rohm type=Schottky)

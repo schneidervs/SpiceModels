@@ -1,0 +1,1 @@
+.model AON6278 VDMOS(Kp=96.6 Rs=0.0 Rd=0.0017 Rg=0.65 Vto=3.15 mtriode=1.1 Ksubthres=0 Lambda=0.15 Cgdmax=327p Cgdmin=1p Cgs=4615p tt=46n A=0.1 Is=1.71E-09 N=1.341 Rb=0.000206 M=0.646 Vj=2.67 Cjo=3600.0pF mfg=AOS Vds=80 Ron=2.75m Qg=61.5n)

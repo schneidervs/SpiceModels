@@ -1,0 +1,1 @@
+.model AOE66410 VDMOS(Kp=705.4404 Rs=0.0 Rd=0.0006 Rg=1.1 Vto=2.75 Lambda=0.059 Cgdmax=7441p Cgdmin=61p Cgs=8938p tt=40n A=109.36 Is=1.54E-11 N=1.025 Rb=0.000558 M=0.396 Vj=1.73 Cjo=4190.0pF mfg=AOS Vds=40 Ron=0.83m Qg=50n)

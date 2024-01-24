@@ -1,0 +1,1 @@
+.model AON6144 VDMOS(Kp=207.998 Rs=0.0 Rd=0.0013 Rg=0.7 Vto=2.6 Lambda=0.082 Cgdmax=1216p Cgdmin=16p Cgs=3720p tt=24n A=0.53 Is=4.25E-12 N=1.002 Rb=0.001789 M=0.388 Vj=0.31 Cjo=3131.0pF mfg=AOS Vds=40 Ron=2m Qg=22n)

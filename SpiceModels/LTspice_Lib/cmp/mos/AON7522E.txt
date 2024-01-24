@@ -1,0 +1,1 @@
+.model AON7522E VDMOS(Kp=49.5284 Vto=2.2 Lambda=0.352 mtriode=1.7 Ksubthres=.13 BV=30 Rs=0.0006 Rd=0.0016 Rg=1.7 Vtotc=-3.1m Bex=-1.5 Cgdmax=1605p Cgdmin=134p Cgs=1080p tt=22n A=0.11 Is=2.00E-12 N=1 Rb=0.002681 Trb1=2.5m Eg=0.98 M=0.437 Vj=0.1 Cjo=340.0pF mfg=AOS Vds=30 Ron=3.2m Qg=19.7n)

@@ -1,0 +1,1 @@
+.model RB168VAM-30 D(Is=7.4036E-9 N=1.1779 Rs=37.360E-3 Ikf=.30996 Xti=2 Eg=.84 Cjo=115.00E-12 M=.44797 Vj=.51027 Isr=722.97E-12 Nr=1.2000 Bv=30.000 Trs1=220.00E-6 Iave=1 Vpk=30 mfg=Rohm type=Schottky)

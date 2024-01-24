@@ -1,0 +1,1 @@
+.model BSC059N04LS6 VDMOS(Rg=2.2 Vto=2.38 Rd=3.64m Rs=252u Rb=1.28m Kp=171 Lambda=0.09 Cgdmin=10p Cgdmax=0.12n A= 0.6 Cgs=0.64n Cjo=0.25n M=0.68 Is=4p VJ=2.5 N=1.04 TT=3n ksubthres=.1 mfg=infineon Vds=40 Ron=5.9m Qg=4.6n)

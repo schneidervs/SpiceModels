@@ -1,0 +1,1 @@
+.model IPT004N03L VDMOS(Rg=1.4 Vto=2.3 Rd=120u Rs=161u Theta=.3 Rb=300u Mtriode=1.2 Kp=4000 Lambda=0.09 Cgdmin=168p Cgdmax=6n A=.42 Cgs=18n Cjo=21n M=0.49 Is=230p VJ=0.7 N=1.1 ksubthres=.1 mfg=Infineon Vds=30 Ron=.4m Qg=252n RthetaJA=40 Imult=8 Iexponent=.4 R6=9.48m C6=.742u R5=13.9m C5=.518u R4=88.7m C4=3.16m R3=165m C3=21.1m R2=234m C2=50.2m R1=2.56m C1=.306u)

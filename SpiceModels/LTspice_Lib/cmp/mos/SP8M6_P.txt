@@ -1,0 +1,1 @@
+.model SP8M6_P VDMOS(pchan Rg=23 Vto=-1.858 Rd=45m Rs=1m Rb=55m Kp=6.406 Lambda=30m Cgdmin=55p Cgdmax=260p A=0.5 Cgso=415p Is=1.6846p N=1.081 Cjo=125.2p M=602.29m Vj=1.37 TT=34n ksubthres=.1 mfg=Rohm Vds=-30 Ron=65m Qg=5.5n)

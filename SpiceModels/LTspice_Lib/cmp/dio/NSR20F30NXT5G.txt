@@ -1,0 +1,1 @@
+.model NSR20F30NXT5G D(Is=1e-07 Rs=0.0685826 N=0.776978 Eg=0.6 Xti=3.94234 BV=35 Ibv=0.665074 Cjo=3.78999e-10 Vj=0.484208 M=0.480643 Fc=0.5 TT=0 KF=0 AF=1 Vpk=30 mfg=OnSemi type=Schottky Iave=2)

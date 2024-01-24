@@ -1,0 +1,1 @@
+.model RHK005N03 VDMOS(Rg=88 Vto=2.464 Rd=34.4m Rs=250m Rb=97.508m Kp=2.036 Lambda=50m Cgdmin=5.5p Cgdmax=65p A=0.6 Cgso=35p Is=9.7608p N=1.223 Cjo=14.585p M=454.26m Vj=7.721 TT=22n ksubthres=.1 mfg=Rohm Vds=30 Ron=350m Qg=1n)

@@ -1,0 +1,1 @@
+.model BAV170HY D(Is=1.2165E-12 N=1.3497 Rs=.13668 Ikf=12.432E-3 Cjo=2.2716E-12 M=.31833 Vj=.50219 Isr=4.2907E-12 Nr=4.6 Bv=90 Tt=3.6810E-6 Iave=0.215 Vpk=90 mfg=Rohm type=Silicon)

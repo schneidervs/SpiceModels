@@ -1,0 +1,1 @@
+.model RTL020P02 VDMOS(pchan Rg=28 Vto=-1.681 Rd=61m Rs=10m Rb=180m Kp=12.05 Lambda=50m Cgdmin=40p Cgdmax=180p A=0.5 Cgso=375p Is=411.86f N=1.025 Cjo=79.276p M=1.235 Vj=7.557 TT=33n ksubthres=.1 mfg=Rohm Vds=-20 Ron=100m Qg=4.9n)

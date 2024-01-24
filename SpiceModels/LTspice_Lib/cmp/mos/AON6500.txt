@@ -1,0 +1,1 @@
+.model AON6500 VDMOS(Kp=176.0045 Rs=0.0 Rd=0.0001 Rg=1.1 Vto=1.84 Lambda=0.33 mtriode=1.3 Ksubthres=0.1 Cgdmax=4736p Cgdmin=39p Cgs=6725p tt=45n A=0.37 Is=5.59E-11 N=1.044 Rb=0.000684 M=0.603 Vj=4.96 Cjo=5818.0pF mfg=AOS Vds=30 Ron=0.75m Qg=49.7n)

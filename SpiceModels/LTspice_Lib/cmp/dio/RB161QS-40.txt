@@ -1,0 +1,1 @@
+.model RB161QS-40 D(Is=195.48E-9 N=0.7858 Rs=.20822 Ikf=122.73E-3 Xti=2 Eg=.58 Cjo=53.874E-12 M=.30288 Vj=.50015 Isr=18.920E-6 Nr=1.2000 Bv=40 Trs1=1.1950E-3 Iave=1 Vpk=40 mfg=Rohm type=Schottky)

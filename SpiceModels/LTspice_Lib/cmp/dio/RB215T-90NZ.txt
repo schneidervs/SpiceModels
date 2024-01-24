@@ -1,0 +1,1 @@
+.model RB215T-90NZ D(Is=796.83E-9 N=.88237 Rs=24.454E-3 Ikf=.47192 Xti=2 Eg=.69 Cjo=1.6298E-9 M=.61003 Vj=.45237 Isr=1.6342E-6 Nr=1.7000 Bv=90 Iave=20 Vpk=90 mfg=Rohm type=Schottky)

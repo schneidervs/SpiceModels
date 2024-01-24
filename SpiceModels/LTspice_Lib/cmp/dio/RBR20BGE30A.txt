@@ -1,0 +1,1 @@
+.model RBR20BGE30A D(Is=1.0622E-6 N=0.8858 Rs=5.4208E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.681 Cjo=1.6400E-9 M=0.5437 Vj=0.7373 Isr=9.6699E-6 Nr=1.1236 Bv=30 Trs1=644.62E-6 Iave=20 Vpk=30 mfg=Rohm type=Schottky)

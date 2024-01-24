@@ -1,0 +1,1 @@
+.model RF1601NS2D D(Is=14.351E-12 N=.96481 Rs=6.7789E-3 Ikf=42.397E-3 Eg=.92 Cjo=271.16E-12 M=.39883 Vj=.58603 Isr=1.5397E-9 Nr=2.4000 Bv=200 Tt=34n Tikf=0.01 Iave=16 Vpk=200 mfg=Rohm type=Silicon)

@@ -1,0 +1,1 @@
+.model RR268MM-600 D(Is=5.5747E-9 N=1.8375 Rs=42.539E-3 Ikf=1.1683 Eg=1.02 Cjo=16.000E-12 M=.35808 Vj=.50249 Isr=1.6725E-9 Nr=2.4000 Bv=600 Tt=3.1203E-6 Trs1=-1.0000E-3 Tikf=0.0300 Iave=1 Vpk=600 mfg=Rohm type=Silicon)

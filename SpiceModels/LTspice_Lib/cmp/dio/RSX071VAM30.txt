@@ -1,0 +1,1 @@
+.model RSX071VAM30 D(Is=3.7111E-6 N=.99863 Rs=78.951E-3 Ikf=.35916 Xti=2.0000 Eg=.60000 Cjo=162.77E-12 M=.52181 Vj=.50003 Isr=5.1504E-6 Nr=1.1531 Bv=30 Trs1=1.2194E-3 Tikf=9.9997E-9 Iave=0.7 Vpk=30 mfg=Rohm type=Schottky)

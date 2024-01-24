@@ -1,0 +1,1 @@
+.model RBQ30NS100A D(Is=302.75E-9 N=0.9015 Rs=14.011E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.740 Cjo=1.4200E-9 M=0.5237 Vj=0.5000 Isr=2.1083E-6 Nr=1.1811 Bv=100 Trs1=2.1023E-3 Tikf=1.1427E-03 Iave=30 Vpk=100 mfg=Rohm type=Schottky)

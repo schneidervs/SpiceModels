@@ -1,0 +1,1 @@
+.model Si7143DP VDMOS(Rg=3 Vto=-2.6 ksubthres=100m mtriode=1.5 Rd=2.5m Rs=1.5m Rb=2m Kp=40 lambda=40m theta=120m A=1 Cgdmax=2n Cgdmin=300p Cgs=2n Cjo=200p Is=3p mfg=Vishay Vds=-30 Ron=8.3m Qg=47.5n pchan)

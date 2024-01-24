@@ -1,0 +1,1 @@
+.model Si2316DS VDMOS(mtriode=1.5 Rg=2 Vto=2.1 Rd=1m Rs=6m Rb=13m Kp=10 Theta=.42 Lambda=10m Cgdmin=50p Cgdmax=190p A=.8 Cgs=148p Cjo=130p M=.4 VJ=.7 Is=25p N=1.2 ksubthres=.1 mfg=Vishay Vds=30 Ron=42m Qg=4.3n)

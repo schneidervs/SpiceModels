@@ -1,0 +1,1 @@
+.model RB021VAM90 D(Is=147.49E-9 N=.5455 Rs=.69346 Ikf=138.28E-6 Xti=2 Eg=.52 Cjo=62.000E-12 M=.52175 Vj=.51906 Isr=2.4078E-6 Nr=1.1000 Bv=90 Trs1=0.002 Iave=0.2 Vpk=90 mfg=Rohm type=Schottky)

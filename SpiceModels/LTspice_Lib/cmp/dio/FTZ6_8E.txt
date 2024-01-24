@@ -1,0 +1,1 @@
+.model FTZ6_8E D(Is=153.73E-18 N=1.0159 Rs=.1572 Ikf=.15869 Cjo=18.108E-12 M=.35314 Vj=.80037 Isr=66.267E-12 Bv=6.7900 Ibv=4.9900E-3 Tt=216.40E-9 Nbv=0.3 Tbv1=0.00048 Nbvl=1 Ibvl=1.0000E-5 Vpk=6.8 mfg=Rohm type=Zener)

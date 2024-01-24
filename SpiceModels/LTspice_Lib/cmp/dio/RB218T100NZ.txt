@@ -1,0 +1,1 @@
+.model RB218T100NZ D(Is=49.989E-9 N=1.1000 Rs=7.5419E-3 Ikf=12.834E-2 Xti=2 Eg=.83 Cjo=842.04E-12 M=.52751 Vj=.59632 Isr=14.320E-9 Nr=1.2500 Bv=110 Trs1=620.00E-6 Iave=20 Vpk=110 mfg=Rohm type=Schottky)

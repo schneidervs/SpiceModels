@@ -1,0 +1,1 @@
+.model IRLML6402 VDMOS (pchan Vto=-0.55 Kp=12.79 Lambda=11.14m BV=20 IBV=0.25m Rd=0.1m Rs=24.67m Rg=29.22 Rb=0 Cjo=112p Cgs=520p Cgdmin=100p Cgdmax=140p Is=20.3n N=1.5 Vj=0.5 M=0.3 mfg=Infineon Vds=-20 Ron=65m Qg=8n)

@@ -1,0 +1,1 @@
+.model RFNL15TJ6S D(Is=2.8451E-9 N=1.3089 Rs=9.4513E-3 Ikf=49.108E-3 Eg=0.90 Cjo=314.89E-12 M=.48567 Vj=.60115 Isr=1.2010E-9 Nr=2.3000 Bv=600 Tt=107.12E-9 Tikf=0.1000 Iave=15 Vpk=600 mfg=Rohm type=Silicon)

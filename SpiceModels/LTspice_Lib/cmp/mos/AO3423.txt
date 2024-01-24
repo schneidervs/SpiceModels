@@ -1,0 +1,1 @@
+.model AO3423 VDMOS(pchan Kp=6.8 Rs=0.0584 Rd=0.0043 Rg=11.2 Vto=-0.85 mtriode=.6 Ksubthres=.1 Lambda=0.001 Cgdmax=287p Cgdmin=13p Cgs=288p tt=09n A=0.43 Is=5.85E-07 N=1.856 Rb=0.019095 M=1.379 Vj=6.84 Cjo=90.0pF mfg=AOS Vds=-20 Ron=76m Qg=3.2n)

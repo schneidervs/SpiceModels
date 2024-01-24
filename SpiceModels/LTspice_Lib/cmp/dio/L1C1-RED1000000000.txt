@@ -1,0 +1,1 @@
+.model L1C1-RED1000000000 D(Is=3.4489E-18 Rs=0.7682 N=1.7208 Cj0=310p Iave=350m mfg=Lumileds type=LED)

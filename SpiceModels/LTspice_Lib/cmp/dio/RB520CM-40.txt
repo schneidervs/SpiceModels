@@ -1,0 +1,1 @@
+.model RB520CM-40 D(Is=32.927E-9 N=1.0346 Rs=0.8983 Ikf=4.5854E-3 Xti=2 Eg=.67 Cjo=14.043E-12 M=.46575 Vj=.5005 Isr=0.030E-6 Nr=1.2000 Bv=40.000 Trs1=0.006 Iave=0.1 Vpk=40 mfg=Rohm type=Schottky)

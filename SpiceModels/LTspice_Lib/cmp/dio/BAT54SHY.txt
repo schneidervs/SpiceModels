@@ -1,0 +1,1 @@
+.model BAT54SHY D(Is=30.411E-9 N=1.0541 Rs=.63327 Ikf=31.993 Xti=2 Eg=.7 Cjo=18.076E-12 M=.40571 Vj=.3905 Isr=52.643E-9 Nr=1.3500 Bv=30 Trs1=0.006 Iave=0.2 Vpk=30 mfg=Rohm type=Schottky)

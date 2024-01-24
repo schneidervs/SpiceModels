@@ -1,0 +1,1 @@
+.model L1C1-FRD1000000000 D(Is=2.6030E-15 Rs=0.3471 N=1.9246 Cj0=254p Iave=350m mfg=Lumileds type=LED)

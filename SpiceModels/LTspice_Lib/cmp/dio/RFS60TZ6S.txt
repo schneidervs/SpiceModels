@@ -1,0 +1,1 @@
+.model RFS60TZ6S D(Is=2.5835E-9 N=1.0152 Rs=14.480E-3 Ikf=0.1820E-3 Eg=0.8 Cjo=393.85E-12 M=0.2715 Vj=0.5 Isr=10.590E-9 Nr=1.45 Bv=650 Tt=76.8885E-9 Trs1=-3.0000E-3 Tikf=0.012 Iave=60 Vpk=650 mfg=Rohm type=Silicon)

@@ -1,0 +1,1 @@
+.model RB078BM30S D(Is=9.1781E-9 N=1.0260 Rs=12.205E-3 Ikf=1.7138 Xti=2 Eg=.81 Cjo=723.99E-12 M=.52488 Vj=.86675 Isr=12.136E-9 Nr=1.2500 Bv=35 Trs1=0.002 Iave=5 Vpk=30 mfg=Rohm type=Schottky)

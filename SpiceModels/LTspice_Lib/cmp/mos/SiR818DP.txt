@@ -1,0 +1,1 @@
+.model SiR818DP VDMOS(Rg=3 Vto=1.893 Rd=2.03m Rs=.03m Rb=3m Kp=380 Mtriode=1.8 Cgdmax=2.2n Cgdmin=200p Cgs=3.5n Cjo=2n m=.5 a=.5 Vj=.7 lambda=1m Is=10p ksubthres=.1 mfg=Siliconix Vds=30 Ron=2.3m Qg=63n)

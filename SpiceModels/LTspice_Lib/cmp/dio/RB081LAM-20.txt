@@ -1,0 +1,1 @@
+.model RB081LAM-20 D(Is=27.732E-6 N=0.9439 Rs=10.000E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.581 Cjo=851.90E-12 M=0.5704 Vj=0.5000 Isr=42.172E-6 Nr=0.9859 Bv=25 Trs1=4.1107E-3 Iave=5 Vpk=25 mfg=Rohm type=Schottky)

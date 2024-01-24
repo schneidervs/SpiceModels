@@ -1,0 +1,1 @@
+.model RF305BGE6S D(Is=2.7577E-9 N=1.8886 Rs=36.869E-3 Ikf=75.644E-3 Eg=1.2500 Cjo=101.00E-12 M=.47282 Vj=.51797 Isr=505.52E-12 Nr=3.2000 Bv=600 Tt=45.5n Tikf=0.01 Iave=3 Vpk=600 mfg=Rohm type=Silicon)

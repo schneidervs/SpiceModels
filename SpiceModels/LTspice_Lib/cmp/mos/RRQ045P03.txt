@@ -1,0 +1,1 @@
+.model RRQ045P03 VDMOS(pchan Rg=39 Vto=-2.162 Rd=11.4m Rs=10m Rb=15m Kp=32.98 Lambda=50m Cgdmin=130p Cgdmax=380p A=0.2 Cgso=1.14n Is=16.807p N=1.098 Cjo=115.06p M=3.883 Vj=4.177 TT=26n ksubthres=.1 mfg=Rohm Vds=-30 Ron=25m Qg=14n)

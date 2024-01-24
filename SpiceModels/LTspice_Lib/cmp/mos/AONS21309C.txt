@@ -1,0 +1,1 @@
+.model AONS21309C VDMOS(pchan Rs=1.32m Rd=1.32m Rg=2.3 Vto=-2.59 Kp=349 lambda=107m mtriode=851m ksubthres=.1 Is=5.76p N=1.04426 Rb=1.63m Eg=1.11 XTI=2.68552 trb1=-545u vtotc=1.5m trd1=4m trs1=4m Cgs=7n Cgdmin=250p Cgdmax=4.5n Cjo=50p m=.5 tt=2.4n mfg=Alpha_&_Omega Vds=-30 Ron=4.5m Qg=60n)

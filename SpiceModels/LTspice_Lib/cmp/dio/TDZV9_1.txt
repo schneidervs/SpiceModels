@@ -1,0 +1,1 @@
+.model TDZV9_1 D(Is=1.2950E-15 N=.99929 Rs=.22316 Ikf=38.014 Eg=1.1300 Cjo=376.32E-12 M=.33024 Vj=.59492 Isr=8.9810E-12 Nr=2.8000 Bv=9.1000 Ibv=10.000E-3 Nbv=0.15 Tbv1=0.0006 Nbvl=30.000 Ibvl=5.000E-9 Vpk=9.1 mfg=Rohm type=Zener)

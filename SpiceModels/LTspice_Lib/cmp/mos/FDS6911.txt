@@ -1,0 +1,1 @@
+.model FDS6911 VDMOS(Rg=3 Rd=4m Rs=5.9m Vto=2.48 Kp=110 mtriode=1.6 lambda=.1 Cgdmax=300p Cgdmin=150p A=.6 Cgs=1.1n Cjo=700p M=.5 Is=1p Rb=6.5m ksubthres=.1 mfg=Fairchild Vds=20 Ron=13m Qg=17n)

@@ -1,0 +1,1 @@
+.model RBQ10BGE10A D(Is=151.54E-9 N=0.9552 Rs=36.865E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.743 Cjo=491.30E-12 M=0.5172 Vj=0.5000 Isr=729.36E-9 Nr=1.1850 Bv=100 Trs1=-2.1495E-3 Iave=10 Vpk=100 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model DAN235E D(Is=23.796E-15 N=1.2117 Rs=.40149 Ikf=19.882 Cjo=1.9328E-12 M=0.2918 Vj=0.5005 Isr=789.34E-15 Nr=4.95 Bv=35 Tt=72.000E-9 Iave=0.1 Vpk=35 mfg=Rohm type=Silicon)

@@ -1,0 +1,1 @@
+.model RBR20NS40A D(Is=2.9784E-6 N=1.0246 Rs=12.105E-3 Ikf=570.05 Xti=2 Eg=.65 Cjo=1.0972E-9 M=.52072 Vj=.5031 Isr=4.3877E-6 Nr=1.2800 Bv=40 Trs1=0.004 Iave=20 Vpk=40 mfg=Rohm type=Schottky)

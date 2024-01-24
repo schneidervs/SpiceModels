@@ -1,0 +1,1 @@
+.model RB098BM100 D(Is=11.469E-9 N=1.0100 Rs=18.277E-3 Ikf=32.277E-3 Xti=2 Eg=.82 Cjo=538.07E-12 M=.51640 Vj=.60494 Isr=7.8650E-9 Nr=1.1500 Bv=100.00 Trs1=-340.00E-6 Iave=6 Vpk=110 mfg=Rohm type=Schottky)

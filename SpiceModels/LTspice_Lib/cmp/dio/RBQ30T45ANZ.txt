@@ -1,0 +1,1 @@
+.model RBQ30T45ANZ D(Is=167.24E-9 N=0.8845 Rs=4.7210E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.744 Cjo=1.5182E-9 M=0.5130 Vj=0.5606 Isr=2.9972E-6 Nr=1.1897 Bv=45 Trs1=3.1175E-3 Iave=30 Vpk=45 mfg=Rohm type=Schottky)

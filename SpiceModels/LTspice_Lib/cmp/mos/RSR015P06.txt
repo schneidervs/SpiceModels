@@ -1,0 +1,1 @@
+.model RSR015P06 VDMOS(pchan Rg=39 Vto=-2.072 Rd=153.3m Rs=30m Rb=35m Kp=7.507 Lambda=50m Cgdmin=18p Cgdmax=75p A=0.2 Cgso=470p Is=716.43f N=1.039 Cjo=129.74p M=445.93m Vj=769.5m TT=43.5n mfg=Rohm Vds=-60 Ron=200m Qg=10n)

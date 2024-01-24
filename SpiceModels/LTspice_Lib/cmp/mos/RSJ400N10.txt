@@ -1,0 +1,1 @@
+.model RSJ400N10 VDMOS(Rg=6.2 Vto=1.891 Rd=13.38m Rs=5m Rb=3m Kp=202.8 Lambda=50m Cgdmin=110p Cgdmax=3000p A=1 Cgso=3.42n Is=52.736p N=1.088 Cjo=806.55p M=622.04m Vj=758.29m TT=47n ksubthres=.1 mfg=Rohm Vds=100 Ron=19m Qg=90n)

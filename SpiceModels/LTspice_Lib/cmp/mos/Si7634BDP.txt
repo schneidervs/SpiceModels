@@ -1,0 +1,1 @@
+.model Si7634BDP VDMOS(Kp=29.0639 Rs=1u Rd=0.0001 Rg=0.8 Vto=2.09 lambda=0.001 Cgdmax=1211p Cgdmin=155p Cgs=2984p TT=43n Is=2.87E-11 N=1.114 Rb=0.001126 M=0.322 VJ=0.1 Cjo=1649.13pF mfg=Vishay Vds=30 Ron=0.0054 Qg=21.5n)

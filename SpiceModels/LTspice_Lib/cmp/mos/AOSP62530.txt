@@ -1,0 +1,1 @@
+.model AOSP62530 VDMOS(Kp=13.4079 Rs=0.0005 Rd=0.0417 Rg=3.37 Vto=2.55 Lambda=0.055 Cgdmax=109p Cgdmin=3p Cgs=671p tt=53n A=0.79 Is=2.29E-12 N=1.048 Rb=0.004846 BV=165 IBV=1u M=0.433 Vj=0.1 Cjo=1372.4pF mfg=AOS Vds=150 Ron=52m Qg=5.5n)

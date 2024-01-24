@@ -1,0 +1,1 @@
+.model RRS140P03 VDMOS(pchan Rg=10 Vto=-2.081 Rd=3.31m Rs=1m Rb=6m Kp=173.2 Lambda=50m Cgdmin=600p Cgdmax=4n A=0.5 Cgso=7n Is=550.67f N=888.55m Cjo=569.71p M=2.457 Vj=817.26m TT=58n ksubthres=.1 mfg=Rohm Vds=-30 Ron=5.0m Qg=80n)

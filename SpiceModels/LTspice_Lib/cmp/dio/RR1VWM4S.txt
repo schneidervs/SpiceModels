@@ -1,0 +1,1 @@
+.model RR1VWM4S D(Is=5.3269E-9 N=1.9284 Rs=.10815 Ikf=.84447 Eg=1.0900 Cjo=6.6189E-12 M=.3765 Vj=.50121 Isr=262.70E-12 Nr=4.3000 Bv=400.00 Tt=2.0802E-6 Trs1=1.2000E-3 Tikf=0.0060 Iave=1 Vpk=400 mfg=Rohm type=Silicon)

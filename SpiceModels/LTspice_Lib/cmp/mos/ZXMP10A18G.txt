@@ -1,0 +1,1 @@
+.model ZXMP10A18G VDMOS(pchan Kp=3.7482 Rs=0.0015 Rd=0.1085 Rg=6.0 Vto=-3.32 Lambda=0.001 Cgdmax=775p Cgdmin=68p Cgs=1050p TT=71n Is=3.35E-12 N=1.051 Rb=0.028631 m=1.152 Vj=3.19 Cjo=301.29pF Mfg=Zetex Vds=-100 Ron=150m Qg=26.9n)

@@ -1,0 +1,1 @@
+.model IXTH500N04T2 VDMOS(mtriode=2.8 Rg=1.1 Vto=3.6 Rd=.01m Rs=1.2m Rb=.9m Kp=180 Lambda=60m Cgdmin=800p Cgdmax=18n A=1 Cgs=20n Cjo=12n M=0.4 VJ=0.7 Is=25p N=1 TT=0 ksubthres=.1 mfg=IXYS Vds=40 Ron=1.53m Qg=405n)

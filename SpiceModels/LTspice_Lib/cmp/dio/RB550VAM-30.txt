@@ -1,0 +1,1 @@
+.model RB550VAM-30 D(Is=94.506E-9 N=.91036 Rs=47.955E-3 Ikf=65.446E-3 Xti=2 Eg=.61 Cjo=172.00E-12 M=.54621 Vj=.4399 Isr=201.27E-9 Nr=1.7000 Bv=30 Iave=1 Vpk=30 mfg=Rohm type=Schottky)

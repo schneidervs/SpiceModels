@@ -1,0 +1,1 @@
+.model Si7942DP VDMOS(Rg=3 Vto=3.6 Rd=20m Rs=16.6m Rb=10m Kp=16 Mtriode=2.2 Ksubthres=100m lambda=.05 Cgdmax=500p Cgdmin=50p Cgs=.8n Cjo=.32n Is=1p mfg=Siliconix Vds=100 Ron=41m Qg=16n)

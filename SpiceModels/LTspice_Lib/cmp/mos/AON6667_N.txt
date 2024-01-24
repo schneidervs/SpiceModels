@@ -1,0 +1,1 @@
+.model AON6667_N VDMOS(Kp=17.3126 Rs=0.0002 Rd=0.0107 Rg=1.8 Vto=2.41 mtriode=1.1 Ksubthres=.1 Lambda=0.07 Cgdmax=262p Cgdmin=25p Cgs=332p tt=09n A=0.38 Is=2.15E-12 N=1.077 Rb=0.001763 m=0.282 Vj=0.1 Cjo=110.0pF mfg=AOS Vds=30 Ron=18.5m Qg=3.5n)

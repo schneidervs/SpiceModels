@@ -1,0 +1,1 @@
+.model RN739F D(Is=5.9223E-12 N=1.4915 Rs=.18911 Ikf=43.071E-3 Cjo=417.41E-15 M=.18127 Vj=.79242 Isr=4.1607E-12 Nr=1.7000 Bv=50 Tt=1.8000E-6 Iave=0.05 Vpk=50 mfg=Rohm type=Silicon)

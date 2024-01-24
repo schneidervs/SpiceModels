@@ -1,0 +1,1 @@
+.model FDB045AN08A0 VDMOS(Rg=3 Rd=1.89m Rs=1.2m Vto=4.2 mtriode=1.55 Kp=140 Cgdmax=1.8n Cgdmin=100p A=.2 Cgs=6n cjo=4.7n M=.58 Is=6p Rb=4m ksubthres=.1 mfg=Fairchild Vds=75 Ron=3.9m Qg=92n)

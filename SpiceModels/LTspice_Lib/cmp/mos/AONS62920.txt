@@ -1,0 +1,1 @@
+.model AONS62920 VDMOS(Kp=160.7 Vto=2.16 Rs=100u Rd=4.67m Trd1=8.4m Rg=1.06 VtoTc=-2.4m mtriode=1.9 Ksubthres=0.01 Lambda=60m Cgdmax=779p Cgdmin=11p Cgs=4503p tt=46n A=0.52 Is=4.2E-12 N=.992 Rb=2.8m Eg=.99 Trb1=-8.4m M=0.303 Vj=0.1 Cjo=2620.0pF mfg=AOS Vds=100 Ron=5.1m Qg=30n)

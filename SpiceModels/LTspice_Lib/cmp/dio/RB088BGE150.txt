@@ -1,0 +1,1 @@
+.model RB088BGE150 D(Is=19.607E-9 N=1.0942 Rs=9.9220E-3 Ikf=45.393E-3 Xti=2 Eg=.8 Cjo=440.00E-12 M=.49855 Vj=.52417 Isr=5.8497E-9 Nr=1.4000 Bv=150 Iave=10 Vpk=150 mfg=Rohm type=Schottky)

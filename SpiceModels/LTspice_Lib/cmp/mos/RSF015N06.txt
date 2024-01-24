@@ -1,0 +1,1 @@
+.model RSF015N06 VDMOS(Rg=36 Vto=2.037 Rd=146m Rs=50m Rb=28m Kp=9.057 Lambda=40m Cgdmin=6p Cgdmax=80p A=0.7 Cgso=98p Is=4.3682p N=1.129 Cjo=67.476p M=544.03m Vj=764.01m TT=28n mfg=Rohm Vds=60 Ron=210m Qg=2n)

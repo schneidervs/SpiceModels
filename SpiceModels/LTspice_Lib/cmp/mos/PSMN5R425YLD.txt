@@ -1,0 +1,1 @@
+.model PSMN5R425YLD VDMOS(Rg=0.74 Vto=2.00 Rd=3.736m Rs=100u Rb=1.427m Kp=147 Lambda=0 Cgdmin=52p Cgdmax=423p A=0.6 Cgs=0.821n Cjo=1.31n M=0.29 Is=0.268p VJ=0.7 N=1 TT=3n Fc=0.5 Bv=27.5 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=25 Ron=5.4m Qg=8n)

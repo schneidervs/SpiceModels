@@ -1,0 +1,1 @@
+.model SP8M1_N VDMOS(Rg=19 Vto=1.873 Rd=3.9m Rs=25m Rb=27.428m Kp=17.57 Lambda=20m Cgdmin=35p Cgdmax=260p A=0.7 Cgso=180p Is=66.471p N=1.209 Cjo=93.354p M=549.91m Vj=1.454 TT=21n mfg=Rohm Vds=30 Ron=36m Qg=3.9n)

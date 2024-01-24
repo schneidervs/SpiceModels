@@ -1,0 +1,1 @@
+.model RB061US-30 D(Is=18.951E-6 N=.98416 Rs=27.965E-3 Ikf=6.9225 Xti=2 Eg=.6 Cjo=500.00E-12 M=.61602 Vj=.52656 Isr=28.733E-6 Nr=1.4000 Bv=30 Trs1=0.005 Iave=2 Vpk=30 mfg=Rohm type=Schottky)

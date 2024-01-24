@@ -1,0 +1,1 @@
+.model SiR470DP VDMOS(Kp=69.6391 Rs=1u Rd=0.0001 Rg=1.0 Vto=2.16 lambda=0.001 Cgdmax=3479p Cgdmin=320p Cgs=5333p TT=56n Is=2.92E-11 N=1.115 Rb=0.000933 M=0.359 VJ=0.1 Cjo=3417.61pF mfg=Vishay Vds=40 Ron=0.0023 Qg=45.5n)

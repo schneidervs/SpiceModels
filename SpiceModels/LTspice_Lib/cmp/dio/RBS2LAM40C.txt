@@ -1,0 +1,1 @@
+.model RBS2LAM40C D(Is=46.512E-6 N=1.0464 Rs=28.458E-3 Ikf=66.533 Xti=2 Eg=.57 Cjo=518.25E-12 M=.53389 Vj=.50905 Isr=110.34E-6 Nr=1.1500 Bv=40.000 Trs1=5.8000E-3 Iave=2 Vpk=40 mfg=Rohm type=Schottky)

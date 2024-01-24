@@ -1,0 +1,1 @@
+.model AONS36314 VDMOS(Kp=180 Rs=0.0 Rd=0.0001 Rg=2.3 Vto=2.1 mtriode=0.8 Ksubthres=.01 Lambda=0.10 Cgdmax=721p Cgdmin=25p Cgs=1835p tt=17n A=0.6 Is=1.39E-12 N=0.988 Rb=0.002351 m=0.387 Vj=0.67 Cjo=1150.0pF mfg=AOS Vds=30 Ron=2.4m Qg=11.5n)

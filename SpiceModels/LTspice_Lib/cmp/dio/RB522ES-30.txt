@@ -1,0 +1,1 @@
+.model RB522ES-30 D(Is=14.570E-09 N=1.0581 Rs=2.5449 Ikf=16.265E-03 Xti=2.0 Eg=0.602 Cjo=9.5770E-12 M=0.2902 Vj=0.5000 Isr=1.9787E-06 Nr=1.1544 Bv=30 Trs1=3.7845E-03 Iave=0.1 Vpk=30 mfg=Rohm type=Schottky)

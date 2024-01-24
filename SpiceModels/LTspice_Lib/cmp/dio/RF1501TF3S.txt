@@ -1,0 +1,1 @@
+.model RF1501TF3S D(Is=628.31E-12 N=1.3228 Rs=10.517E-3 Ikf=.25333 Eg=1.1000 Cjo=354.00E-12 M=.43343 Vj=.50807 Isr=1.0770E-9 Nr=3.2000 Bv=350 Tt=33.4n Tikf=0.01 Iave=20 Vpk=350 mfg=Rohm type=Silicon)

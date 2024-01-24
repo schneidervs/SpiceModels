@@ -1,0 +1,1 @@
+.model PDZV10B D(Is=1.5196E-15 N=.99074 Rs=17.764E-3 Ikf=432.95 Eg=1.15 Cjo=388.79E-12 M=.31496 Vj=.50387 Isr=16.517E-12 Nr=4.1 Bv=10.716 Ibv=40.000E-3 Nbv=0.37 Tbv1=640.00E-6 Vpk=10 mfg=Rohm type=Zener)

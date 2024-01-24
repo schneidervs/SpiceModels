@@ -1,0 +1,1 @@
+.model BSZ16DN25NS3 VDMOS(Rg=2.4 Vto=3.7 Rd=132.01m Rs=361u Rb=9.85m Kp=17.4 Lambda=0.015 Cgdmin=2p Cgdmax=0.09n A=0.5 Cgs=0.63n Cjo=0.95n M=0.48 Is=6p VJ=0.9 N=1.12 TT=150n ksubthres=.1 mfg=Infineon Vds=250 Ron=165m Qg=8n RthetaJA=60 Imult=70 Iexponent=.3 R6=72.4m C6=.0971u R5=136m C5=.0136u R4=685m C4=.913u R3=1.06 C3=1.22m R2=117m C2=4.97n R1=5.17m C1=887p)

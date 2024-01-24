@@ -1,0 +1,1 @@
+.model DAP202UM D(Is=199.70E-12 N=1.4778 Rs=372.25E-3 Ikf=3.7689E-3 Eg=0.95 Cjo=4.9977E-12 M=0.5422 Vj=0.5005 Isr=631.70E-12 Nr=1.8 Bv=80 Tt=27.500E-9 Tikf=0.015 Iave=0.1 Vpk=80 mfg=Rohm type=Silicon)

@@ -1,0 +1,1 @@
+.model IXTH88N30P VDMOS(mtriode=.1 Rg=1 vto=5.4 Rd=17m Rs=12m Rb=2.5m Kp=650 Lambda=30m Cgdmin=50p Cgdmax=9n A=.4 Cgs=6.5n Cjo=12n M=0.6 VJ=0.7 Is=5p N=1 TT=0 ksubthres=.1 mfg=IXYS Vds=300 Ron=40m Qg=180n)

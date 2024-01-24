@@ -1,0 +1,1 @@
+.model SQ4435EY VDMOS(pchan Kp=11.219 Rs=0.0001 Rd=0.0013 Rg=4.5 Vto=-2.26 lambda=0.01 Cgdmax=1890p Cgdmin=250p Cgs=1400p TT=65n Is=2.06E-13 N=0.954 Rb=0.005664 M=0.937 VJ=2.31 Cjo=500.73pF mfg=Vishay Vds=-30 Ron=0.018 Qg=38.3n)

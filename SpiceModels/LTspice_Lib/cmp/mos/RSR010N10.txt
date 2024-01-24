@@ -1,0 +1,1 @@
+.model RSR010N10 VDMOS(Rg=24 Vto=2.135 Rd=348m Rs=10m Rb=30m Kp=10.4 Lambda=50m Cgdmin=6p Cgdmax=180p A=0.8 Cgso=128p Is=20.7p N=1.216 Cjo=62.478p M=581.67m Vj=751.95m TT=46n mfg=Rohm Vds=100 Ron=370m Qg=3.5n)

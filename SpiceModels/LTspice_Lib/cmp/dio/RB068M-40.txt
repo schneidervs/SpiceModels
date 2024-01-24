@@ -1,0 +1,1 @@
+.model RB068M-40 D(Is=16.708E-9 N=1.0779 Rs=15.272E-3 Ikf=.11125 Xti=2 Eg=.74 Cjo=246.00E-12 M=.48639 Vj=.50286 Isr=1.1258E-9 Nr=1.2000 Bv=40 Iave=2 Vpk=40 mfg=Rohm type=Schottky)

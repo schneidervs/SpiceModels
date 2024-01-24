@@ -1,0 +1,1 @@
+.model LSJ289B PJF(Beta=3.0m Betatce=-0.5 Vto=-1.75 Vtotc=-2.5m Lambda=2.0m Is=0.45f Xti=0 N=1 Rd=99 Rs=37 Cgd=10p Cgs=9p Fc=0.5 M=300m Pb=0.25 Kf=0.0011f AF=1 Gdsnoi=2.95 Nlev=3 Mfg=Linear_Systems)

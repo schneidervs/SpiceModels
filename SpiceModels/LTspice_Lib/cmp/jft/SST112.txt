@@ -1,0 +1,1 @@
+.model SST112 NJF(Beta=5.695m Betatce=-0.5 Vto=-2.057 Vtotc=-2.5m Lambda=13m Is=205.2f Xti=3 Isr=1988f Nr=2 Alpha=20.98u N=1 Rd=1 Rs=1 Cgd=6.46p Cgs=5.74p Fc=0.5 Vk=123.7 M=407m Pb=1 Kf=75980f Af=1 Mfg=Linear_Systems)

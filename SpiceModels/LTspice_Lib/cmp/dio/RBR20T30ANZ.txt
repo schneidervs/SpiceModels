@@ -1,0 +1,1 @@
+.model RBR20T30ANZ D(Is=983.96E-9 N=0.9128 Rs=6.1538E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.676 Cjo=1.2600E-9 M=0.5318 Vj=0.6259 Isr=6.8378E-6 Nr=1.2193 Bv=30 Trs1=787.60E-6 Tikf=10.532E-03 Iave=20 Vpk=30 mfg=Rohm type=Schottky)

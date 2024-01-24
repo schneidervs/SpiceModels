@@ -1,0 +1,1 @@
+.model UMZ8_2T D(Is=329.39E-18 N=1.0322 Rs=.17059 Ikf=.24996 Cjo=24.763E-12 M=.41063 Vj=.80457 Isr=32.871E-12 Nr=1.8000 Bv=8.2000 Ibv=4.9999E-3 Tt=100.99E-9 Nbv=0.2 Tbv1=0.0006 Nbvl=10 Ibvl=1.0000E-7 Vpk=8.2 mfg=Rohm type=Zener)

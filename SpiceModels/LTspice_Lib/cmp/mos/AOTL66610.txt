@@ -1,0 +1,1 @@
+.model AOTL66610 VDMOS(Kp=230 Rs=0.0 Rd=0.0001 Rg=1.65 Vto=3.92 mtriode=0.7 Ksubthres=.1 Lambda=0.20 Cgdmax=5884p Cgdmin=12p Cgs=7557p tt=53n A=1.36 Is=4.32E-12 N=1.005 Rb=0.000408 M=0.84 Vj=12.91 Cjo=5700.0pF mfg=AOS Vds=60 Ron=1m Qg=103n)

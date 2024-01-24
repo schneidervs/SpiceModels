@@ -1,0 +1,1 @@
+.model UFZV20B D(Is=931.76E-18 N=1.0317 Rs=0.2269 Ikf=14.645 Eg=1.13 Cjo=58.769E-12 M=0.3112 Vj=0.5334 Isr=1.3940E-12 Nr=3 Bv=19.4 Ibv=10.000E-3 Nbv=0.45 Tbv1=0.7700E-3 Nbvl=26.5 Ibvl=1.0000E-9 Vpk=20 mfg=Rohm type=Zener)

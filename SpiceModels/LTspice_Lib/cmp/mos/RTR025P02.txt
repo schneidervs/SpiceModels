@@ -1,0 +1,1 @@
+.model RTR025P02 VDMOS(pchan Rg=35 Vto=-1.541 Rd=40.5m Rs=10m Rb=130m Kp=16.98 Lambda=50m Cgdmin=55p Cgdmax=250p A=0.5 Cgso=555p Is=1.3652p N=1.067 Cjo=71.561p M=358.72m Vj=1.577 TT=22n ksubthres=.1 mfg=Rohm Vds=-20 Ron=70m Qg=7.0n)

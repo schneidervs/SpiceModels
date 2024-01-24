@@ -1,0 +1,1 @@
+.model RQ1E050RP VDMOS(pchan Rg=27 Vto=-2.282 Rd=8.3m Rs=10m Rb=20m Kp=33.63 Lambda=50m Cgdmin=120p Cgdmax=500p A=0.5 Cgso=1.14n Is=24.996p N=1.132 Cjo=116p M=662.09m Vj=756.09m TT=25.5n ksubthres=.1 mfg=Rohm Vds=-30 Ron=22m Qg=28n)

@@ -1,0 +1,1 @@
+.model IPB65R420CFD VDMOS(Rg=1.4 Vto=5.1 Rd=267m Rs=100m Rb=31m Mtriode=.8 Kp=24 Ksubthres=.3 Lambda=.1m Cgdmin=10p Cgdmax=1.6n A=.7 Cgs=900p Cjo=2n M=.8 Is=10p VJ=.6 N=1 mfg=Infineon Vds=700 Ron=378m Qg=31.5n)

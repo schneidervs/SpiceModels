@@ -1,0 +1,1 @@
+.model PSMN1R230YLD VDMOS(Rg=1.15 Vto=2.1 Rd=0.5m Rs=100u Rb=340u Kp=1000 Lambda=0 Cgdmin=293p Cgdmax=3.996n A=0.6 Cgs=3.64n Cjo=6.65n M=0.44 Is=2.99p VJ=0.76 N=1 TT=3n Fc=0.5 Bv=33 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=1.24m Qg=56n)

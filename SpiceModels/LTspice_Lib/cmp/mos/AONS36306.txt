@@ -1,0 +1,1 @@
+.model AONS36306 VDMOS(Rs=1.4m Rd=1.4m Rg=600m Vto=2.7 Kp=61.4 lambda=630m mtriode=3.22 ksubthres=.1 Is=3.22p N=1.04627 Rb=3.3m Eg=1.11 XTI=0.304817 vtotc=-2m trd1=5m trs1=5m Cgs=1n Cgdmin=25p Cgdmax=600p Cjo=.85n m=.52 tt=.95n mfg=Alpha_&_Omega Vds=30 Ron=5.6m Qg=8n)

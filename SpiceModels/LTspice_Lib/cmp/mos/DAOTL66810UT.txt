@@ -1,0 +1,1 @@
+.model DAOTL66810UT VDMOS(Rs=385u Rd=385u Rg=2 Vto=4.05 Kp=349 lambda=111m mtriode=2.2 ksubthres=.1 Is=29.3p N=1.09395 Rb=434u Eg=1.11 XTI=0.771107 trb1=-3.21m vtotc=-4m trd1=5m trs1=5m Cgs=12n Cgdmin=400p Cgdmax=3.2n Cjo=9.5n m=.42 tt=17n mfg=Alpha_&_Omega Vds=80 Ron=1.1m Qg=175n)

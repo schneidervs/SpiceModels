@@ -1,0 +1,1 @@
+.model RR274EA-400 D(Is=10.035E-12 N=1.3983 Rs=.13369 Ikf=.39883 Cjo=14.091E-12 M=.38358 Vj=.4509 Isr=1.4458E-9 Nr=2.5000 Bv=400 Tt=3.5500E-6 Iave=0.5 Vpk=400 mfg=Rohm type=Silicon)

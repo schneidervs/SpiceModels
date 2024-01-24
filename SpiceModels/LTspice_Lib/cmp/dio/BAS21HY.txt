@@ -1,0 +1,1 @@
+.model BAS21HY D(Is=83.537E-12 N=1.2908 Rs=.56205 Ikf=860.47E-6 Eg=0.9100 Cjo=2.4943E-12 M=.2624 Vj=.5035 Isr=259.80E-12 Nr=3.8000 Bv=250.00 Tt=28.590E-9 Trs1=-1.5000E-3 Tikf=0.0120 Iave=0.2 Vpk=250 mfg=Rohm type=Silicon)

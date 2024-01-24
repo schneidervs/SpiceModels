@@ -1,0 +1,1 @@
+.model BUK7M9R9-60E VDMOS(Kp=18.722 Rs=0.1m Rd=0.1m Rg=0.92 Vto=3.24 Lambda=0.001 Cgdmax=750p Cgdmin=108p Cgs=1382p tt=31n Is=1f N=0.858 Rb=1.688m m=0.338 Vj=0.1 Cjo=682.84p mfg=Nexperia Vds=60 Ron=8m Qg=30.1n)

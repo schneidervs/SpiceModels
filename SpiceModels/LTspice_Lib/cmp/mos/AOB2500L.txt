@@ -1,0 +1,1 @@
+.model AOB2500L VDMOS(Kp=170.4814 Rs=0.0001 Rd=0.0042 Rg=2.1 Vto=3.68 mtriode=1.5 Ksubthres=0.01 Lambda=0.04 Cgdmax=1447p Cgdmin=41p Cgs=6405p tt=130n A=0.52 Is=8.10E-12 N=0.998 Rb=0.001224 m=0.41 Vj=0.1 Cjo=9100.0pF mfg=AOS Vds=150 Ron=5.1m Qg=97n)

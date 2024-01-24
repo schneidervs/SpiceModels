@@ -1,0 +1,1 @@
+.model QS8M51_N VDMOS(Rg=18.7 Vto=1.952 Rd=203.4m Rs=30m Rb=25m Kp=18.88 Lambda=50m Cgdmin=11p Cgdmax=240p A=1 Cgso=270p Is=4.1555p N=1.11 Cjo=90.722p M=631.51m Vj=784.91m TT=44n mfg=Rohm Vds=100 Ron=240m Qg=4.7n)

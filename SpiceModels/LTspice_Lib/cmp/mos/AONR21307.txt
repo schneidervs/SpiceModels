@@ -1,0 +1,1 @@
+.model AONR21307 VDMOS(pchan Kp=27.3039 RS=0.0001 Rd=0.0044 Rg=4.5 Vto=-2.1 mtriode=.75 Ksubthres=0.01 Lambda=0.05 Cgdmax=1189p Cgdmin=137p Cgs=1735p tt=19n A=0.22 Is=6.95E-13 N=0.959 Rb=0.005878 M=0.415 Vj=0.14 Cjo=280.0pF mfg=AOS Vds=-30 Ron=9.2m Qg=17n)

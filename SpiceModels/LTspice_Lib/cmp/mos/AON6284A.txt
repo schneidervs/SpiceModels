@@ -1,0 +1,1 @@
+.model AON6284A VDMOS(Vto=2.25 Kp=225 Lambda=48m mtriode=0.74 BV=95 IBV=250u Rd=0.3m Rs=4.4m Rg=1.45 Rb=1.436m Cjo=1359p Cgs=2477p Cgdmin=9p Cgdmax=766p A=0.21 Is=5.27p N=1.026 Vj=1.92 M=541m tt=33n Eg=1.065 Tnom=25 Bex=-1.7 vtotc=-2.4m Trs1=6.2m Trs2=6.8u Trb1=3m Vds=80 Ron=5.2m Qg=16.5n mfg=AOS)

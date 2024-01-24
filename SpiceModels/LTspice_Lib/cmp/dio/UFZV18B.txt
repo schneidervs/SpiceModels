@@ -1,0 +1,1 @@
+.model UFZV18B D(Is=598.54E-18 N=1.0159 Rs=0.2275 Ikf=0.7677 Eg=1.14 Cjo=64.796E-12 M=0.3224 Vj=0.5776 Isr=2.3475E-12 Nr=2.85 Bv=17.5 Ibv=10.000E-3 Nbv=0.5 Tbv1=0.7600E-3 Nbvl=35.5 Ibvl=1.0000E-9 Trs1=0.002 Vpk=18 mfg=Rohm type=Zener)

@@ -1,0 +1,1 @@
+.model RFL30TZ6S D(Is=6.0082E-9 N=1.2397 Rs=7.2565E-3 Ikf=36.266E-3 Eg=0.9 Cjo=263.14E-12 M=0.3164 Vj=0.5005 Isr=2.7970E-9 Nr=2.8 Bv=650 Tt=88.285E-9 Trs1=-0.001 Tikf=0.012 Iave=30 Vpk=650 mfg=Rohm type=Silicon)

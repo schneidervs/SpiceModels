@@ -1,0 +1,1 @@
+.model AONS66916 VDMOS(Kp=63 Rs=50u Rd=0.0001 Rg=0.65 Vto=3.52 mtriode=1.2 Ksubthres=0 Lambda=0.07 Cgdmax=818p Cgdmin=0p Cgs=5275p tt=60n A=0.13 Is=4.36E-14 N=0.835 Rb=0.005585 M=0.78 Vj=15.96 Cjo=3600.0pF mfg=AOS Vds=100 Ron=3m Qg=67n)

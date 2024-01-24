@@ -1,0 +1,1 @@
+.model L128-DRD1003500000 D(Is=2.7431E-14 Rs=1.8181 N=2.5835 Cj0=67.9p Iave=120m mfg=Lumileds type=LED)

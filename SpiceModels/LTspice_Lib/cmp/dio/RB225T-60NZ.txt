@@ -1,0 +1,1 @@
+.model RB225T-60NZ D(Is=4.7471E-6 N=1.0263 Rs=8.3152E-3 Ikf=2.5528 Xti=2 Eg=.69 Cjo=2.0558E-9 M=.55633 Vj=.50523 Isr=3.6011E-6 Bv=60 Iave=30 Vpk=60 mfg=Rohm type=Schottky)

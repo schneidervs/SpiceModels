@@ -1,0 +1,1 @@
+.model PSMN1R530YLC VDMOS(Rg=1.05 Vto=1.94 Rd=1.0m Rs=100u Rb=666u Kp=500 Lambda=0 Cgdmin=270p Cgdmax=900p A=0.6 Cgs=3.60n Cjo=3.0n M=0.50 Is=1.9p VJ=0.99 N=1 TT=3n Fc=0.5 Bv=32 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=1.5m Qg=30n)

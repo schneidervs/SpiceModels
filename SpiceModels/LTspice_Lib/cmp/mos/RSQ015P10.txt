@@ -1,0 +1,1 @@
+.model RSQ015P10 VDMOS(pchan Rg=22.5 Vto=-2.14 Rd=324m Rs=10m Rb=20m Kp=8 Lambda=0.04 Cgdmin=6p Cgdmax=220p A=0.5 Cgso=930p Is=2.3373p N=1.081 Cjo=50.065p M=269.73m Vj=2.062 TT=72n ksubthres=.1 mfg=Rohm Vds=-100 Ron=350m Qg=17n)

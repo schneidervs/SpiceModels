@@ -1,0 +1,1 @@
+.model AONS62614 VDMOS(Kp=230.6898 Rs=0.0 Rd=0.0015 Rg=0.75 Vto=2.13 mtriode=1 Ksubthres=0.01 Lambda=0.12 Cgdmax=1309p Cgdmin=0p Cgs=3552p tt=37n A=0.15 Is=1.75E-12 N=0.952 Rb=0.003703 M=0.936 Vj=18.4 Cjo=2600.0pF mfg=AOS Vds=60 Ron=2.1m Qg=32n)

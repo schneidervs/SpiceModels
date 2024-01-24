@@ -1,0 +1,1 @@
+.model PSMN0R930YLD VDMOS(Rg=1.08 Vto=2.15 Rd=160u Rs=10u Rb=650u Kp=1000 Theta=.5 Mtriode=1.4 Ksubthres=.1 Lambda=.01 Cgdmin=300p Cgdmax=2.9n A=0.6 Cgs=6.8n Cjo=11.0n M=.5 Is=30p VJ=.76 N=1 mfg=NXP Vds=30 Ron=.79m Qg=109n)

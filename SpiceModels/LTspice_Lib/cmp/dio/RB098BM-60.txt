@@ -1,0 +1,1 @@
+.model RB098BM-60 D(Is=8.0920E-9 N=1.0454 Rs=43.658E-3 Ikf=.39457 Xti=2 Eg=.81 Cjo=293.31E-12 M=.4971 Vj=.56346 Isr=14.109E-9 Nr=1.2300 Bv=60.000 Trs1=-1.5000E-3 Tikf=-0.0060 Iave=6 Vpk=60 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model L128-FRD1003500000 D(Is=1.5259E-08 Rs=1.1932 N=4.9198 Cj0=67.9p Iave=120m mfg=Lumileds type=LED)

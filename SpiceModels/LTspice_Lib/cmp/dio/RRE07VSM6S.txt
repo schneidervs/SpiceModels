@@ -1,0 +1,1 @@
+.model RRE07VSM6S D(Is=571.97E-12 N=1.7013 Rs=.10908 Ikf=456.13 Cjo=6.4000E-12 M=.40864 Vj=.50737 Isr=93.497E-12 Nr=3 Bv=600 Tt=1.3600E-6 Trs1=0.0035 Iave=0.7 Vpk=600 mfg=Rohm type=Silicon)

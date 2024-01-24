@@ -1,0 +1,1 @@
+.model Si4816BDY_Q1 VDMOS(Kp=9.0106 Rs=0.0002 Rd=0.0015 Rg=3.0 Vto=2.0 lambda=0.001 Cgdmax=431p Cgdmin=95p Cgs=800p TT=29n Is=2.14E-10 N=1.23 Rb=0.011863 M=0.284 VJ=0.1 Cjo=481.82pF mfg=Vishay Vds=30 Ron=0.0185 Qg=7.8n)

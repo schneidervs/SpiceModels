@@ -1,0 +1,1 @@
+.model L150-xxyy502400000 D(Is=1.9664E-23 Rs=17.5639 N=16.7349 Cj0=522p Iave=160m mfg=Lumileds type=LED)

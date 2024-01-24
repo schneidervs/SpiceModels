@@ -1,0 +1,1 @@
+.model SQ4410EY VDMOS(Kp=67.9505 Rs=0.0071 Rd=0.001 Rg=1.25 Vto=2.0 lambda=0.001 Cgdmax=1119p Cgdmin=170p Cgs=1823p TT=42n Is=2.59E-11 N=1.152 Rb=0.004114 M=0.276 VJ=0.1 Cjo=1377.46pF mfg=Vishay Vds=30 Ron=0.012 Qg=35n)

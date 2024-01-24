@@ -1,0 +1,1 @@
+.model AON6290 VDMOS(Kp=125 Rs=50u Rd=0.0033 Rg=0.75 Vto=3.37 mtriode=1.2 Ksubthres=0.01 Lambda=0.08 Cgdmax=649p Cgdmin=8p Cgs=4573p tt=58n A=0.27 Is=1.61E-09 N=1.336 Rb=0.000514 M=0.348 Vj=0.1 Cjo=3700.0pF mfg=AOS Vds=100 Ron=3.8m Qg=28.5n)

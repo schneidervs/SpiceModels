@@ -1,0 +1,1 @@
+.model RF081LAM2S D(Is=1.4047E-9 N=1.4135 Rs=14.738E-3 Ikf=.17406 Eg=.91 Cjo=50.501E-12 M=.45366 Vj=.63588 Isr=21.705E-12 Nr=4.8000 Bv=200 Tt=27.376E-9 Tikf=0.0120 Trs1=-1.2000E-3 Iave=1.1 Vpk=200 mfg=Rohm type=Silicon)

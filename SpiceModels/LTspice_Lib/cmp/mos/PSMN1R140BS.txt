@@ -1,0 +1,1 @@
+.model PSMN1R140BS VDMOS(Rg=1.077 Vto=3.92 Rd=330u Rs=100u Rb=948u Kp=400 Lambda=0 Cgdmin=1037p Cgdmax=5554p A=0.6 Cgs=7.57n Cjo=9.06n M=0.62 Is=7.37p VJ=0.5 N=1 TT=3n Fc=0.5 Bv=44 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=40 Ron=1.3m Qg=136n)

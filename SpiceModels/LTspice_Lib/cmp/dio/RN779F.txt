@@ -1,0 +1,1 @@
+.model RN779F D(Is=134.37E-12 N=1.6045 Rs=.91991 Ikf=13.708 Cjo=1.2496E-12 M=.283 Vj=.83507 Isr=2.4724E-9 Nr=2.5000 Bv=50 Tt=2.1500E-6 Iave=0.05 Vpk=50 mfg=Rohm type=Silicon)

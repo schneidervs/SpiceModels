@@ -1,0 +1,1 @@
+.model LSK589A NJF(Beta=2.2m Betatce=-0.5 Vto=-1.13 Vtotc=-2.5m Lambda=4.3m Is=3f Xti=0 Isr=0 Alpha=30u N=1 Rd=11 Rs=30 Cgd=3.19p Cgs=2.92p Fc=0.5 Vk=120 M=320m Pb=0.8 Kf=0.0009f Af=1 Gdsnoi=2.15 Nlev=3 Mfg=Linear_Systems)

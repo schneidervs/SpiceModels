@@ -1,0 +1,1 @@
+.model RB521SM-60 D(Is=0.1480E-6 N=1.0658 Rs=1.1128 Ikf=23.599 Xti=2 Eg=.57 Cjo=22.995E-12 M=.45637 Vj=.5015 Isr=2.6992E-6 Nr=1.1000 Bv=60 Trs1=0.0017 Iave=0.2 Vpk=60 mfg=Rohm type=Schottky)

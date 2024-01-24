@@ -1,0 +1,1 @@
+.model IPT015N10N5 VDMOS(Rg=1.4 Vto=3.8 Rd=500u Rs=600u Rb=400u Mtriode=1.6 Kp=480 ksubthres=100m Lambda=.07 Cgdmin=1p Cgdmax=4n A=.5 Cgs=12n Cjo=9n M=.4 Is=60p VJ=.5 N=1.1 mfg=Infineon Vds=100 Ron=1.3m Qg=169n)

@@ -1,0 +1,1 @@
+.model IRFH5104 VDMOS(Rg=1.4 Vto=3.8 Rd=0.01m Rs=0.10m Rb=1.2m Kp=50 Cgdmax=3.4n Cgdmin=0.25n Cgs=1.5n Cjo=1.5n Is=13p ksubthres=.1 mfg=International_Rectifier Vds=40 Ron=2.9m Qg=53n RthetaJA=35 Imult=15 Iexponent=.3 R6=4.95m C6=.543u R5=83.8m C5=.00699u R4=460m C4=.936u R3=475m C3=8.69m R2=198m C2=1.67m R1=12m C1=254n)

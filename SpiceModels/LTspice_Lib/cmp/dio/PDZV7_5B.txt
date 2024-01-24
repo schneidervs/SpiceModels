@@ -1,0 +1,1 @@
+.model PDZV7_5B D(Is=3.4288E-15 N=1.0206 Rs=142.93E-3 Ikf=95.875E-3 Cjo=570.73E-12 M=0.3475 Vj=0.645 Isr=45.765E-12 Nr=3.7 Bv=7.95 Ibv=0.04 Nbv=0.35 Tbv1=540.00E-6 Nbvl=13.7 Ibvl=20.000E-6 Vpk=7.5 mfg=Rohm type=Zener)

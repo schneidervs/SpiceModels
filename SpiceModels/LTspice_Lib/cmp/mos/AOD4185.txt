@@ -1,0 +1,1 @@
+.model AOD4185 VDMOS(pchan Kp=33.6973 Rs=0.0001 Rd=0.0086 Rg=4.0 Vto=-2.07 mtriode=0.5 Ksubthres=0.0001 Lambda=0.04 Cgdmax=1307p Cgdmin=3p Cgs=2360p tt=55n A=0.13 Is=3.18E-11 N=1.147 Rb=0.003527 M=1.17 Vj=4.92 Cjo=600.0pF mfg=AOS Vds=-40 Ron=12.5m Qg=18.6n)

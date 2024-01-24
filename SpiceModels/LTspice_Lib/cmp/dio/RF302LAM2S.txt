@@ -1,0 +1,1 @@
+.model RF302LAM2S D(Is=187.46E-12 N=1.1615 Rs=5.9450E-3 Ikf=.10132 Eg=.89 Cjo=117.01E-12 M=.43604 Vj=.56258 Isr=117.16E-12 Nr=2.4000 Bv=200 Tt=27.363E-9 Tikf=0.010 Trs1=-0.002 Iave=3 Vpk=200 mfg=Rohm type=Silicon)

@@ -1,0 +1,1 @@
+.model KV1471 D(Is=.8p Rs=.8 Cjo=162p M=1.225 Vj=0.408 Vpk=18 mfg=Toko type=varactor)

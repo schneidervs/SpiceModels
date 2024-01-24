@@ -1,0 +1,1 @@
+.model RSR030N06 VDMOS(Rg=16.5 Vto=1.97 Rd=41.1m Rs=14m Rb=20m Kp=25.4 Lambda=0.03 Cgdmin=20p Cgdmax=270p A=0.5 Cgso=335p Is=10.701p N=1.1 Cjo=181.12p M=491.45m Vj=785.98m TT=29n ksubthres=.1 mfg=Rohm Vds=60 Ron=60m Qg=5n)

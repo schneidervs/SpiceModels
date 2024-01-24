@@ -1,0 +1,1 @@
+.model RB561VM-40 D(Is=3.4533E-6 N=1.0621 Rs=.30578 Ikf=.373 Xti=2 Eg=.6 Cjo=55.183E-12 M=.51741 Vj=.50356 Isr=4.1844E-6 Nr=1.2000 Bv=40 Trs1=6.8000E-3 Iave=0.5 Vpk=40 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model IPB027N10N3 VDMOS(Rg=1.9 Vto=3.63 Rd=1.33m Rs=657u Rb=887u Kp=469.2 Lambda=0.03 Cgdmin=55p Cgdmax=2.89n A=0.2 Cgs=11.05n Cjo=8.73n M=0.3 Is=518.3p VJ=0.9 N=1.19 TT=60n ksubthres=.1 mfg=Infineon Vds=100 Ron=2.7m Qg=155n RthetaJA=40 Imult=25 Iexponent=.4 R6=10.7m C6=.655u R5=13.9m C5=1.58m R4=73.5m C4=3.57m R3=254m C3=20.6m R2=175m C2=205m R1=3.67m C1=1.02m)

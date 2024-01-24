@@ -1,0 +1,1 @@
+.model SQ4917EY_Q2 VDMOS(pchan Kp=5.6533 Rs=0.0004 Rd=0.0175 Rg=2.5 Vto=-2.0 lambda=0.001 Cgdmax=1573p Cgdmin=100p Cgs=1416p TT=50n Is=3.64E-13 N=0.979 Rb=0.018971 M=0.34 VJ=0.1 Cjo=1813.91pF mfg=Vishay Vds=-60 Ron=0.048 Qg=43.4n)

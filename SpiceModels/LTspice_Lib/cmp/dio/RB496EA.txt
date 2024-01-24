@@ -1,0 +1,1 @@
+.model RB496EA D(Is=14.900E-6 N=1.0463 Rs=80.016E-3 Ikf=45.160 Xti=2 Eg=.6 Cjo=234.12E-12 M=.51188 Vj=.41541 Isr=9.0530E-6 Bv=20 Iave=1 Vpk=20 mfg=Rohm type=Schottky)

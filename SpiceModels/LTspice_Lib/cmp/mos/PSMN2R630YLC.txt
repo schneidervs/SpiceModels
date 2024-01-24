@@ -1,0 +1,1 @@
+.model PSMN2R630YLC VDMOS(Rg=0.977 Vto=1.93 Rd=1.79m Rs=100u Rb=853u Kp=332 Lambda=0 Cgdmin=150p Cgdmax=2190p A=0.6 Cgs=2.08n Cjo=2.56n M=0.74 Is=2.04p VJ=0.97 N=1 TT=3n Fc=0.5 Bv=30 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=2.8m Qg=18n)

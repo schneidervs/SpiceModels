@@ -1,0 +1,1 @@
+.model RFU01SM4S D(Is=294.35E-12 N=2.0137 Rs=1.5143 Ikf=11.685E-3 Eg=1.2000 Cjo=1.6000E-12 M=.1889 Vj=.55345 Isr=975.68E-12 Nr=4 Bv=450 Tt=33.182E-9 Tikf=0.018 Trs1=0.0005 Iave=0.1 Vpk=450 mfg=Rohm type=Silicon)

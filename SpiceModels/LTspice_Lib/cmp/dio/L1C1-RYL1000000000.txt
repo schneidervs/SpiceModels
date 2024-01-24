@@ -1,0 +1,1 @@
+.model L1C1-RYL1000000000 D(Is=1.0200E-28 Rs=0.1387 N=1.6585 Cj0=1.374n Iave=350m mfg=Lumileds type=LED)

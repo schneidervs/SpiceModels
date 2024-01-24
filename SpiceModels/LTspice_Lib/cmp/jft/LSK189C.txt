@@ -1,0 +1,1 @@
+.model LSK189C NJF(Beta=2.1m Betatce=-0.5 Vto=-2.78 Vtotc=-2.5m Lambda=6.3m Is=3f Xti=0 N=1 Rd=11 Rs=55 Cgd=3.19p Cgs=2.92p Fc=0.5 M=320m Pb=0.8 Kf=0.0009f Af=1 Gdsnoi=2.15 Nlev=3 Mfg=Linear_Systems)

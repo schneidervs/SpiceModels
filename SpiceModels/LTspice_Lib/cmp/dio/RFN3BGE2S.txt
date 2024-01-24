@@ -1,0 +1,1 @@
+.model RFN3BGE2S D(Is=124.78E-12 N=1.1947 Rs=15.799E-3 Ikf=97.168E-3 Eg=.95 Cjo=87.740E-12 M=.44455 Vj=.48313 Isr=202.78E-12 Nr=3 Bv=200 Tt=25.304E-9 Tikf=0.018 Trs1=0.0005 Iave=3 Vpk=200 mfg=Rohm type=Silicon)

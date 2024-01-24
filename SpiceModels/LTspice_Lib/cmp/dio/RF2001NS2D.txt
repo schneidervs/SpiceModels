@@ -1,0 +1,1 @@
+.model RF2001NS2D D(Is=181.15E-12 N=1.0508 Rs=5.7833E-3 Ikf=76.666E-3 Eg=.83 Cjo=368.36E-12 M=.4201 Vj=.48168 Isr=1.0416E-9 Nr=2.3000 Bv=200 Tt=36.748E-9 Tikf=0.01 Iave=20 Vpk=200 mfg=Rohm type=Silicon)

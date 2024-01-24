@@ -1,0 +1,1 @@
+.model RR2LAM4S D(Is=3.8764E-9 N=1.6768 Rs=18.623E-3 Ikf=167.33 Eg=1.0000 Cjo=49.317E-12 M=.37873 Vj=.50045 Isr=1.1159E-9 Nr=2.3000 Bv=400 Tt=6.3691E-6 Iave=2 Vpk=400 mfg=Rohm type=Silicon)

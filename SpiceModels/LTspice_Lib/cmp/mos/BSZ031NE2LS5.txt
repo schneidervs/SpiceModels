@@ -1,0 +1,1 @@
+.model BSZ031NE2LS5 VDMOS(Rg=.65 Vto=2.2 Rd=2.15m Rs=.19m Rb=1.9m Kp=200 Ksubthres=.1 Mtriode=2.4 Lambda=150m Cgdmin=20p Cgdmax=280p A=.5 Cgs=1n Cjo=1.2n M=.5 Is=40p VJ=1 N=1.12 mfg=Infineon Vds=25 Ron=2.6m Qg=13.6n)

@@ -1,0 +1,1 @@
+.model RB400VAM-50 D(Is=3.2860E-7 N=1.0823 Rs=.20214 Ikf=18.599 Xti=2 Eg=.65 Cjo=1.2000E-10 M=.49094 Vj=.50343 Isr=1.5190E-7 Nr=1.2000 Bv=50 Trs1=4.800E-3 Iave=0.5 Vpk=50 mfg=Rohm type=Schottky)

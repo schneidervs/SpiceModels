@@ -1,0 +1,1 @@
+.model RBR3MM60A D(Is=713.55E-9 N=1.0236 Rs=60.220E-3 Ikf=2.4062 Xti=2 Eg=.67 Cjo=244.71E-12 M=.5086 Vj=.50055 Isr=1.2130E-6 Nr=1.2500 Bv=60 Trs1=4.7600E-3 Iave=3 Vpk=60 mfg=Rohm type=Schottky)

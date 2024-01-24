@@ -1,0 +1,1 @@
+.model UMZ16N D(Is=178.09E-18 N=1.0167 Rs=.14365 Ikf=.19732 Cjo=16.047E-12 M=.35577 Vj=.80638 Isr=5.998E-12 Bv=16.180 Ibv=5.0000E-3 Tt=201.98E-9 Nbv=0.3 Tbv1=0.00078 Vpk=16 mfg=Rohm type=Zener)

@@ -1,0 +1,1 @@
+.model RB450UM D(Is=26.936E-9 N=1.0226 Rs=428.46E-3 Ikf=8.5570E-3 Xti=2 Eg=.74 Cjo=23.398E-12 M=.4428 Vj=.5014 Isr=71.000E-9 Nr=1.2500 Bv=45 Trs1=1.1340E-3 Iave=0.1 Vpk=45 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model UFZV11B D(Is=1.9658E-15 N=1.0512 Rs=0.3146 Ikf=19.589 Eg=1.13 Cjo=95.288E-12 M=0.3305 Vj=0.6673 Isr=2.4825E-12 Nr=3 Bv=10.856 Ibv=10.000E-3 Nbv=0.3 Tbv1=0.6600E-3 Nbvl=27.5 Ibvl=1.0000E-9 Trs1=0.001 Vpk=11 mfg=Rohm type=Zener)

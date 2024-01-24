@@ -1,0 +1,1 @@
+.model RBQ20T45ANZ D(Is=144.99E-9 N=0.8935 Rs=6.3683E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.735 Cjo=1.1205E-9 M=0.5055 Vj=0.5382 Isr=2.5971E-6 Nr=1.2038 Bv=45 Trs1=630.17E-6 Tikf=6.0881E-03 Iave=20 Vpk=45 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model IRFH5207 VDMOS(Rg=1.7 Vto=3.8 Rd=3.65m Rs=0.0m Rb=1.5m Kp=37 Cgdmax=1.95n Cgdmin=55p Cgs=1.55n Cjo=1.2n Is=13p ksubthres=.1 mfg=International_Rectifier Vds=75 Ron=8.0m Qg=39n RthetaJA=35 Imult=15 Iexponent=.3 R6=3.25m C6=.548u R5=98.6m C5=.00913u R4=420m C4=.953u R3=556m C3=8.06m R2=60m C2=3.78m R1=91.3m C1=265n)

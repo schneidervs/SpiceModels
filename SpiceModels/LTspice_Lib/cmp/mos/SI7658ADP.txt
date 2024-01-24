@@ -1,0 +1,1 @@
+.model SI7658ADP VDMOS(Kp=65 Rs=1u Rd=0.0001 Rg=0.8 Vto=1.2 lambda=0.01 Cgdmax=2428p Cgdmin=300p Cgs=4270p TT=48n Is=4.79E-11 N=1.148 Rb=0.000986 M=0.297 VJ=0.1 Cjo=2836.12pF mfg=Vishay Vds=30 Ron=0.0022 Qg=34n)

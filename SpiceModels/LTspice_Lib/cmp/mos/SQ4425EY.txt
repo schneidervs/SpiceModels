@@ -1,0 +1,1 @@
+.model SQ4425EY VDMOS(pchan Kp=25.6949 Rs=0.004 Rd=0.001 Rg=2.04 Vto=-2.0 lambda=0.01 Cgdmax=3969p Cgdmin=450p Cgs=2482p TT=78n Is=1.00E-15 N=0.77 Rb=0.005388 M=1.929 VJ=9.87 Cjo=1930.18pF mfg=Vishay Vds=-30 Ron=0.009 Qg=33.6n)

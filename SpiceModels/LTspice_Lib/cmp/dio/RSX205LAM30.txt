@@ -1,0 +1,1 @@
+.model RSX205LAM30 D(Is=18.434E-6 N=1.0515 Rs=41.436E-3 Ikf=1.7454 Xti=2 Eg=.57 Cjo=300.00E-12 M=.46281 Vj=.50598 Isr=10.580E-6 Nr=1.4000 Bv=30 Trs1=0.004 Iave=2 Vpk=30 mfg=Rohm type=Schottky)

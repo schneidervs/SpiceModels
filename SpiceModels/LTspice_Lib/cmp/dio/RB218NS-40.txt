@@ -1,0 +1,1 @@
+.model RB218NS-40 D(Is=35.837E-9 N=1.0526 Rs=11.321E-3 Ikf=4.3955 Xti=2 Eg=.81 Cjo=1.1923E-9 M=.51764 Vj=.62426 Isr=42.188E-9 Nr=1.2000 Bv=45 Trs1=-0.3000E-3 Tikf=-0.0060 Iave=20 Vpk=45 mfg=Rohm type=Schottky)

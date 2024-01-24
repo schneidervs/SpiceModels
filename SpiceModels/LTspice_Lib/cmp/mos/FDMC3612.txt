@@ -1,0 +1,1 @@
+.model FDMC3612 VDMOS(Rg=3 Rd=72.2m Rs=17m Vto=3.22 Kp=42 mtriode=1.2 lambda=.001 Cgdmax=600p Cgdmin=17p A=1.2 Cgs=639p Cjo=180p Vj=.5 M=.557 Is=1p Rb=20m ksubthres=.1 mfg=Fairchild Vds=100 Ron=92m Qg=14.4n)

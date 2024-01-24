@@ -1,0 +1,1 @@
+.model 2N4118 NJF(Beta=0.05258m Betatce=-0.5 Vto=-1.732 Vtotc=-2.5m Lambda=15m Is=5.261f Xti=3 Isr=51.03f Nr=2 Alpha=0.7979u N=1 Rd=1 Rs=1 Cgd=3.94p Cgs=4.93p Fc=0.5 Vk=90.45 M=435m Pb=1 Kf=76700f Af=1 Mfg=Linear_Systems)

@@ -1,0 +1,1 @@
+.model PSMN0R925YLC VDMOS(Rg=1.08 Vto=1.88 Rd=409u Rs=100u Rb=566u Kp=717.4 Lambda=0 Cgdmin=521p Cgdmax=6.496n A=0.6 Cgs=5.57n Cjo=6.0n M=0.68 Is=0 VJ=0.76 N=1 TT=3n Fc=0.5 Bv=25 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=25 Ron=0.99m Qg=51n)

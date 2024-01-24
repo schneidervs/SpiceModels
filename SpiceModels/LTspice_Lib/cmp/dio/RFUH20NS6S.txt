@@ -1,0 +1,1 @@
+.model RFUH20NS6S D(Is=21.421E-9 N=1.9253 Rs=19.231E-3 Ikf=.25578 Eg=1.0700 Cjo=315.00E-12 M=.4461 Vj=.51056 Isr=628.68E-12 Bv=600 Tt=30n Tikf=0.01 Iave=20 Vpk=600 mfg=Rohm type=Silicon)

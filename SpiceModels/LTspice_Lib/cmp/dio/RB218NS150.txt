@@ -1,0 +1,1 @@
+.model RB218NS150 D(Is=117.01E-9 N=1.2404 Rs=5.2684E-3 Ikf=.15455 Xti=2 Eg=.84 Cjo=756.00E-12 M=.50609 Vj=.55804 Isr=16.519E-9 Nr=1.3500 Bv=150 Tikf=15.000E-3 Trs1=-520.00E-6 Iave=20 Vpk=150 mfg=Rohm type=Schottky)

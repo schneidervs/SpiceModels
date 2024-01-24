@@ -1,0 +1,1 @@
+.model AOB66916L VDMOS(Kp=151.3055 RS=0.0 Rd=0.002 Rg=1.5 Vto=3.8 mtriode=.8 Ksubthres=.1 Lambda=0.079 Cgdmax=844p Cgdmin=11p Cgs=6151p tt=65n A=0.36 Is=7.82E-13 N=0.939 Rb=0.003233 M=0.975 Vj=30.74 Cjo=4180.0pF mfg=AOS Vds=100 Ron=2.95m Qg=78n)

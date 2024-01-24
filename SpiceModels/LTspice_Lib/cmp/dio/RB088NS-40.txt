@@ -1,0 +1,1 @@
+.model RB088NS-40 D(Is=22.253E-9 N=1.0534 Rs=23.921E-3 Ikf=3.4856 Xti=2 Eg=.81 Cjo=594.54E-12 M=.5062 Vj=.60005 Isr=19.859E-9 Nr=1.2000 Bv=45.000 Trs1=-0.1000E-3 Tikf=-0.0060 Iave=10 Vpk=45 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.MODEL LSK389B NJF(Beta=30E-3 Betatce=-0.5 Vto=-0.54 Lambda=0.02 IS=15f N=1 Rd=4.9 Rs=5.1 Cgd=20p Cgs=27p Fc=0.5 M=320m Pb=0.6  Mj=.3 Kf=0.004f Af=1.0 Gdsnoi=7 XTI=0 Nlev=3 mfg=Linear_Systems)

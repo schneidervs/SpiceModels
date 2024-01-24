@@ -1,0 +1,1 @@
+.model 3N163 VDMOS(pchan Vto=-3.0 Rd=10 Rs=100 Kp=4.0m Lambda=21m Cgdmin=0.2p Cgdmax=1.9p A=0.26 Cgs=1.9p  N=1.02 M=0.68 Cjo=3.5p Is=0.05p VJ=2.5 TT=24n ksubthres=150m mtriode=0.6 mfg=Linear_Systems Vds=40 Ron=400)

@@ -1,0 +1,1 @@
+.model PSMN2R030YLE VDMOS(Rg=0.567 Vto=2.16 Rd=644u Rs=100u Rb=389u Kp=156 Lambda=0 Cgdmin=437p Cgdmax=3.428n A=0.6 Cgs=4.24n Cjo=3.6n M=0.63 Is=0 VJ=0.72 N=1 TT=3n Fc=0.5 Bv=33 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=2.0m Qg=87n RthetaJA=50 Imult=50 Iexponent=.3 R6=17.3m C6=.106u R5=.951u C5=4.31m R4=119m C4=.113u R3=268m C3=12.3m R2=77.2m C2=.345u R1=116m C1=20.4n)

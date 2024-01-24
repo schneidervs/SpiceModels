@@ -1,0 +1,1 @@
+.model RB521SM-30 D(Is=1.0270E-6 N=1.0348 Rs=.36019 Ikf=25.157 Xti=2 Eg=.59 Cjo=33.631E-12 M=.485 Vj=.5095 Isr=3.3015E-6 Nr=1.3500 Bv=30 Trs1=0.0048 Iave=0.2 Vpk=30 mfg=Rohm type=Schottky)

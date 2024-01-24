@@ -1,0 +1,1 @@
+.model QS8K2 VDMOS(Rg=26 Vto=1.23 Rd=17.9m Rs=10m Rb=20.368m Kp=30.52 Lambda=50m Cgdmin=38p Cgdmax=330p A=0.9 Cgso=196p Is=81.889p N=1.225 Cjo=153.12p M=555.2m Vj=753.51m TT=20n ksubthres=.1 mfg=Rohm Vds=30 Ron=38m Qg=4.6n)

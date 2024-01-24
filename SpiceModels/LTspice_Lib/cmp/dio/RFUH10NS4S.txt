@@ -1,0 +1,1 @@
+.model RFUH10NS4S D(Is=15.309E-9 N=1.8022 Rs=12.779E-3 Ikf=.44057 Eg=.93 Cjo=150.30E-12 M=.46411 Vj=.51969 Isr=123.04E-12 Bv=430 Tt=31n Tikf=0.01 Iave=10 Vpk=430 mfg=Rohm type=Silicon)

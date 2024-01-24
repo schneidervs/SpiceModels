@@ -1,0 +1,1 @@
+.model RUF025N02 VDMOS(Rg=21 Vto=896.03m Rd=21m Rs=10m Rb=10.402m Kp=34.48 Lambda=50m Cgdmin=36p Cgdmax=350p A=1 Cgso=320p Is=5.7571n N=1.534 Cjo=60.12p M=154.03m Vj=763.95m TT=34n ksubthres=.1 mfg=Rohm Vds=20 Ron=39m Qg=5n)

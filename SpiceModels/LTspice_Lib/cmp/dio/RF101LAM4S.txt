@@ -1,0 +1,1 @@
+.model RF101LAM4S D(Is=164.94E-12 N=1.2044 Rs=74.363E-3 Ikf=5.8327E-3 Eg=.90 Cjo=40.341E-12 M=.4383 Vj=.50129 Isr=57.320E-12 Nr=2.7 Bv=400 Tt=47.2n Tikf=16.500E-3 Trs1=-0.9200E-3 Iave=1 Vpk=400 mfg=Rohm type=Silicon)

@@ -1,0 +1,1 @@
+.model RB168VAM-40 D(Is=2.3475E-9 N=1.0555 Rs=.11406 Ikf=.24882 Xti=2 Eg=.82 Cjo=101.94E-12 M=.49597 Vj=.55478 Isr=1.9864E-9 Nr=1.2000 Bv=40.000 Trs1=-1.000E-3 Tikf=-0.004 Iave=1 Vpk=40 mfg=Rohm type=Schottky)

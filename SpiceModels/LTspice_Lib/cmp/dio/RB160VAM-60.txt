@@ -1,0 +1,1 @@
+.model RB160VAM-60 D(Is=3.2570E-7 N=1.0906 Rs=.19688 Ikf=43.677 Xti=2 Eg=.50 Cjo=1.1400E-10 M=.47822 Vj=.50246 Isr=2.7581E-7 Nr=1.1000 Bv=60.000 Trs1=2.3900E-3 Iave=1 Vpk=60 mfg=Rohm type=Schottky)

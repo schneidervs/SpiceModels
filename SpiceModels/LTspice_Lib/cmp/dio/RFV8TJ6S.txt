@@ -1,0 +1,1 @@
+.model RFV8TJ6S D(Is=2.2857E-9 N=1.1940 Rs=.16677 Ikf=2.3516E-3 Eg=0.8100 Cjo=1.1000E-10 M=.41654 Vj=.50938 Isr=1.3946E-9 Nr=2.1000 Bv=600.00 Tt=3.2802E-8 Tikf=0.4000 Trs1=-5.0000E-3 Iave=8 Vpk=600 mfg=Rohm type=Silicon)

@@ -1,0 +1,1 @@
+.model BUK7Y4R440E VDMOS(Rg=1.83 Vto=4.1 Rd=2m Rs=100u Rb=1m Kp=160.7 Lambda=0 Cgdmin=236p Cgdmax=1.92n A=0.6 Cgs=1.8n Cjo=1.77n M=0.6 Is=0.5p VJ=0.5 N=1 TT=3n Fc=0.5 Bv=44 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=40 Ron=4.4m Qg=39n)

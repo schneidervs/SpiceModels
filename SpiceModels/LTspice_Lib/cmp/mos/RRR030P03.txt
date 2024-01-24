@@ -1,0 +1,1 @@
+.model RRR030P03 VDMOS(pchan Rg=51 Vto=-2.254 Rd=23.8m Rs=20m Rb=50m Kp=11.49 Lambda=50m Cgdmin=50p Cgdmax=180p A=0.6 Cgso=375p Is=41.481p N=1.106 Cjo=55.591p M=964.83m Vj=897.79m TT=16n ksubthres=.1 mfg=Rohm Vds=-30 Ron=55m Qg=5.2n)

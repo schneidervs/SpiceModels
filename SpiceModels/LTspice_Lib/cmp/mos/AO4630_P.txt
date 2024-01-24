@@ -1,0 +1,1 @@
+.model AO4630_P VDMOS(Kp=18.0859 Rs=0.0092 Rd=0.0244 Rg=8.0 Vto=-1.1 mtriode=.8 Ksubthres=.1 Lambda=0.024 Cgdmax=465p Cgdmin=46p Cgs=640p tt=22n A=0.78 Is=7.98E-10 N=1.291 Rb=0.01468 M=0.621 Vj=1.41 Cjo=92.0pF PCHAN mfg=AOS Vds=-30 Ron=40m Qg=7n)

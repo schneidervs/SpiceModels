@@ -1,0 +1,1 @@
+.model UFZV10B D(Is=747.16E-18 N=1.0192 Rs=0.2987 Ikf=0.3482 Eg=1.13 Cjo=111.03E-12 M=0.3293 Vj=0.6605 Isr=4.4756E-12 Nr=3.3 Bv=9.77 Ibv=20.000E-3 Nbv=0.34 Tbv1=0.5600E-3 Nbvl=16.4 Ibvl=40.000E-9 Trs1=0.001 Vpk=10 mfg=Rohm type=Zener)

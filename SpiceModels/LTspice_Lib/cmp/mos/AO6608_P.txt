@@ -1,0 +1,1 @@
+.model AO6608_P VDMOS(Kp=13 Rs=0.0137 Rd=0.032 Rg=15.0 Vto=-0.69 mtriode=.8 Ksubthres=.01 Lambda=0.03 Cgdmax=632p Cgdmin=28p Cgs=460p tt=23n A=1.07 Is=7.52E-09 N=1.36 Rb=0.029116 M=0.484 Vj=0.48 Cjo=89.0pF PCHAN mfg=AOS Vds=-20 Ron=63m Qg=6n)

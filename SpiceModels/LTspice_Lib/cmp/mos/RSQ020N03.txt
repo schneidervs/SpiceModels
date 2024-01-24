@@ -1,0 +1,1 @@
+.model RSQ020N03 VDMOS(Rg=40 Vto=1.909 Rd=13.6m Rs=60m Rb=35m Kp=5.553 Lambda=40m Cgdmin=13p Cgdmax=105p A=0.7 Cgso=88p Is=3.4693p N=1.162 Cjo=37.073p M=296.85m Vj=961.11m TT=22n mfg=Rohm Vds=30 Ron=96m Qg=2.2n)

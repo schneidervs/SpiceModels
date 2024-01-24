@@ -1,0 +1,1 @@
+.model RB168MM-40 D(Is=558.18E-12 N=.87492 Rs=23.087E-3 Ikf=32.716E-3 Xti=2 Eg=.75 Cjo=246.00E-12 M=.53886 Vj=.75619 Isr=4.8627E-9 Nr=1.200 Bv=40 Trs1=-2.0000E-3 Iave=1 Vpk=40 mfg=Rohm type=Schottky)

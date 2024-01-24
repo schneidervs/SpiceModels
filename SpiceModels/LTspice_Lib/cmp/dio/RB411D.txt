@@ -1,0 +1,1 @@
+.model RB411D D(Is=1.3982E-6 N=.86378 Rs=30.244E-3 Ikf=4.7477E-3 Xti=2 Eg=.62 Cjo=71.872E-12 M=.44153 Vj=.52973 Isr=1.2606E-6 Bv=40 Iave=0.5 Vpk=40 mfg=Rohm type=Schottky)

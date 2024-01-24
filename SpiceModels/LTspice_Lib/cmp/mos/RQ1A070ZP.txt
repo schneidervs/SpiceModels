@@ -1,0 +1,1 @@
+.model RQ1A070ZP VDMOS(pchan Rg=13 Vto=-0.90995 Rd=1.92m Rs=4m Rb=35m Kp=131.9 Lambda=50m Cgdmin=600p Cgdmax=2.6n A=0.5 Cgso=6622p Is=5.1096n N=1.217 Cjo=68.219p M=173.77m Vj=914.58m TT=38n ksubthres=.1 mfg=Rohm Vds=-12 Ron=8.0m Qg=58n)

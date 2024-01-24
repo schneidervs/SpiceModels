@@ -1,0 +1,1 @@
+.model RFN20NS4S D(Is=7.7008E-9 N=1.6045 Rs=8.6697E-3 Ikf=.34432 Eg=1 Cjo=268.00E-12 M=.45951 Vj=.51295 Isr=107.76E-12 Bv=430 Tt=43n Tikf=0.01 Iave=20 Vpk=430 mfg=Rohm type=Silicon)

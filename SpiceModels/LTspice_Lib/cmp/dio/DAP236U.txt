@@ -1,0 +1,1 @@
+.model DAP236U D(Is=12.772E-15 N=1.1702 Rs=27.753E-3 Ikf=.17303 Cjo=1.6448E-12 M=.27305 Vj=.73153 Isr=4.5345E-12 Bv=35 Tt=65.000E-9 Iave=0.1 Vpk=35 mfg=Rohm type=Silicon)

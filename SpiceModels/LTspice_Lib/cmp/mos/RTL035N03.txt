@@ -1,0 +1,1 @@
+.model RTL035N03 VDMOS(Rg=24 Vto=1.232 Rd=20.6m Rs=10m Rb=30m Kp=32.68 Lambda=50m Cgdmin=37p Cgdmax=350p A=0.8 Cgso=295p Is=33.404n N=1.655 Cjo=40.083p M=166.33m Vj=7.937 TT=19n ksubthres=.1 mfg=Rohm Vds=30 Ron=40m Qg=4.6n)

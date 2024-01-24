@@ -1,0 +1,1 @@
+.model RBR30NS30A D(Is=1.0295E-6 N=0.8823 Rs=5.6655E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.677 Cjo=1.6400E-9 M=0.5437 Vj=0.7373 Isr=9.6750E-6 Nr=1.2170 Bv=30 Trs1=-16.504E-6 Iave=30 Vpk=30 mfg=Rohm type=Schottky)

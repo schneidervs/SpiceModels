@@ -1,0 +1,1 @@
+.model RFN10NS4S D(Is=3.6343E-9 N=1.5946 Rs=11.302E-3 Ikf=.19239 Eg=1 Cjo=156.20E-12 M=.46967 Vj=.55634 Isr=289.64E-12 Bv=430 Tt=39n Tikf=0.01 Iave=10 Vpk=430 mfg=Rohm type=Silicon)

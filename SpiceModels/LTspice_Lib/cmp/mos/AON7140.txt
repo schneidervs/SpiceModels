@@ -1,0 +1,1 @@
+.model AON7140 VDMOS(Rs=675u Rd=675u Rg=850m Vto=2.59 Kp=229 lambda=164m mtriode=1.7 ksubthres=.1 Is=6.85p N=1.02515 Rb=775u Eg=1.11 XTI=2.00274 vtotc=-3m trd1=8m trs1=8m Cgs=3.3n Cgdmin=10p Cgdmax=800p Cjo=2.8n m=.5 tt=2.1n mfg=Alpha_&_Omega Vds=40 Ron=2.7m Qg=18n)

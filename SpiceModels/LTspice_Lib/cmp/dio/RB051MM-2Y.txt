@@ -1,0 +1,1 @@
+.model RB051MM-2Y D(Is=1.0067E-5 N=1.4545 Rs=2.5236E-2 Ikf=1.0487 Xti=2 Eg=.55 Cjo=4.5400E-10 M=.55987 Vj=.50374 Isr=4.1794E-5 Nr=1.0000 Bv=20.000 Trs1=3.2900E-3 Iave=3 Vpk=20 mfg=Rohm type=Schottky)

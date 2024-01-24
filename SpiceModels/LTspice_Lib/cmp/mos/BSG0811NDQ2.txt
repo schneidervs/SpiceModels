@@ -1,0 +1,1 @@
+.model BSG0811NDQ2 VDMOS(Rg=.65 Vto=2.2 Rd=.43m Rs=.175m Rb=.25m Kp=720 Ksubthres=.1 Mtriode=1.7 Lambda=.3 Cgdmin=110p Cgdmax=850p A=.5 Cgs=2.9n Cjo=4.5n M=.5 Is=100p VJ=1 N=1.12 mfg=Infineon Vds=25 Ron=.7m Qg=20n)

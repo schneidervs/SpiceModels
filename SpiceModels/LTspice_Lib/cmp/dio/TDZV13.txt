@@ -1,0 +1,1 @@
+.model TDZV13 D(Is=617.20E-18 N=.95849 Rs=.32843 Ikf=.1516 Cjo=242.64E-12 M=.33675 Vj=.66519 Isr=1.639E-12 Nr=4.5000 Bv=13.005 Ibv=10.000E-3 Nbv=0.18 Tbv1=0.0007 Nbvl=23.0000 Ibvl=0.500E-9 Vpk=13 mfg=Rohm type=Zener)

@@ -1,0 +1,1 @@
+.model RF2001NS3D D(Is=2.7996E-9 N=1.4787 Rs=18.383E-3 Ikf=.28843 Eg=1.1000 Cjo=207.00E-12 M=.42954 Vj=.53732 Isr=1.3513E-9 Nr=3.2000 Bv=350 Tt=33n Tikf=0.01 Iave=20 Vpk=350 mfg=Rohm type=Silicon)

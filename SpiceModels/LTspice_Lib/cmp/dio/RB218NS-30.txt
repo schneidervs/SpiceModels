@@ -1,0 +1,1 @@
+.model RB218NS-30 D(Is=28.153E-9 N=1.0338 Rs=7.5203E-3 Ikf=11.195 Xti=2 Eg=.81 Cjo=1.4466E-9 M=.50449 Vj=.59736 Isr=58.557E-9 Nr=1.2300 Bv=35 Trs1=0.5000E-3 Tikf=-0.0060 Iave=20 Vpk=35 mfg=Rohm type=Schottky)

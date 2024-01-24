@@ -1,0 +1,1 @@
+.model RTF025N03 VDMOS(Rg=25 Vto=1.196 Rd=24.5m Rs=10m Rb=40m Kp=22.52 Lambda=50m Cgdmin=27p Cgdmax=280p A=1 Cgso=230p Is=3.6301p N=1.075 Cjo=40.519p M=119.35m Vj=876.4m TT=23n ksubthres=.1 mfg=Rohm Vds=30 Ron=48m Qg=3.7n)

@@ -1,0 +1,1 @@
+.model AON6264E VDMOS(Vto=2.3 Kp=92 Lambda=52m mtriode=1.6 BV=72 IBV=250u Rd=0.1m Rs=6.7m Rg=1.2 Rb=4.5m Cjo=688p Cgs=1041p Cgdmin=0p Cgdmax=312p A=0.25 Is=1.9p N=1.021 Vj=13.14 M=793m tt=27n Eg=1.07 Tnom=25 Bex=-2.03 vtotc=-3.3m Trs1=5.1m Trs2=11u Trb1=0.8m Vds=60 Ron=7.7m Qg=7n mfg=AOS)

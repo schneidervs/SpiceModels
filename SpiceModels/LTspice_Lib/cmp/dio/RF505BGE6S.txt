@@ -1,0 +1,1 @@
+.model RF505BGE6S D(Is=14.418E-9 N=1.8209 Rs=24.737E-3 Ikf=.13898 Eg=1.0200 Cjo=150.00E-12 M=.54835 Vj=.70933 Isr=18.025E-12 Bv=600 Tt=49n Tikf=0.01 Iave=5 Vpk=600 mfg=Rohm type=Silicon)

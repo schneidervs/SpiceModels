@@ -1,0 +1,1 @@
+.model RJU003N03 VDMOS(Rg=130 Vto=1.301 Rd=309m Rs=200m Rb=160m Kp=1.093 Lambda=50m Cgdmin=3.5p Cgdmax=43p A=1.1 Cgso=19p Is=173.65f N=1.08 Cjo=10.735p M=314.2m Vj=1.928 TT=18n ksubthres=.1 mfg=Rohm Vds=30 Ron=800m Qg=1n)

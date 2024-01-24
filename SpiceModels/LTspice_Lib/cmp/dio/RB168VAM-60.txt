@@ -1,0 +1,1 @@
+.model RB168VAM-60 D(Is=2.2661E-12 N=.6818 Rs=118.749E-3 Ikf=222.49E-6 Xti=2 Eg=.88 Cjo=75.000E-12 M=.44667 Vj=.50413 Isr=830.28E-12 Nr=1.2000 Bv=60.000 Trs1=1.2300E-3 Iave=1 Vpk=60 mfg=Rohm type=Schottky)

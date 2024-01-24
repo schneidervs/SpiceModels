@@ -1,0 +1,1 @@
+.model SQ4937EY_Q1 VDMOS(pchan Kp=3.2705 Rs=0.0176 Rd=0.001 Rg=7.0 Vto=-2.0 lambda=0.01 Cgdmax=462p Cgdmin=45p Cgs=328p TT=22n Is=4.73E-12 N=1.17 Rb=0.011019 M=0.398 VJ=0.1 Cjo=243.31pF mfg=Vishay Vds=-30 Ron=0.075 Qg=9.5n)

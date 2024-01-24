@@ -1,0 +1,1 @@
+.model RBQ20NS65A D(Is=488.73E-9 N=1.0234 Rs=14.501E-3 Ikf=7.4420 Xti=2 Eg=.68 Cjo=902.00E-12 M=.51546 Vj=.51212 Isr=394.91E-9 Nr=1.2000 Bv=65 Trs1=0.002 Iave=20 Vpk=65 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model RBLQ3LAM10 D(Is=207.69E-9 N=1.0236 Rs=31.806E-3 Ikf=1.7127 Xti=2.5 Eg=0.72 Cjo=375.93E-12 M=0.4725 Vj=0.5003 Isr=198.65E-9 Nr=1.2 Bv=100 Trs1=-0.0035 Tikf=-0.0075 Iave=3 Vpk=100 mfg=Rohm type=Schottky)

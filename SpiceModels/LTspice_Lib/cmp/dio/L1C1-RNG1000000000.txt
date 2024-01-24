@@ -1,0 +1,1 @@
+.model L1C1-RNG1000000000 D(Is=1.1978E-19 Rs=0.5555 N=1.6988 Cj0=241p Iave=350m mfg=Lumileds type=LED)

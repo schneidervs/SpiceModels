@@ -1,0 +1,1 @@
+.model PSMN2R430YLD VDMOS(Rg=0.781 Vto=2.25 Rd=1.4m Rs=100u Rb=800u Kp=452 Lambda=0 Cgdmin=151p Cgdmax=1.47n A=0.6 Cgs=1.67n Cjo=3.19n M=0.36 Is=1.37p VJ=0.64 N=1 TT=3n Fc=0.5 Bv=33 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=2.4m Qg=16.2n)

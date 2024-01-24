@@ -1,0 +1,1 @@
+.model ZTX849 ako:FZT849 NPN(Vceo=30 Icrating=7 mfg=Zetex)

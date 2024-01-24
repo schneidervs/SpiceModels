@@ -1,0 +1,1 @@
+.model RBE2EA20A D(Is=19.140E-6 N=1.0202 Rs=43.167E-3 Ikf=1.4658 Xti=2 Eg=.4 Cjo=190.22E-12 M=.52012 Vj=.50782 Isr=41.026E-6 Nr=1.3000 Bv=30 Trs1=0.0035 Iave=2 Vpk=30 mfg=Rohm type=Schottky)

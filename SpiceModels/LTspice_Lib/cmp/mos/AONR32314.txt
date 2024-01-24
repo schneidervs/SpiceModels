@@ -1,0 +1,1 @@
+.model AONR32314 VDMOS(Rs=2.88m Rd=2.88m Rg=2 Vto=1.89 Kp=32.1 lambda=127m mtriode=3.1 ksubthres=.1 Is=3.64p N=0.88288 Rb=874u Eg=1.11 XTI=0.304817 trb1=7.52m vtotc=-2.4m trd1=5.2m trs1=5.2m Cgs=1.5n Cgdmin=50p Cgdmax=600p Cjo=200p m=.4 tt=.53n mfg=Alpha_&_Omega Vds=30 Ron=9.8m Qg=10n)

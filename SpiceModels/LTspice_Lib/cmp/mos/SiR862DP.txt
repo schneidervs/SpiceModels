@@ -1,0 +1,1 @@
+.model SiR862DP VDMOS(Kp=140 Rs=1u Rd=0.0006 Rg=1.1 Vto=1.85  lambda=0.001 Cgdmax=2268p Cgdmin=300p Cgs=3156p TT=48n Is=4.32E-12 N=1.004 Rb=0.001336 M=0.337 VJ=0.18 Cjo=2033.8pF mfg=Vishay Vds=25 Ron=0.0028 Qg=28.4n)

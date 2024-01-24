@@ -1,0 +1,1 @@
+.model RB058LAM-60 D(Is=7.4904E-09 N=1.0303 Rs=15.466E-03 Ikf=761.61E-03 Xti=2.0 Eg=0.863 Cjo=669.50E-12 M=0.5104 Vj=0.5367 Isr=12.327E-09 Nr=1.1771 Bv=60 Trs1=-1.3680E-03 Iave=3 Vpk=60 mfg=Rohm type=Schottky)

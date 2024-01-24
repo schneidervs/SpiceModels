@@ -1,0 +1,1 @@
+.model SQJ422EP VDMOS(Kp=46.5437 Rs=1u Rd=0.0001 Rg=0.63 Vto=2.16 lambda=0.001 Cgdmax=1868p Cgdmin=150p Cgs=3507p TT=42n Is=4.61E-12 N=1.008 Rb=0.001001 M=0.571 VJ=1.44 Cjo=1605.93pF mfg=Vishay Vds=40 Ron=0.0034 Qg=67n)

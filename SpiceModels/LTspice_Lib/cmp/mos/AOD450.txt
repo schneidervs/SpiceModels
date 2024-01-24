@@ -1,0 +1,1 @@
+.model AOD450 VDMOS(Kp=3 Rs=0.2282 Rd=0.1743 Rg=5.5 Vto=5.65 Lambda=0.15 mtriode=.3 Ksubthres=.01 Cgdmax=159p Cgdmin=7p Cgs=208p tt=85n A=10.53 Is=9.05E-11 N=1.316 Rb=0.01352 M=0.317 Vj=0.1 Cjo=200.0pF mfg=AOS Vds=200 Ron=550m Qg=0.92n)

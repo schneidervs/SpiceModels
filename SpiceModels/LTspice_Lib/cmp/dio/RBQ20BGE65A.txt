@@ -1,0 +1,1 @@
+.model RBQ20BGE65A D(Is=180.14E-9 N=0.8874 Rs=8.4316E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.731 Cjo=1.1700E-9 M=0.5233 Vj=0.5931 Isr=3.0614E-6 Nr=1.1853 Bv=65 Trs1=-872.80E-6 Iave=20 Vpk=65 mfg=Rohm type=Schottky)

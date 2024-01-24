@@ -1,0 +1,1 @@
+.model RSS095N05 VDMOS(Rg=8.5 Vto=2.362 Rd=4.75m Rs=5m Rb=9m Kp=113.3 Lambda=50m Cgdmin=110p Cgdmax=1n A=0.4 Cgso=1620p Is=1.6143p N=968.71m Cjo=503.23p M=329.8m Vj=648.97m TT=33n mfg=Rohm Vds=45 Ron=11m Qg=18.9n)

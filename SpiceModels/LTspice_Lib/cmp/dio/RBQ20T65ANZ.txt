@@ -1,0 +1,1 @@
+.model RBQ20T65ANZ D(Is=156.20E-9 N=0.9080 Rs=10.707E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.733 Cjo=887.05E-12 M=0.4974 Vj=0.5000 Isr=2.1280E-6 Nr=1.1932 Bv=65 Trs1=-283.14E-6 Iave=20 Vpk=65 mfg=Rohm type=Schottky)

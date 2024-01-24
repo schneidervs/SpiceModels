@@ -1,0 +1,1 @@
+.model RF04UA2D D(Is=4.0404E-12 N=1.1718 Rs=.13276 Ikf=15.291E-3 Eg=1.0100 Cjo=10.245E-12 M=.49346 Vj=.85916 Isr=140.45E-12 Nr=3 Bv=200 Tt=24.8n Tikf=0.01 Iave=0.4 Vpk=200 mfg=Rohm type=Silicon)

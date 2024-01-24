@@ -1,0 +1,1 @@
+.model PSMN1R940PL VDMOS(Rg=0.741 Vto=2.32 Rd=626u Rs=100u Rb=159u Kp=1038 Lambda=0 Cgdmin=687p Cgdmax=8004p A=0.6 Cgs=10.5n Cjo=6.03n M=0.59 Is=4.9p VJ=0.52 N=1 TT=3n Fc=0.5 Bv=44 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=40 Ron=1.7m Qg=120n)

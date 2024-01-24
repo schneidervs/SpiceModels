@@ -1,0 +1,1 @@
+.model IXFB300N10P VDMOS(mtriode=2.5 Rg=1 vto=5.2 ksubthres=100m Rd=1.8m Rs=1.5m Rb=1.6m Kp=90 Lambda=70m Cgdmin=100p Cgdmax=8.5n A=.25 Cgs=15n Cjo=40n M=.5 VJ=0.7 Is=100p TT=0 mfg=IXYS Vds=100 Ron=5.5m Qg=279n)

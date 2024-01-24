@@ -1,0 +1,1 @@
+.model UMZ6_8EN D(Is=303.96E-18 N=1.0270 Rs=.66334 Ikf=.14472 Cjo=19.068E-12 M=.32719 Vj=.80786 Isr=10.695E-12 Bv=6.9450 Ibv=4.9900E-3 Tt=33.182E-9 Nbv=0.3 Tbv1=0.00045 Nbvl=1 Ibvl=1.0000E-5 Vpk=6.8 mfg=Rohm type=Zener)

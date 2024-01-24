@@ -1,0 +1,1 @@
+.model VS-E5PX3006 D(Is=200.00E-6 N=3.5790 Rs=3.1860E-3 Ikf=.72534 Cjo=407.26E-12 M=.40937 Vj=.3905 Isr=10.010E-21 Nr=4.9950 Bv=711.72 Ibv=25.865E-3 tt=18.189E-9 Vp=0.13  Xti=11 Tikf=0.06 Trs1=0.0002 Iave=30 Vpk=600 mfg=Vishay type=FastRecovery)

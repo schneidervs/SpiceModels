@@ -1,0 +1,1 @@
+.model SP8K24 VDMOS(Rg=10 Vto=2.252 Rd=900u Rs=15m Rb=18m Kp=60.15 Lambda=50m Cgdmin=100p Cgdmax=900p A=0.5 Cgso=1230p Is=1.9634p N=968.25m Cjo=363.4p M=357.27m Vj=569.65m TT=28n mfg=Rohm Vds=45 Ron=18m Qg=15.4n)

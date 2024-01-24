@@ -1,0 +1,1 @@
+.model RB425D D(Is=0.8102E-6 N=1.0537 Rs=1.1284 Ikf=24.487 Xti=2 Eg=.58 Cjo=23.253E-12 M=.430 Vj=.5012 Isr=1.6012E-6 Nr=1.3000 Bv=40 Trs1=0.00544 Iave=0.1 Vpk=40 mfg=Rohm type=Schottky)

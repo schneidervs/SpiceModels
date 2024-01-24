@@ -1,0 +1,1 @@
+.model RB228NS-60 D(Is=31.667E-9 N=1.0244 Rs=8.7423E-3 Ikf=1.0498 Xti=2 Eg=.81 Cjo=1.4615E-9 M=.51699 Vj=.57407 Isr=44.287E-9 Nr=1.2000 Bv=60 Trs1=-0.0010 Tikf=-0.0040 Iave=30 Vpk=60 mfg=Rohm type=Schottky)

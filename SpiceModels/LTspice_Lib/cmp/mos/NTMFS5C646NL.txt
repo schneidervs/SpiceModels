@@ -1,0 +1,1 @@
+.model NTMFS5C646NL VDMOS(Rg=.65 Vto=2.12 Rd=1.66m Rs=1.500u Rb=2m Kp=140 Ksubthres=.1 Mtriode=1.7 Theta=.38 Lambda=.05 Cgdmin=.1p Cgdmax=750p A=.2 Cgs=2.15n Cjo=2.4n M=.5 Is=5p VJ=1.5 N=1 mfg=Onsemi Vds=60 Ron=3.8m Qg=33.7n)

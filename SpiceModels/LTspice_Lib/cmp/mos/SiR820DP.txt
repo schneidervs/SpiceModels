@@ -1,0 +1,1 @@
+.model SiR820DP VDMOS(Kp=34 Rs=1u Rd=0.0001 Rg=0.65 Vto=2.28 lambda=0.08 Cgdmax=1169p Cgdmin=220p Cgs=2405p TT=22n Is=3.16E-12 N=0.988 Rb=0.002929 M=0.406 VJ=0.1 Cjo=999.69pF mfg=Vishay Vds=30 Ron=0.003 Qg=28.6n)

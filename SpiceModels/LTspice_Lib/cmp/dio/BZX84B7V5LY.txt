@@ -1,0 +1,1 @@
+.model BZX84B7V5LY D(Is=914.56E-18 N=1.0495 Rs=0.2096 Ikf=17.513 Eg=1.09 Cjo=32.475E-12 M=0.3247 Vj=0.5185 Isr=26.400E-12 Nr=4.8 Bv=7.485 Ibv=5.0000E-3 Nbv=0.3 Tbv1=0.4900E-3 Nbvl=12 Ibvl=3.0000E-6 Vpk=7.5 mfg=Rohm type=Zener)

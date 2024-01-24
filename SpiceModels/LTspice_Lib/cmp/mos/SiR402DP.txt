@@ -1,0 +1,1 @@
+.model SiR402DP VDMOS(Kp=27.6813 Rs=1u Rd=0.0001 Rg=1.2 Vto=2.27 lambda=0.001 Cgdmax=1018p Cgdmin=100p Cgs=1460p TT=36n Is=2.21E-10 N=1.216 Rb=0.001063 M=0.298 VJ=0.1 Cjo=1016.67pF mfg=Vishay Vds=30 Ron=0.006 Qg=12n)

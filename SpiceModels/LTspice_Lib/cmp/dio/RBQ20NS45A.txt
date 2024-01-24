@@ -1,0 +1,1 @@
+.model RBQ20NS45A D(Is=508.52E-9 N=1.0202 Rs=8.1422E-3 Ikf=7.4665 Xti=2 Eg=.69 Cjo=1.1420E-9 M=.51286 Vj=.51666 Isr=528.44E-9 Nr=1.2000 Bv=45 Trs1=0.003 Iave=20 Vpk=45 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model RSR025P03 VDMOS(pchan Rg=34 Vto=-2.1220 Rd=46.3m Rs=10m Rb=90.131m Kp=9.2 Lambda=0.05 Cgdmin=40p Cgdmax=230p A=0.5 Cgso=395p Is=142.28p N=1.334 Cjo=110.02p M=384.3m Vj=774.53m TT=20n ksubthres=.1 mfg=Rohm Vds=-30 Ron=70m Qg=5.4n)

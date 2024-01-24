@@ -1,0 +1,1 @@
+.model RFUH25NS3S D(Is=6.6726E-9 N=1.5628 Rs=8.4063E-3 Ikf=.42612 Eg=1 Cjo=386.30E-12 M=.43719 Vj=.51591 Isr=885.54E-12 Nr=1.9000 Bv=350 Tt=27n Tikf=0.01 Iave=20 Vpk=350 mfg=Rohm type=Silicon)

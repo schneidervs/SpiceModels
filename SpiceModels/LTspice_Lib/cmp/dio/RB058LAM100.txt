@@ -1,0 +1,1 @@
+.model RB058LAM100 D(Is=14.177E-9 N=1.1055 Rs=19.481E-3 Ikf=65.966E-3 Xti=2.0 Eg=0.868 Cjo=385.43E-12 M=0.5128 Vj=0.5658 Isr=4.5921E-9 Nr=1.1798 Bv=100 Trs1=-4.2000E-3 Tikf=7.0186E-03 Iave=3 Vpk=100 mfg=Rohm type=Schottky)

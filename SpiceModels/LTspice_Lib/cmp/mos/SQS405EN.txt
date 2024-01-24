@@ -1,0 +1,1 @@
+.model SQS405EN VDMOS(pchan Kp=45.4201 Rs=0.0001 Rd=0.0077 Rg=2.37 Vto=-0.92 lambda=0.01 Cgdmax=4064p Cgdmin=400p Cgs=1500p TT=85n Is=1.94E-08 N=0.998 Rb=0.011799 M=0.37 VJ=0.1 Cjo=102.3pF mfg=Vishay Vds=-12 Ron=0.02 Qg=49.8n)

@@ -1,0 +1,1 @@
+.model RB168LAM150 D(Is=10.853E-9 N=1.1579 Rs=62.25E-3 Ikf=20.220E-3 Xti=2.0 Eg=0.848 Cjo=100.08E-12 M=0.4796 Vj=0.5000 Isr=6.0977E-9 Nr=1.2935 Bv=150 Trs1=-2.8000E-3 Iave=1 Vpk=150 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model IRFH5300 VDMOS(Rg=1.3 Vto=2.35 Rd=0.52m Rs=0.0m Rb=2.18m Kp=225 Cgdmax=5.0n Cgdmin=0.001n Cgs=6.0n Cjo=2.5n Is=400p ksubthres=.1 mfg=International_Rectifier Vds=30 Ron=1.1m Qg=120n RthetaJA=35 Imult=15 Iexponent=.3 R6=4.47m C6=.994u R5=11.6m C5=.105u R4=298m C4=1.21m R3=164m C3=1.05m R2=42.3m C2=29.2n R1=9.03m C1=992p)

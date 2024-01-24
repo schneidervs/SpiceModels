@@ -1,0 +1,1 @@
+.model BSC015NE2LS5I VDMOS(Rg=.65 Vto=2.12 Rd=700u Rs=90u Rb=2m Kp=400 Ksubthres=.1 Mtriode=1.6 Theta=.2 Lambda=.08 Cgdmin=20p Cgdmax=350p A=.3 Cgs=1.8n Cjo=2.8n M=.5 Is=400n VJ=.8 N=1 mfg=Infineon Vds=25 Ron=1.5m Qg=10.5n)

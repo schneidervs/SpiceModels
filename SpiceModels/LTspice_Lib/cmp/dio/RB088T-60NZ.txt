@@ -1,0 +1,1 @@
+.model RB088T-60NZ D(Is=16.654E-9 N=1.0360 Rs=12.815E-3 Ikf=46.616E-3 Xti=2 Eg=.83 Cjo=470.00E-12 M=.47428 Vj=.50213 Isr=19.593E-9 Nr=1.3000 Bv=60.000 Trs1=220.0E-6 Iave=10 Vpk=60 mfg=Rohm type=Schottky)

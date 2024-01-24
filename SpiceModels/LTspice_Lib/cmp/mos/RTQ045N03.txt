@@ -1,0 +1,1 @@
+.model RTQ045N03 VDMOS(Rg=19 Vto=1.285 Rd=13.3m Rs=10m Rb=35m Kp=46.66 Lambda=50m Cgdmin=65p Cgdmax=630p A=0.8 Cgso=440p Is=97.124p N=1.21 Cjo=100.34p M=263.31m Vj=763.97m TT=18n ksubthres=.1 mfg=Rohm Vds=30 Ron=30m Qg=7.6n)

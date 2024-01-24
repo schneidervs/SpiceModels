@@ -1,0 +1,1 @@
+.model SP8K5 VDMOS(Rg=36 Vto=2.002 Rd=5m Rs=40m Rb=45m Kp=9.085 Lambda=20m Cgdmin=19p Cgdmax=125p A=0.5 Cgso=110p Is=20.338f N=932.81m Cjo=47.465p M=436.6m Vj=769.75m TT=18n ksubthres=.1 mfg=Rohm Vds=30 Ron=59m Qg=2.5n)

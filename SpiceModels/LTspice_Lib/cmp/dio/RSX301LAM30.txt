@@ -1,0 +1,1 @@
+.model RSX301LAM30 D(Is=23.878E-6 N=1.0952 Rs=16.9740E-3 Ikf=14.125E-3 Xti=2.0 Eg=0.565 Cjo=997.00E-12 M=0.5205 Vj=0.5 Isr=9.4581E-6 Nr=0.9203 Bv=30 Trs1=-0.2353E-3 Iave=3 Vpk=30 mfg=Rohm type=Schottky)

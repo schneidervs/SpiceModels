@@ -1,0 +1,1 @@
+.model J212 NJF(Beta=0.873 Betatce=-0.5 Vto=-5.029 Vtotc=-2.5m Lambda=16m Is=101.9f Xti=3 Isr=977.5f Nr=2 Alpha=13.92u N=1 Rd=1 Rs=1 Cgd=3.913p Cgs=3.496p Fc=0.5 Vk=88.13 M=345m Pb=1 Kf=33750f Af=1 Mfg=Linear_Systems)

@@ -1,0 +1,1 @@
+.model VS-E5PX6012 D(Is=800.00E-6 N=5.1114 Rs=6.0743E-3 Ikf=1.1158 Cjo=382.03E-12 M=.40954 Vj=.3905 Isr=10.010E-21 Nr=4.9950 Bv=1.3798E3 Ibv=25.866E-3 tt=43.586E-9 Vp=0.565 Xti=26 Tikf=0.072 Trs1=0.0001 Iave=60 Vpk=1200 mfg=Vishay type=FastRecovery)

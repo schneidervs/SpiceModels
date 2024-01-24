@@ -1,0 +1,1 @@
+.model PSMN7R6100BSE VDMOS(Rg=1 Mtriode=1.9 Vto=3.8 Theta=.132 Rd=3m Rs=1.1m Rb=1.2m Kp=65 Lambda=.02 Cgdmin=200p Cgdmax=4.5n A=.5 Cgs=6.6n Cjo=3n M=0.5 Is=2p VJ=0.25 ksubthres=.1 mfg=NXP Vds=100 Ron=6.5m Qg=128n RthetaJA=50 Imult=30 Iexponent=.4 R6=10.2m C6=.688u R5=17.5m C5=1.41m R4=75.9m C4=2.42m R3=317m C3=23.7m R2=86.3m C2=249m R1=88.3m C1=19.2m)

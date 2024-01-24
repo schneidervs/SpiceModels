@@ -1,0 +1,1 @@
+.model AOB66613L VDMOS(KP=110 Rs=0.1m Rd=1.42m Rg=0.9 Vto=4.08 mtriode=3.2 Ksubthres=116m VtoTc=-4.5m Bex=-0.8 Trd1=5.4m Trd2=15u Trb1=3.9m Lambda=0.076 Cgdmax=2848p Cgdmin=0p Cgs=5265p tt=43n A=0.74 Is=3.90E-12 N=1.016 Rb=0.001669 BV=70 IBV=250u M=0.841 Vj=8.82 Cjo=4648.0pF mfg=AOS Vds=60 Ron=2m Qg=78n)

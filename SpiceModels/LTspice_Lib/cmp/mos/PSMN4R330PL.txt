@@ -1,0 +1,1 @@
+.model PSMN4R330PL VDMOS(Rg=0.998 Vto=1.92 Rd=1.9m Rs=100u Rb=1.2m Kp=140 Lambda=0 Cgdmin=201p Cgdmax=2462p A=0.6 Cgs=2.57n Cjo=1.65n M=0.58 Is=1.57p VJ=0.56 N=1 TT=3n Fc=0.5 Bv=30 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=4.3m Qg=19n)

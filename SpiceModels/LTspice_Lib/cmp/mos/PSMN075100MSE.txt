@@ -1,0 +1,1 @@
+.model PSMN075100MSE VDMOS(Rg=1.65 Vto=3.5 Rd=39m Rs=10m Rb=6m Kp=6 Ksubthres=160m Mtriode=3.2 Lambda=10m Cgdmin=40p Cgdmax=550p A=.8 Cgs=700p Cjo=300p M=.5 Is=3.2e-13 VJ=100m N=1 mfg=NXP Vds=100 Ron=57m Qg=16.4n)

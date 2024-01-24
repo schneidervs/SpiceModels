@@ -1,0 +1,1 @@
+.model AOTL66401 VDMOS(Rs=245u Rd=245u Rg=2.8 Vto=2.41 Kp=174 lambda=168m mtriode=13.1 ksubthres=.1 Is=60.9p N=1.06198 Rb=535u Eg=1.11 XTI=0.602321 trb1=-2.62m vtotc=-2.5m trd1=4.5m trs1=4.5m Cgs=16n Cgdmin=10p Cgdmax=7n Cjo=13n m=.5 tt=8n mfg=Alpha_&_Omega Vds=40 Ron=700u Qg=100n)

@@ -1,0 +1,1 @@
+.model AOB66919L VDMOS(Rs=2.24m Rd=2.24m Rg=1.7 Vto=2.69 Kp=194 lambda=80m mtriode=1.48 ksubthres=.1 Is=4.17p N=1.03804 Rb=2.38m Eg=1.11 XTI=3.07815 trb1=1.72m vtotc=-2m trd1=9.5m trs1=9.5m Cgs=3.5n Cgdmin=10p Cgdmax=1.1n Cjo=1.9n m=.35 tt=10.7n mfg=Alpha_&_Omega Vds=100 Ron=6.4m Qg=22n)

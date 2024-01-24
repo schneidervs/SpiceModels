@@ -1,0 +1,1 @@
+.model RTF016N05 VDMOS(Rg=38 Vto=1.36 Rd=32.2m Rs=80m Rb=50m Kp=11.89 Lambda=50m Cgdmin=10p Cgdmax=105p A=0.9 Cgso=135p Is=8.3806p N=1.161 Cjo=76.422p M=420.76m Vj=755.63m TT=24n ksubthres=.1 mfg=Rohm Vds=45 Ron=140m Qg=2.3n)

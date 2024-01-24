@@ -1,0 +1,1 @@
+.model AONX36322_Q2 VDMOS(Rs=345u Rd=345u Rg=1.3 Vto=1.84 Kp=153 lambda=151m mtriode=5.35 ksubthres=.1 Is=6.67p N=1.03485 Rb=735u Eg=1.11 XTI=0.591751 vtotc=-2.5m trd1=7m trs1=7m Cgs=3.8n Cgdmin=50p Cgdmax=2n Cjo=3.3n m=.5 tt=2.1n mfg=Alpha_&_Omega Vds=30 Ron=1.15m Qg=30n)

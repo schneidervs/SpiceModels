@@ -1,0 +1,1 @@
+.model SQJ469EP VDMOS(Rg=3 Vto=-2.48 mtriode=1.6 Rd=18.3m Rs=1m Rb=7m Kp=50 lambda=.02 A=4 Cgdmax=5n Cgdmin=40p Cgs=4.4n Cjo=.4n Is=3p mfg=Siliconix ksubthres=.1 Vds=-80 Ron=21m Qg=101n pchan)

@@ -1,0 +1,1 @@
+.model SQ4949EY_Q1 VDMOS(pchan Kp=4.0012 Rs=0.0045 Rd=0.0001 Rg=8.0 Vto=-2.0 lambda=0.01 Cgdmax=1051p Cgdmin=100p Cgs=700p TT=40n Is=2.91E-12 N=1.082 Rb=0.008718 M=0.416 VJ=0.1 Cjo=371.21pF mfg=Vishay Vds=-30 Ron=0.035 Qg=19.5n)

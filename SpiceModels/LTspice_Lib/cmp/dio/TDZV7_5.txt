@@ -1,0 +1,1 @@
+.model TDZV7_5 D(Is=1.2167E-15 N=.99625 Rs=.2322 Ikf=45.171 Eg=1.1400 Cjo=508.59E-12 M=.3281 Vj=.55145 Isr=42.872E-12 Nr=3.4000 Bv=7.5600 Ibv=10.000E-3 Nbv=0.38 Tbv1=0.00051 Nbvl=15.000 Ibvl=15.000E-6 Vpk=7.5 mfg=Rohm type=Zener)

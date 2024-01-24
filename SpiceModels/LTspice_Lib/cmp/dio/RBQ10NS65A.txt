@@ -1,0 +1,1 @@
+.model RBQ10NS65A D(Is=180.97E-9 N=1.0227 Rs=29.998E-3 Ikf=1.3752 Trs1=0.004 Xti=2 Eg=.65 Cjo=403.00E-12 M=.52895 Vj=.60094 Isr=770.49E-9 Nr=1.2 Bv=65 Ibv=150.00E-6 Iave=10 Vpk=65 mfg=Rohm type=Schottky)

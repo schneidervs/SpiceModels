@@ -1,0 +1,1 @@
+.model RB095T-60NZ D(Is=914.84E-9 N=1.0166 Rs=40.724E-3 Ikf=1.4849 Xti=2 Eg=.69 Cjo=507.98E-12 M=.52 Vj=.42318 Isr=550.58E-9 Bv=60 Iave=6 Vpk=60 mfg=Rohm type=Schottky)

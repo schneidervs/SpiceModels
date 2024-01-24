@@ -1,0 +1,1 @@
+.model AOUS66416 VDMOS(Rs=1.17m Rd=1.17m Rg=2 Vto=2.72 Kp=256 lambda=115m mtriode=1.41 ksubthres=.1 Is=3p N=1.02482 Rb=1.6m Eg=1.11 XTI=3.71216 trb1=2.83m vtotc=-2.5m trd1=5.5m trs1=5.5m Cgs=2.2n Cgdmin=10p Cgdmax=750p Cjo=1.85n m=.51 tt=1.5n mfg=Alpha_&_Omega Vds=40 Ron=3.9m Qg=13.5n)

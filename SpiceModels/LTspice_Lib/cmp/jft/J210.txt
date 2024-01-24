@@ -1,0 +1,1 @@
+.model J210 NJF(Beta=2.222m Betatce=-0.5 Vto=-1.526 Vtotc=-2.5m Lambda=8.8m Is=101.9f Xti=3 Isr=977.5f Nr=2 Alpha=13.92u N=1 Rd=1 Rs=1 Cgd=3.913p Cgs=3.496p Fc=0.5 Vk=88.13 M=345m Pb=1 Kf=86240f Af=1 Mfg=Linear_Systems)

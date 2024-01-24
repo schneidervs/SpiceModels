@@ -1,0 +1,1 @@
+.model RF601BGE2D D(Is=85.433E-12 N=1.0869 Rs=9.7532E-3 Ikf=30.488E-3 Eg=.9 Cjo=99.780E-12 M=.41038 Vj=.43155 Isr=418.21E-12 Nr=3.2000 Bv=200 Tt=31.865E-9 Tikf=0.01 Iave=6 Vpk=200 mfg=Rohm type=Silicon)

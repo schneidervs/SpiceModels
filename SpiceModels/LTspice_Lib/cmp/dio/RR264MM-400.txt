@@ -1,0 +1,1 @@
+.model RR264MM-400 D(Is=1.5648E-9 N=1.7245 Rs=58.748E-3 Ikf=51.356 Eg=0.9600 Cjo=14.823E-12 M=.35638 Vj=.50461 Isr=1.4194E-9 Nr=3.2 Bv=400 Tt=6.9000E-6 Trs1=-0.0026 Iave=0.7 Vpk=400 mfg=Rohm type=Silicon)

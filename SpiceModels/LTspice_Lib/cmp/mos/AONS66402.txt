@@ -1,0 +1,1 @@
+.model AONS66402 VDMOS(Kp=130 Rs=0.0 Rd=0.0001 Rg=0.75 Vto=2.31 mtriode=1 Ksubthres=0.1 Lambda=0.12 Cgdmax=1595p Cgdmin=65p Cgs=5495p tt=30n A=3.0 Is=1.00E-15 N=0.743 Rb=0.005056 m=0.435 Vj=0.53 Cjo=4700.0pF mfg=AOS Vds=40 Ron=1.3m Qg=33n)

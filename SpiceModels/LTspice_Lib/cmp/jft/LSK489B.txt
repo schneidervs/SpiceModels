@@ -1,0 +1,1 @@
+.MODEL LSK489B NJF(Beta=19e-4 Betatce=-0.5 Vto=-2.68 Lambda=1E-3 IS=3E-15 N=1 Rd=75 Rs=65 CGD=3p Cgs=8p Fc=0.5 M=320m Pb=0.8  Mj=.3 Kf=0.00065f Af=1 Gdsnoi=2 XTI=0 Nlev=3 mfg=Linear_Systems)

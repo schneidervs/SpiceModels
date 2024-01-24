@@ -1,0 +1,1 @@
+.model IPB065N15N3 VDMOS(Rg=2.3 Vto=4.4 Rd=3.98m Rs=393u Rb=793u Kp=150 Lambda=0.02 Cgdmin=19p Cgdmax=0.82n A=0.5 Cgs=5.46n Cjo=8.18n M=0.4 Is=207.3p VJ=0.9 N=1.185 TT=100n ksubthres=.1 mfg=Infineon Vds=150 Ron=6.5m Qg=70n RthetaJA=62 Imult=50 Iexponent=.3 R6=7.42m C6=.842u R5=17.3m C5=1.18m R4=78.8m C4=3.05m R3=260m C3=20.2m R2=151m C2=190m R1=1.23m C1=.794u)

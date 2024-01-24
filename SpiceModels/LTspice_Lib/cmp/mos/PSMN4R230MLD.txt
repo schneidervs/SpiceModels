@@ -1,0 +1,1 @@
+.model PSMN4R230MLD VDMOS(Rg=0.476 Vto=2.15 Rd=2.6m Rs=100u Rb=1.2m Kp=269 Lambda=0 Cgdmin=86.5p Cgdmax=558p A=0.6 Cgs=1n Cjo=1.97n M=0.3 Is=0.4p VJ=0.62 N=1 TT=3n Fc=0.5 Bv=33 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=4.2m Qg=16n)

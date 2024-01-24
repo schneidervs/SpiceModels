@@ -1,0 +1,1 @@
+.model VS-E5TH0812 D(Is=50.000E-6 N=4.4303 Rs=24.377E-3 Ikf=.29781 Cjo=54.973E-12 M=.35718 Vj=.3905 Isr=10.010E-21 Nr=4.9950 Bv=1.4095E3 Ibv=25.870E-3 tt=46.645E-9 Vp=0.33 Xti=16 Tikf=0.032 Trs1=0.0005 Iave=8 Vpk=1200 mfg=Vishay type=FastRecovery)

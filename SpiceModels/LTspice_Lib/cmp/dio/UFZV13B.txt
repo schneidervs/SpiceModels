@@ -1,0 +1,1 @@
+.model UFZV13B D(Is=679.75E-18 N=1.0251 Rs=0.2126 Ikf=15.929 Eg=1.13 Cjo=90.000E-12 M=0.3268 Vj=0.5396 Isr=4.6425E-12 Nr=2.9 Bv=13.01 Ibv=10.000E-3 Nbv=0.3 Tbv1=0.6800E-3 Nbvl=31.1 Ibvl=1.0000E-9 Vpk=13 mfg=Rohm type=Zener)

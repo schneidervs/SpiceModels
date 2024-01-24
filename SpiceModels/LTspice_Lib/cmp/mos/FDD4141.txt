@@ -1,0 +1,1 @@
+.model FDD4141 VDMOS(Rg=3 Vto=-2.36 ksubthres=100m mtriode=1.6 Rd=7m Rs=1m Rb=5m Kp=60 lambda=.02 theta=80m A=.4 Cgdmax=950p Cgdmin=180p Cgs=2.1n Cjo=600p Is=3p mfg=Fairchild Vds=-40 Ron=10.1m Qg=36n pchan)

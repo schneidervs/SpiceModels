@@ -1,0 +1,1 @@
+.model RB551VM-40 D(Is=2.7855E-6 N=1.0545 Rs=.32536 Ikf=62.645 Xti=2 Eg=.59 Cjo=56.153E-12 M=.51809 Vj=.50375 Isr=5.4689E-6 Nr=1.2000 Bv=40 Trs1=0.004 Iave=0.2 Vpk=40 mfg=Rohm type=Schottky)

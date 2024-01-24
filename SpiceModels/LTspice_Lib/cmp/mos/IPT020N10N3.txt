@@ -1,0 +1,1 @@
+.model IPT020N10N3 VDMOS(Rg=1.4 Vto=3.7 Rd=600u Rs=818.3u Rb=480u Mtriode=1.6 Kp=360 Lambda=.07 Cgdmin=1p Cgdmax=3n A=.3 Cgs=12n Cjo=10n M=.45 Is=60p VJ=.5 N=1.1 ksubthres=.1 mfg=Infineon Vds=100 Ron=1.7m Qg=156n)

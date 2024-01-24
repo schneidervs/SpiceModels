@@ -1,0 +1,1 @@
+.model RBLQ10RSM10 D(Is=553.50E-9 N=1.0129 Rs=11.117E-3 Ikf=2.5871 Xti=2 Eg=0.71 Cjo=1.1920E-9 M=0.5136 Vj=0.5058 Isr=493.55E-9 Nr=1.17 Bv=100 Trs1=-0.004 Tikf=-0.0065 Iave=10 Vpk=100 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model RB228T-30NZ D(Is=57.656E-9 N=1.0445 Rs=5.5153E-3 Ikf=11.966 Xti=2 Eg=.81 Cjo=2.1966E-9 M=.50654 Vj=.55267 Isr=79.984E-9 Nr=1.2300 Bv=35 Trs1=1.8000E-3 Tikf=-0.0060 Iave=30 Vpk=35 mfg=Rohm type=Schottky)

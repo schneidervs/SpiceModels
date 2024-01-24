@@ -1,0 +1,1 @@
+.model RB168MM-60 D(Is=21.039E-9 N=1.0854 Rs=84.056E-3 Ikf=69.901 Xti=2 Eg=.69 Cjo=206.00E-12 M=.50611 Vj=.56361 Isr=2.2505E-9 Nr=2.1000 Bv=60 Trs1=0.1200E-3 Iave=1 Vpk=60 mfg=Rohm type=Schottky)

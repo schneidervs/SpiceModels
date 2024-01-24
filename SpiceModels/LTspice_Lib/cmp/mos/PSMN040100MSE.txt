@@ -1,0 +1,1 @@
+.model PSMN040100MSE VDMOS(Rg=1.65 Vto=3.6 Rd=19.7m Rs=.1m Rb=3m Kp=5.5 Ksubthres=180m Mtriode=3 Lambda=10m Cgdmin=50p Cgdmax=1.3n A=.8 Cgs=1.2n Cjo=600p M=.5 Is=5e-13 VJ=100m N=1 mfg=NXP Vds=100 Ron=29.4m Qg=30n)

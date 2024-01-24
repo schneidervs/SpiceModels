@@ -1,0 +1,1 @@
+.model RBLQ20BGE10 D(Is=553.50E-9 N=1.0129 Rs=11.117E-3 Ikf=2.5871 Xti=2 Eg=0.71 Cjo=1.1920E-9 M=0.5036 Vj=0.5038 Isr=539.55E-9 Nr=1.16 Bv=100 Trs1=-0.0035 Tikf=-0.007 Iave=20 Vpk=100 mfg=Rohm type=Schottky)

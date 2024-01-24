@@ -1,0 +1,1 @@
+.model RBQ20NS100A D(Is=224.93E-9 N=0.9161 Rs=22.063E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.737 Cjo=973.60E-12 M=0.5234 Vj=0.5000 Isr=1.4233E-6 Nr=1.1749 Bv=100 Trs1=1.6967E-3 Iave=20 Vpk=100 mfg=Rohm type=Schottky)

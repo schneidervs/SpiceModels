@@ -1,0 +1,1 @@
+.model RB238T-30NZ D(Is=60.109E-9 N=1.0463 Rs=4.0565E-3 Ikf=13.881 Xti=2 Eg=.81 Cjo=2.7967E-9 M=.51231 Vj=.57579 Isr=84.370E-9 Nr=1.2300 Bv=35 Trs1=1.4000E-3 Tikf=-0.0055 Iave=40 Vpk=35 mfg=Rohm type=Schottky)

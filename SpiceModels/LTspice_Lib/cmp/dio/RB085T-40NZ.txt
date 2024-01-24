@@ -1,0 +1,1 @@
+.model RB085T-40NZ D(Is=607.87E-9 N=.95555 Rs=15.210E-3 Ikf=1.1017 Xti=2 Eg=.69 Cjo=947.00E-12 M=.56436 Vj=.5091 Isr=1.1665E-6 Nr=1.7000 Bv=45 Iave=10 Vpk=45 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model UMZ18N D(Is=147.56E-18 N=1.0123 Rs=.20289 Ikf=.16958 Cjo=13.986E-12 M=.3554 Vj=.80787 Isr=35.079E-12 Bv=17.955 Ibv=5.0000E-3 Tt=266.90E-9 Nbv=0.3 Tbv1=0.00073 Vpk=18 mfg=Rohm type=Zener)

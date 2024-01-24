@@ -1,0 +1,1 @@
+.model RFN5BGE6S D(Is=1.1861E-9 N=1.7549 Rs=30.639E-3 Ikf=.14756 Eg=1.2500 Cjo=90.000E-12 M=.47647 Vj=.59779 Isr=454.99E-12 Nr=3.2000 Bv=600 Tt=47.4n Tikf=0.01 Iave=5 Vpk=600 mfg=Rohm type=Silicon)

@@ -1,0 +1,1 @@
+.model 2SD1782K NPN(Is=250f Bf=260.4 Vaf=100 Ikf=2 Ise=250f Ne=1.46 Br=34.77 Var=100 Ikr=1.92 Isc=32.14p Nc=1.458 Nk=954.5m Re=110m Rb=2.217 Rc=205.9m Cje=140.2p Mje=340.9m Cjc=22.79p Mjc=417.4m Tf=993.1p Xtf=116.1 Vtf=18.13 Itf=28.2 Tr=108.2n Xtb=1.5 Vceo=80 Icrating=0.5 mfg=Rohm)

@@ -1,0 +1,1 @@
+.model AOUS66414 VDMOS(Rs=750u Rd=750u Rg=1.6 Vto=2.47 Kp=205 lambda=170m mtriode=2.4 ksubthres=.1 Is=20.5p N=1.05974 Rb=818u Eg=1.11 XTI=0.304817 trb1=-10m vtotc=-2.5m trd1=5m trs1=5m Cgs=3.5n Cgdmin=10p Cgdmax=1.7n Cjo=2.9n m=.45 tt=2.25n mfg=Alpha_&_Omega Vds=40 Ron=2.5m Qg=24n)

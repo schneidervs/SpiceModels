@@ -1,0 +1,1 @@
+.model Si7336ADP VDMOS(Rg=3.5 Rd=1.2m Rs=800u mtriode=1.9 lambda=0.01 Vto=2.9 Ksubthres=100m Kp=280 Cgdmax=1.6n Cgdmin=200p A=1.5 Cgs=5.2n Cjo=3n M=.5 Is=5p Rb=3m mfg=Siliconix Vds=30 Ron=2.4m Qg=36n)

@@ -1,0 +1,1 @@
+.model RB088NS-30 D(Is=25.048E-9 N=1.0524 Rs=10.513E-3 Ikf=1.2905 Xti=2 Eg=.78 Cjo=712.68E-12 M=.49416 Vj=.57171 Isr=43.580E-9 Nr=1.2300 Bv=35.000 Trs1=1.0000E-3 Iave=10 Vpk=35 mfg=Rohm type=Schottky)

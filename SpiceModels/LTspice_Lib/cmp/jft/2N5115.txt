@@ -1,0 +1,1 @@
+.model 2N5115 PJF(Beta=1.031m Betatce=-0.5 Vto=-4.896 Vtotc=-2.5m Lambda=32m Is=461.5f Xti=3 Isr=4402f Nr=2 Alpha=32.54u N=1 Rd=1 Rs=1 Cgd=6.5p Cgs=9p Fc=0.5 Vk=393.2 M=278m Pb=1 Kf=66610f Af=1 Mfg=Linear_Systems)

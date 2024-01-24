@@ -1,0 +1,1 @@
+.model PSMN1R030YLC VDMOS(Rg=1.08 Vto=2 Rd=50u Rs=50u Rb=1m Kp=650 Ksubthres=.08 Mtriode=1.38 Theta=.5 Lambda=.05 Cgdmin=300p Cgdmax=4n A=1 Cgs=5n Cjo=6.0n M=.77 Is=5p VJ=.99 N=1 mfg=NXP Vds=30 Ron=1.1m Qg=50n)

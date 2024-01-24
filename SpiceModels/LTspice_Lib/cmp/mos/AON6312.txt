@@ -1,0 +1,1 @@
+.model AON6312 VDMOS(Kp=196 Rs=0.3m Rd=0.5m Rg=2.3 Vto=2.58 VtoTc=-3.1m Bex=-1.5 mtriode=.65 Ksubthres=.19 Lambda=.2 Cgdmax=918p Cgdmin=54p Cgs=2995p tt=24n A=0.9 Is=8.71E-12 N=1.022 Rb=0.661m Eg=1.02 Trb1=-45m BV=33 IBV=250u M=0.345 Vj=0.52 Cjo=2342.0pF mfg=AOS Vds=30 Ron=1.5m Qg=20n)

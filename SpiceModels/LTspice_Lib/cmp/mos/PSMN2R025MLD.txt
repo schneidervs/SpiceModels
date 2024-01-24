@@ -1,0 +1,1 @@
+.model PSMN2R025MLD VDMOS(Rg=0.75 Vto=2.09 Rd=1.26m Rs=100u Rb=0.66m Kp=452 Lambda=0 Cgdmin=167p Cgdmax=1.215n A=0.6 Cgs=2.14n Cjo=2.93n M=0.39 Is=0.93p VJ=0.7 N=1 TT=3n Fc=0.5 Bv=27.5 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=25 Ron=2.19m Qg=16n)

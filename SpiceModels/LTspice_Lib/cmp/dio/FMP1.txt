@@ -1,0 +1,1 @@
+.model FMP1 D(Is=515.75E-12 N=1.7369 Rs=1.1050 Ikf=10.763 Cjo=2.9996E-12 M=.24112 Vj=.88581 Isr=986.10E-12 Nr=2.4000 Bv=80 Tt=22.500E-9 Iave=0.025 Vpk=80 mfg=Rohm type=Silicon)

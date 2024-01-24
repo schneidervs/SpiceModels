@@ -1,0 +1,1 @@
+.model BUK960940B VDMOS(Rg=0.59 Vto=1.66 Rd=3.3m Rs=100u Rb=1.64m Kp=64 Lambda=0 Cgdmin=202p Cgdmax=3.060n A=0.6 Cgs=2.49n Cjo=1.87n M=0.53 Is=1.04p VJ=0.5 N=1 TT=3n Fc=0.5 Bv=40 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=40 Ron=9m Qg=32n)

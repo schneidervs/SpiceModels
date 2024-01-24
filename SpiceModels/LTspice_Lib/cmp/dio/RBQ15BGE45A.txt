@@ -1,0 +1,1 @@
+.model RBQ15BGE45A D(Is=145.03E-9 N=0.8935 Rs=6.3678E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.735 Cjo=1.0900E-9 M=0.5121 Vj=0.5567 Isr=2.5656E-6 Nr=1.2018 Bv=45 Trs1=629.95E-6 Tikf=6.0883E-03 Iave=15 Vpk=45 mfg=Rohm type=Schottky)

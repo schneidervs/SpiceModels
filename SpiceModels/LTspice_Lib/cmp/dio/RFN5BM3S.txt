@@ -1,0 +1,1 @@
+.model RFN5BM3S D(Is=1.8236E-9 N=1.3647 Rs=19.816E-3 Ikf=95.307E-3 Eg=0.91 Cjo=90.700E-12 M=.47124 Vj=.58267 Isr=232.66E-12 Nr=2.6 Bv=350 Tt=43n Trs1=-0.0008 Tikf=0.01 Iave=5 Vpk=350 mfg=Rohm type=Silicon)

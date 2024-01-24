@@ -1,0 +1,1 @@
+.model RB228NS150 D(Is=491.65E-9 N=1.2790 Rs=3.4079E-3 Ikf=.2417 Xti=2 Eg=.78 Cjo=1.0000E-9 M=.49818 Vj=.50794 Isr=6.3603E-9 Nr=1.5000 Bv=150 Tikf=0.01 Iave=30 Vpk=150 mfg=Rohm type=Schottky)

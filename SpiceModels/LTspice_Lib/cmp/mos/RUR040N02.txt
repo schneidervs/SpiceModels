@@ -1,0 +1,1 @@
+.model RUR040N02 VDMOS(Rg=15 Vto=0.9 Rd=9.4m Rs=10m Rb=10m Kp=49.5 Lambda=0.05 Cgdmin=50p Cgdmax=630p A=0.9 Cgso=590p Is=6.1162n N=1.514 Cjo=90.166p M=161.35m Vj=870.82m TT=33n ksubthres=.1 mfg=Rohm Vds=30 Ron=34m Qg=5.9n)

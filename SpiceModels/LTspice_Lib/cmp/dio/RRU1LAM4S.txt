@@ -1,0 +1,1 @@
+.model RRU1LAM4S D(Is=816.25E-12 N=1.1424 Rs=88.845E-3 Ikf=807.25E-9 Eg=1.04 Cjo=11.979E-12 M=.25913 Vj=.89306 Isr=15.216E-9 Bv=500 Tt=275.80E-9 Trs1=0.0005 Tikf=0.0142 Iave=1 Vpk=500 mfg=Rohm type=Silicon)

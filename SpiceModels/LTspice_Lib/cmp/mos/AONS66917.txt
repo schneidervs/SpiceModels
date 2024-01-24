@@ -1,0 +1,1 @@
+.model AONS66917 VDMOS(Kp=215 Rs=0.0007 Rd=0.0014 Rg=0.6 Vto=2.87 VtoTc=-2.34m Bex=-1.53 mtriode=2 Ksubthres=.09 Lambda=0.065 Cgdmax=977p Cgdmin=5p Cgs=5910p tt=62n A=0.12 Is=4.21E-12 N=1 Rb=0.0014 Eg=1.09 M=1.24 Vj=38.82 Cjo=3913.0pF mfg=AOS Vds=100 Ron=2.9m Qg=35n)

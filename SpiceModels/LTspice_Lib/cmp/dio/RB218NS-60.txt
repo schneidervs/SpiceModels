@@ -1,0 +1,1 @@
+.model RB218NS-60 D(Is=34.050E-9 N=1.0844 Rs=8.2837E-3 Ikf=.84978 Xti=2 Eg=.85 Cjo=966.01E-12 M=.49824 Vj=.50757 Isr=26.150E-9 Nr=1.3500 Bv=60 Trs1=-1.1200E-3 Iave=20 Vpk=60 mfg=Rohm type=Schottky)

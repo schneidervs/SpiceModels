@@ -1,0 +1,1 @@
+.model L1C1-PCA1000000000 D(Is=4.2069E-38 Rs=0.1403 N=1.2367 Cj0=1.112n Iave=350m mfg=Lumileds type=LED)

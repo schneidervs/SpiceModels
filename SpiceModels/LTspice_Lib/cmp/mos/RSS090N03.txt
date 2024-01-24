@@ -1,0 +1,1 @@
+.model RSS090N03 VDMOS(Rg=9.4 Vto=2.168 Rd=2.25m Rs=7m Rb=17m Kp=73.08 Lambda=50m Cgdmin=90p Cgdmax=800p A=0.5 Cgso=650p Is=49.319n N=1.724 Cjo=253.62p M=571.04m Vj=985.39m TT=25n mfg=Rohm Vds=30 Ron=11m Qg=11n)

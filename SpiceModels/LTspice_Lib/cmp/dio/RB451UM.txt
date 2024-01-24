@@ -1,0 +1,1 @@
+.model RB451UM D(Is=154.80E-9 N=0.9247 Rs=.61254 Ikf=94.564E-3 Xti=2 Eg=.61 Cjo=23.035E-12 M=.42022 Vj=.50025 Isr=3.0780E-6 Nr=1.1700 Bv=40 Trs1=413.40E-6 Iave=0.1 Vpk=40 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model AON6590A VDMOS(Kp=608.303 Rs=0.0 Rd=0.0005 Rg=1.15 Vto=2.77 Lambda=0.075 Cgdmax=2962p Cgdmin=0p Cgs=8235p tt=37n A=0.68 Is=1.00E-11 N=1.007 Rb=0.000416 M=0.383 Vj=0.38 Cjo=6210.0pF mfg=AOS Vds=40 Ron=0.78m Qg=45n)

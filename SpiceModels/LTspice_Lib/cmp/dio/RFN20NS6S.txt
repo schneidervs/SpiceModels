@@ -1,0 +1,1 @@
+.model RFN20NS6S D(Is=22.550E-9 N=1.6626 Rs=8.7129E-3 Ikf=.16879 Eg=.93 Cjo=322.00E-12 M=.47017 Vj=.55476 Isr=303.85E-12 Nr=3 Bv=600 Tt=72n Tikf=0.01 Iave=20 Vpk=600 mfg=Rohm type=Silicon)

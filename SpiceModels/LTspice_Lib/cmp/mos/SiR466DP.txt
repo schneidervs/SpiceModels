@@ -1,0 +1,1 @@
+.model SiR466DP VDMOS(Kp=94.9691 Rs=0.0002 Rd=0.0014 Rg=0.8 Vto=1.8 lambda=0.001 Cgdmax=1604p Cgdmin=180p Cgs=2525p TT=40n Is=2.87E-11 N=1.114 Rb=0.001126 M=0.292 VJ=0.1 Cjo=1758.39pF mfg=Vishay Vds=30 Ron=0.0035 Qg=21.5n)

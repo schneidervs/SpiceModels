@@ -1,0 +1,1 @@
+.model RJP020N06 VDMOS(Rg=26 Vto=1.208 Rd=80.5m Rs=60m Rb=40m Kp=12.85 Lambda=50m Cgdmin=12p Cgdmax=500p A=0.7 Cgso=125p Is=335.3f N=1.001 Cjo=171.13p M=573.49m Vj=861.25m TT=53n ksubthres=.1 mfg=Rohm Vds=60 Ron=165m Qg=5n)

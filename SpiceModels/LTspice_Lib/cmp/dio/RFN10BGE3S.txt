@@ -1,0 +1,1 @@
+.model RFN10BGE3S D(Is=1.3720E-9 N=1.4021 Rs=12.832E-3 Ikf=.21247 Eg=1 Cjo=165.90E-12 M=.47692 Vj=.59813 Isr=552.10E-12 Nr=2.5000 Bv=350 Tt=42.3n Tikf=0.01 Iave=10 Vpk=350 mfg=Rohm type=Silicon)

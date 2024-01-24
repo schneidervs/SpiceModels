@@ -1,0 +1,1 @@
+.MODEL LSK170A NJF(Beta=35E-3 Betatce=-0.5 Vto=-0.35 Lambda=0.024 IS=14f N=1 Rd=4 Rs=1.1 Cgd=19p Cgs=27p Fc=0.5 M=320m Pb=0.6  Mj=.3 Kf=0.004f Af=1.0 Gdsnoi=8 XTI=0 Nlev=3 mfg=Linear_Systems)

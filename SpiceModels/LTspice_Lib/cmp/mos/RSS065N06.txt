@@ -1,0 +1,1 @@
+.model RSS065N06 VDMOS(Rg=11 Vto=1.87 Rd=1.7m Rs=20m Rb=10m Kp=55 Lambda=0.06 Cgdmin=40p Cgdmax=680p A=0.6 Cgso=800p Is=2.0137p N=995.51m Cjo=200.35p M=430.41m Vj=2.484 TT=35n ksubthres=.1 mfg=Rohm Vds=60 Ron=24m Qg=11n)

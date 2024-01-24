@@ -1,0 +1,1 @@
+.model AOL1454 VDMOS(Kp=46.9341 Rs=0.0049 Rd=0.0001 Rg=3.4 Vto=2.27 Lambda=0.015 Cgdmax=1198p Cgdmin=74p Cgs=1500p tt=45n A=0.85 Is=1.30E-14 N=0.836 Rb=0.008914 BV=40 IBV=1u M=0.489 Vj=0.91 Cjo=1019.0pF mfg=AOS Vds=40 Ron=7.5m Qg=10.5n)

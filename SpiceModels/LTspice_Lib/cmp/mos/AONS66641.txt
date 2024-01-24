@@ -1,0 +1,1 @@
+.model AONS66641 VDMOS(Rs=500u Rd=500u Rg=900m Vto=4.12 Kp=196 lambda=185m mtriode=5.24 ksubthres=.1 Is=3.22p N=1.02637 Rb=1.35m Eg=1.11 XTI=2.87652 trb1=874u vtotc=-3m trd1=7m trs1=7m Cgs=5n Cgdmin=100p Cgdmax=2n Cjo=5n m=.5 tt=6.75n mfg=Alpha_&_Omega Vds=60 Ron=1.25m Qg=78n)

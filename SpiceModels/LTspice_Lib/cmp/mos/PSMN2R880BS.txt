@@ -1,0 +1,1 @@
+.model PSMN2R880BS VDMOS(Rg=0.898 Vto=3.91 Rd=1.46m Rs=100u Rb=126u Kp=425 Lambda=0 Cgdmin=413p Cgdmax=5285p A=0.6 Cgs=8.4n Cjo=6.26n M=0.68 Is=0 VJ=0.66 N=1 TT=3n Fc=0.5 Bv=83 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=80 Ron=3m Qg=139n)

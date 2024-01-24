@@ -1,0 +1,1 @@
+.model AON6160 VDMOS(Kp=120 Rs=0.0 Rd=0.0001 Rg=1.1 Vto=3.28 mtriode=2.2 Ksubthres=0.01 Lambda=0.12 Cgdmax=2603p Cgdmin=24p Cgs=6455p tt=48n A=5.62 Is=8.66E-15 N=0.784 Rb=0.003703 M=0.7 Vj=1.7 Cjo=5900.0pF mfg=AOS Vds=60 Ron=1.3m Qg=85n)

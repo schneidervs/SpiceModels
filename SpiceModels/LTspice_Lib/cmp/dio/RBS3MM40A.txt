@@ -1,0 +1,1 @@
+.model RBS3MM40A D(Is=1.2383E-6 N=0.8914 Rs=41.202E-3 Ikf=38.621 Xti=2.0 Eg=0.558 Cjo=286.46E-12 M=0.5053 Vj=0.5012 Isr=89.854E-6 Nr=1.103 Bv=40 Trs1=0.3751E-3 Iave=3 Vpk=40 mfg=Rohm type=Schottky)

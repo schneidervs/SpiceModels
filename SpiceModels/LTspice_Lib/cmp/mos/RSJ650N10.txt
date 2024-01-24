@@ -1,0 +1,1 @@
+.model RSJ650N10 VDMOS(Rg=4.4 Vto=2.014 Rd=5.32m Rs=1m Rb=2.5m Kp=730.6 Lambda=50m Cgdmin=350p Cgdmax=11n A=1.2 Cgso=10.2n Is=200.18p N=1.086 Cjo=2.1n M=632.06m Vj=751.75m TT=65n mfg=Rohm Vds=100 Ron=6.5m Qg=260n)

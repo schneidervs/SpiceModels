@@ -1,0 +1,1 @@
+.model RB215T-60NZ D(Is=3.8899E-6 N=1.0042 Rs=10.132E-3 Ikf=4.3574 Xti=2 Eg=.69 Cjo=1.7014E-9 M=.54163 Vj=.6187 Isr=4.3635E-6 Bv=60 Iave=20 Vpk=60 mfg=Rohm type=Schottky)

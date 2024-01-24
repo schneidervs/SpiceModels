@@ -1,0 +1,1 @@
+.model KDZLV51 D(Is=3.2632E-15 N=1.0229 Rs=0.095 Ikf=38.689E-3 Eg=1.19 Cjo=89.012E-12 M=0.314 Vj=0.5013 Isr=4.7926E-12 Nr=2.35 Bv=51.04 Ibv=2.0000E-3 Nbv=1.17 Tbv1=0.8300E-3 Tikf=0.012 Trs1=-0.008 Vpk=51 mfg=Rohm type=Zener)

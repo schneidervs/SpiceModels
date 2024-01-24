@@ -1,0 +1,1 @@
+.model RB522FS-30 D(Is=544.96E-9 N=1.0049 Rs=4.3289 Ikf=34.411 Xti=2 Eg=.56 Cjo=13.291E-12 M=.37191 Vj=.5015 Isr=2.9743E-6 Nr=1.3000 Bv=30 Trs1=0.0025 Iave=0.1 Vpk=30 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model AON6560 VDMOS(Kp=243.806 Rs=0.0 Rd=0.0001 Rg=1.2 Vto=2.41 mtriode=1.2 Ksubthres=.01 Lambda=0.71 Cgdmax=11990p Cgdmin=447p Cgs=8400p tt=55n A=0.1 Is=1.47E-11 N=1.008 Rb=0.0 M=1.585 Vj=5.34 Cjo=2500.0pF mfg=AOS Vds=30 Ron=.55m Qg=130n)

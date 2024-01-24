@@ -1,0 +1,1 @@
+.model MAT-02 NPN(Is=.6p Bf=500 Vaf=150 BR=0.5 Var=7 Rb=13 Rc=10 Re=.3 Cje=82p Vje=.7 Mje=.4 TF=.3n TR=5n Cjc=33p Vjc=.55 Mjc=.5 IKF=.3 PTF=25 Vceo=40 Icrating=20m mfg=Analog_Devices)

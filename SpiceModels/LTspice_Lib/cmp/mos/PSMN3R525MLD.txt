@@ -1,0 +1,1 @@
+.model PSMN3R525MLD VDMOS(Rg=0.73 Vto=1.95 Rd=2.311m Rs=100u Rb=1.047m Kp=223 Lambda=0 Cgdmin=88p Cgdmax=635p A=0.6 Cgs=1.21n Cjo=1.84n M=0.29 Is=0.702p VJ=0.61 N=1 TT=3n Fc=0.5 Bv=27.5 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=25 Ron=3.5m Qg=12n)

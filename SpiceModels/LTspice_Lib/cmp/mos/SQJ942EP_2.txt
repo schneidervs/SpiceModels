@@ -1,0 +1,1 @@
+.model SQJ942EP_2 VDMOS(Rg=3 Rd=4.35m Rs=4m mtriode=1.5 lambda=.03 Vto=2.6 ksubthres=100m Kp=140 Cgdmax=880p Cgdmin=32p A=1.2 Cgs=1100p Cjo=600p M=.5 Is=1.9p Rb=3.5m mfg=Siliconix Vds=40 Ron=9m Qg=22.5n)

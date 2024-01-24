@@ -1,0 +1,1 @@
+.model SP8K31 VDMOS(Rg=21 Vto=2.02 Rd=68.7m Rs=10m Rb=20m Kp=19.81 Lambda=50m Cgdmin=15p Cgdmax=220p A=0.75 Cgso=220p Is=80.039p N=1.223 Cjo=51.377p M=193.81m Vj=664.3m TT=35n mfg=Rohm Vds=60 Ron=85m Qg=3.7n)

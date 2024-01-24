@@ -1,0 +1,1 @@
+.model BSC026N08NS5 VDMOS(Rg=1.9 Vto=3.0 Rd=20u Rs=412u Rb=1.37m Kp=70 Lambda=0.03 Cgdmin=29p Cgdmax=1.18n A=0.2 Cgs=4.9n Cjo=1.39n M=0.75 Is=49.5p VJ=2.5 N=1.12 TT=15n ksubthres=.1 mfg=Infineon Vds=80 Ron=2.6m Qg=74n)

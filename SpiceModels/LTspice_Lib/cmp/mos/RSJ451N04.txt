@@ -1,0 +1,1 @@
+.model RSJ451N04 VDMOS(Rg=8.3 Vto=2.535 Rd=7.05m Rs=1.5m Rb=3.5m Kp=139.9 Lambda=50m Cgdmin=140p Cgdmax=1250p A=0.8 Cgso=2.23n Is=13.735p N=1.068 Cjo=1.1068n M=472.01m Vj=761.52m TT=34n ksubthres=.1 mfg=Rohm Vds=40 Ron=9.5m Qg=43n)

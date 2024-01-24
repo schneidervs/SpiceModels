@@ -1,0 +1,1 @@
+.model RUL035N02 VDMOS(Rg=23 Vto=900.34m Rd=14.4m Rs=10m Rb=20m Kp=41.2 Lambda=50m Cgdmin=40p Cgdmax=350p A=0.9 Cgso=400p Is=756.67p N=1.325 Cjo=92.278p M=231.33m Vj=761.07m TT=34n ksubthres=.1 mfg=Rohm Vds=20 Ron=31m Qg=5.7n)

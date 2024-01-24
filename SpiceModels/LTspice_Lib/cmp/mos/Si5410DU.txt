@@ -1,0 +1,1 @@
+.model Si5410DU VDMOS(Rg=3.5 Rd=11.3m Rs=3m mtriode=1.7 lambda=0.01 Vto=2.8 Kp=100 Cgdmax=600p Cgdmin=60p A=1.2 Cgs=1.25n Cjo=400p M=.5 Is=.27p Rb=9m ksubthres=.1 mfg=Siliconix Vds=40 Ron=15m Qg=21n)

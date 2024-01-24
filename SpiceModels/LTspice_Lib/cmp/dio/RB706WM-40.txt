@@ -1,0 +1,1 @@
+.model RB706WM-40 D(Is=56.801E-9 N=1.0894 Rs=11.838 Ikf=12.198 Xti=2 Eg=.63 Cjo=2.2304E-12 M=.3391 Vj=.503 Isr=65.100E-9 Nr=1.4000 Bv=45 Trs1=0.0013 Iave=0.03 Vpk=45 mfg=Rohm type=Schottky)

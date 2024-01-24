@@ -1,0 +1,1 @@
+.model RHP030N03 VDMOS(Rg=15 Vto=2.298 Rd=33.2m Rs=40m Rb=40.444m Kp=7.755 Lambda=50m Cgdmin=18p Cgdmax=250p A=0.7 Cgso=133p Is=123.97f N=945.7m Cjo=111.34p M=413.04m Vj=3.368 TT=25n ksubthres=.1 mfg=Rohm Vds=30 Ron=90m Qg=6.5n)

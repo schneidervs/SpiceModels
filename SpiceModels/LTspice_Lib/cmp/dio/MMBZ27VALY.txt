@@ -1,0 +1,1 @@
+.model MMBZ27VALY D(Is=594.00E-18 N=.99783 Rs=2.8419E-3 Ikf=.11109 Eg=1.12 Cjo=41.262E-12 M=.33107 Vj=.51419 Isr=2.9121E-12 Nr=4.8 Bv=27.04 Ibv=1.0000E-3 Nbv=0.6 Tbv1=0.7900E-3 Nbvl=36 Ibvl=100.00E-12 Vpk=27 mfg=Rohm type=Zener)

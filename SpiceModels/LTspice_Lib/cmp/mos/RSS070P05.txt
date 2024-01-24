@@ -1,0 +1,1 @@
+.model RSS070P05 VDMOS(pchan Rg=9 Vto=-2.238 Rd=6.3m Rs=10m Rb=7m Kp=50.35 Lambda=50m Cgdmin=200p Cgdmax=900p A=0.7 Cgso=3.77n Is=11.136p N=1.078 Cjo=552.55p M=469.56m Vj=1.01 TT=45n ksubthres=.1 mfg=Rohm Vds=-45 Ron=19m Qg=34n)

@@ -1,0 +1,1 @@
+.model RB578VAM100 D(Is=5.0862E-9 N=1.2432 Rs=25.937E-3 Ikf=27.353E-3 Xti=2 Eg=.69 Cjo=60.800E-12 M=.47542 Vj=.52362 Isr=1.3611E-9 Nr=1.5000 Bv=150 Trs1=-0.004 Tikf=0.01 Iave=0.7 Vpk=100 mfg=Rohm type=Schottky)

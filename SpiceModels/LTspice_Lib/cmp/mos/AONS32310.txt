@@ -1,0 +1,1 @@
+.model AONS32310 VDMOS(Kp=225 Rs=50u Rd=0.0002 Rg=1.3 Vto=1.87 VtoTc=-3.1m Bex=-1.51 mtriode=1.7 Ksubthres=.1 Lambda=0.049 Cgdmax=4449p Cgdmin=724p Cgs=14450p tt=29n A=0.55 Is=0.89E-10 N=1.03 Rb=0.032m Eg=1.05 Trb1=0.25m M=0.342 Vj=0.17 Cjo=2460pF mfg=AOS Vds=30 Ron=0.8m Qg=110n)

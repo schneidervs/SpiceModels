@@ -1,0 +1,1 @@
+.model RB098BM-30 D(Is=10.310E-9 N=1.0549 Rs=22.945E-3 Ikf=3.0428 Xti=2 Eg=.82 Cjo=434.35E-12 M=.48795 Vj=.56856 Isr=15.610E-9 Nr=1.2300 Bv=35 Trs1=-0.5000E-3 Tikf=-0.0070 Iave=6 Vpk=35 mfg=Rohm type=Schottky)

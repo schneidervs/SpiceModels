@@ -1,0 +1,1 @@
+.model AOT66616L VDMOS(Kp=100 Rs=100u Rd=0.0001 Rg=1.25 Vto=3.82 mtriode=1.2 Ksubthres=0.1 Lambda=0.20 Cgdmax=1541p Cgdmin=22p Cgs=2532p tt=37n A=1.23 Is=1.78E-09 N=1.344 Rb=0.000001 M=1.069 Vj=16.32 Cjo=2750.0pF mfg=AOS Vds=60 Ron=2.5m Qg=42.5n)

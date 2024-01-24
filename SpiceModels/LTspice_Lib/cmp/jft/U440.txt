@@ -1,0 +1,1 @@
+.model U440 NJF(Beta=1.978m Betatce=-0.5 Vto=-2.839 Vtotc=-2.5m Lambda=30m Is=36.18f Xti=3 Isr=346.4f Nr=2 Alpha=105u N=1 Rd=1 Rs=1 Cgd=2.11p Cgs=2.47p Fc=0.5 Vk=107 M=333m Pb=1 Kf=27880f Af=1 Mfg=Linear_Systems)

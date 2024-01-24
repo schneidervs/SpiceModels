@@ -1,0 +1,1 @@
+.model RB541SM-40 D(Is=0.8715E-6 N=1.0799 Rs=1.4823 Ikf=32.199 Xti=2 Eg=.58 Cjo=14.454E-12 M=.46208 Vj=.5011 Isr=630.10E-9 Nr=1.2000 Bv=40 Trs1=0.005 Iave=0.2 Vpk=40 mfg=Rohm type=Schottky)

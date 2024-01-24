@@ -1,0 +1,1 @@
+.model RB558VAM150 D(Is=1.3288E-8 N=1.3883 Rs=28.9791E-2 Ikf=3.6722E-3 Xti=2 Eg=.70 Cjo=2.4000E-11 M=.44915 Vj=.50381 Isr=6.1649E-11 Nr=1.1000 Bv=150.00 Trs1=-3.9000E-3 Iave=0.5 Vpk=150 mfg=Rohm type=Schottky)

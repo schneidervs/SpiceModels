@@ -1,0 +1,1 @@
+.model FDS4465 VDMOS(pchan Rg=3 Vto=-.95 Rd=4.8m Rs=1m Rb=10m Kp=240 Mtriode=1.2 A=1.5 lambda=.01 Cgdmax=9n Cgdmin=.8n Cgs=7n Cjo=2n M=.5 Vj=.5 Is=2n ksubthres=.1 mfg=Fairchild Vds=-20 Ron=10m Qg=86n)

@@ -1,0 +1,1 @@
+.model RB075BGE40S D(Is=13.735E-9 N=1.0446 Rs=23.202E-3 Ikf=1.7341 Xti=2 Eg=.83 Cjo=622.51E-12 M=.47333 Vj=.45365 Isr=4.7559E-9 Bv=40 Iave=5 Vpk=40 mfg=Rohm type=Schottky)

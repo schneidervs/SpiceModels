@@ -1,0 +1,1 @@
+.model RSA6_1EN D(Is=1.3826E-15 N=1.0268 Rs=.34389 Ikf=25.038 Cjo=99.842E-12 M=.33763 Vj=.80006 Isr=2.9537E-12 Bv=6.6500 Ibv=999.00E-6 Tt=30.297E-9 Nbv=0.3 Tbv1=0.00045 Nbvl=14 Ibvl=1.0000E-6 Vpk=6.1 mfg=Rohm type=Zener)

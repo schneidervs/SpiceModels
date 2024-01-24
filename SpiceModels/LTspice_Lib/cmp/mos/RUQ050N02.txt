@@ -1,0 +1,1 @@
+.model RUQ050N02 VDMOS(Rg=17 Vto=904.04m Rd=8.54m Rs=10m Rb=17m Kp=80.26 Lambda=50m Cgdmin=80p Cgdmax=800p A=0.9 Cgso=745p Is=2.5577n N=1.375 Cjo=117.79p M=197.86m Vj=776.68m TT=30n ksubthres=.1 mfg=Rohm Vds=20 Ron=22m Qg=12n)

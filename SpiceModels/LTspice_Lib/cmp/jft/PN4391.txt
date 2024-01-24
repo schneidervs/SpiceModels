@@ -1,0 +1,1 @@
+.model PN4391 NJF(Beta=3.084m Betatce=-0.5 Vto=-5.27 Vtotc=-2.5m Lambda=17.5m Is=205.2f Xti=3 Isr=1988f Nr=2 Alpha=20.98u N=1 Rd=1 Rs=1 Cgd=5.35p Cgs=4.76p Fc=0.5 Vk=123.7 M=407m Pb=1 Kf=40230f Af=1 Mfg=Linear_Systems)

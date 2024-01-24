@@ -1,0 +1,1 @@
+.model RB098BM150 D(Is=23.284E-9 N=1.1457 Rs=16.3504E-3 Ikf=20.596E-3 Xti=2 Eg=.85 Cjo=301.01E-12 M=.49656 Vj=.54728 Isr=12.695E-9 Nr=1.3000 Bv=150.00 Iave=6 Vpk=150 mfg=Rohm type=Schottky)

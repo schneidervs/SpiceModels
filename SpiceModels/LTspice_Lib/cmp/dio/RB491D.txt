@@ -1,0 +1,1 @@
+.model RB491D D(Is=7.5944E-6 N=.98802 Rs=88.395E-3 Ikf=1.1635 Xti=2 Eg=.58 Cjo=170.41E-12 M=.52686 Vj=.45009 Isr=2.3660E-6 Bv=25 Iave=1 Vpk=25 mfg=Rohm type=Schottky)

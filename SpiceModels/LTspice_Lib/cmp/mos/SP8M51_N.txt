@@ -1,0 +1,1 @@
+.model SP8M51_N VDMOS(Rg=14 Vto=1.98 Rd=105.1m Rs=10m Rb=32.203m Kp=25.32 Lambda=40m Cgdmin=20p Cgdmax=500p A=1.1 Cgso=540p Is=3.876p N=1.052 Cjo=156.2p M=581.67m Vj=751.95m TT=36n mfg=Rohm Vds=100 Ron=120m Qg=8.5n)

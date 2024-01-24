@@ -1,0 +1,1 @@
+.model SIJA72ADP VDMOS(Kp=76.2004 Rs=0.0012 Rd=0.0001 Rg=1.1 Vto=1.38 lambda=0.002 Cgdmax=280p Cgdmin=10p Cgs=2511p TT=32n Is=1.00E-15 N=0.812 Rb=0.002805 M=0.392 VJ=0.82 Cjo=1586.4pF mfg=Vishay Vds=40 Ron=0.00342 Qg=14.8n)

@@ -1,0 +1,1 @@
+.model PDZV27B D(Is=2.8258E-15 N=.9997 Rs=16.701E-3 Ikf=561.52 Eg=1.13 Cjo=149.13E-12 M=.33319 Vj=.61784 Isr=7.8392E-12 Nr=2.4 Bv=29.293 Ibv=10.000E-3 Nbv=0.8 Tbv1=0.8200E-3 Vpk=27 mfg=Rohm type=Zener)

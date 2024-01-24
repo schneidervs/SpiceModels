@@ -1,0 +1,1 @@
+.model RBQ20BGE45A D(Is=6.9721E-9 N=0.8073 Rs=7.0369E-3 Ikf=895.63E-3 Xti=2 Eg=0.71 Cjo=1.4900E-9 M=0.5178 Vj=0.5589 Isr=2.9293E-6 Nr=1.15 Bv=45 Trs1=0.3979E-3 Iave=20 Vpk=45 mfg=Rohm type=Schottky)

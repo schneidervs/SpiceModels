@@ -1,0 +1,1 @@
+.model AONS62814T VDMOS(Rs=910u Rd=910u Rg=0.7 Vto=3.26 Kp=96.9 lambda=0.287 mtriode=3.85 ksubthres=.1 Is=3.9p N=1.01188 Rb=959u Eg=1.11 XTI=0.304817 trb1=-10m vtotc=-3.5m trd1=7.2m trs1=7.2m Cgs=3.8n Cgdmin=50p Cgdmax=2.5n Cjo=3n m=.5 tt=8.4n mfg=Alpha_&_Omega Vds=80 Ron=2.8m Qg=68n)

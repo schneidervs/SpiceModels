@@ -1,0 +1,1 @@
+.model AOTL66608 VDMOS(Kp=392 Rs=121u Rd=399u Rg=2.2 Vto=3.71 mtriode=2.2 Ksubthres=0.1 Lambda=0.156 VtoTc=-5m Trd1=3m Trd2=16u Trs1=3m Trs2=16u Bex=-1.8 Cgdmax=7106p Cgdmin=0p Cgs=14045p tt=72n A=0.59 Is=2.45e-11 N=1.028 Rb=552u BV=71.4 IBV=250u M=0.952 Vj=12.04 Cjo=13618.0pF Eg=1.07 mfg=AOS Vds=60 Ron=0.7m Qg=205n)

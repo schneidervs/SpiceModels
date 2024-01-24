@@ -1,0 +1,1 @@
+.model SQJ951EP_Q2 VDMOS(pchan Kp=6.2385 Rs=0.0001 Rd=0.0001 Rg=6.31 Vto=-2.0 lambda=0.01 Cgdmax=1773p Cgdmin=300p Cgs=1100p TT=56n Is=8.66E-09 N=1.825 Rb=0.000001 M=2.007 VJ=5.77 Cjo=376.09pF mfg=Vishay Vds=-30 Ron=0.017 Qg=33n)

@@ -1,0 +1,1 @@
+.model L1C1-GRN1000000000 D(Is=1.1583E-11 Rs=0.3121 N=3.9371 Cj0=440p Iave=350m mfg=Lumileds type=LED)

@@ -1,0 +1,1 @@
+.model PSMN1R725YLD VDMOS(Rg=0.90 Vto=2.19 Rd=1.038m Rs=100u Rb=606u Kp=611 Lambda=0 Cgdmin=206p Cgdmax=1.695n A=0.6 Cgs=2.88n Cjo=3.83n M=0.41 Is=1.36p VJ=0.75 N=1 TT=3n Fc=0.5 Bv=27.5 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=25 Ron=1.72m Qg=21.5n)

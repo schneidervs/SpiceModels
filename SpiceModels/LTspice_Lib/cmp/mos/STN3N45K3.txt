@@ -1,0 +1,1 @@
+.model STN3N45K3 VDMOS(mtriode=.1 Rg=8 vto=4.8 Rd=2.4 Rs=.5 Rb=60m Kp=5 Lambda=100m Cgdmin=13p Cgdmax=130p A=.5 Cgs=330p Cjo=260p M=0.5 Vj=0.7 Is=50f ksubthres=.1 mfg=STMicroelectronics Vds=450 Ron=3.3 Qg=9.5n)

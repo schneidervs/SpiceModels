@@ -1,0 +1,1 @@
+.model BUK9Y3R040E VDMOS(Rg=2.72 Vto=2.2 Rd=1.4m Rs=100u Rb=800u Kp=467 Lambda=0 Cgdmin=234p Cgdmax=2.45n A=0.6 Cgs=3.62n Cjo=2.53n M=0.58 Is=2.8p VJ=0.65 N=1 TT=3n Fc=0.5 Bv=44 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=40 Ron=3m Qg=35.5n)

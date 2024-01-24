@@ -1,0 +1,1 @@
+.model RB162MM-30 D(Is=4.6599E-7 N=1.0163 Rs=5.1019E-2 Ikf=22.312 Xti=2 Eg=.58 Cjo=2.3700E-10 M=.52925 Vj=.5045 Isr=4.7686E-7 Nr=1.3400 Bv=30.000 Trs1=2.7900E-3 Iave=1 Vpk=30 mfg=Rohm type=Schottky)

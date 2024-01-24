@@ -1,0 +1,1 @@
+.model AON7423 VDMOS(pchan Kp=267.2604 Rs=1.63m Rd=2.317m Rg=3.0 Vto=-0.67 mtriode=1 Ksubthres=.001 Lambda=0.01969 Cgdmax=9083p Cgdmin=0p Cgs=4910p tt=112n A=0.49 Is=3.47E-08 N=1.108 Rb=0.00823 M=3.59 Vj=15.74 Cjo=1240.0pF mfg=AOS Vds=-20 Ron=3.95m Qg=70n)

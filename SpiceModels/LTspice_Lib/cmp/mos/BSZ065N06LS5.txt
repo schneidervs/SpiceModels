@@ -1,0 +1,1 @@
+.model BSZ065N06LS5 VDMOS(Rg=1.2 Vto=2.1 Rd=4.49m Rs=.1m Rb=2.2m Kp=50 Ksubthres=.1 Mtriode=3.1 Lambda=50m Cgdmin=8p Cgdmax=600p A=.7 Cgs=1.3n Cjo=1.2n M=.4 Is=35p VJ=600m N=1.12 mfg=Infineon Vds=60 Ron=5.4m Qg=10n)

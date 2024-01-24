@@ -1,0 +1,1 @@
+.model 1SS355VM D(Is=0.3971E-9 N=1.7916 Rs=1.2943 Ikf=9.0759E-3 Cjo=659.70E-15 M=0.1145 Vj=2.3974 Isr=6.1486E-9 Nr=1.91 Bv=90 Tt=4.5591E-9 Iave=0.1 Vpk=90 mfg=Rohm type=Silicon)

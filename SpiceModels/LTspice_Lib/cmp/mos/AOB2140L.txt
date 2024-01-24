@@ -1,0 +1,1 @@
+.model AOB2140L VDMOS(Rs=375u Rd=375u Rg=2.6 Vto=2.41 Kp=381 lambda=10.8m mtriode=1.67 ksubthres=.1 Is=17.2p N=1.01928 Rb=1.08m Eg=1.11 XTI=2.75735 trb1=1.82m vtotc=-5m trd1=5m trs1=5m Cgs=11n Cgdmin=100p Cgdmax=1.7n Cjo=8n m=.55 tt=5.35n mfg=Alpha_&_Omega Vds=40 Ron=1.5m Qg=54n)

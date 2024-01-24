@@ -1,0 +1,1 @@
+.model AON6236 VDMOS(Rg=1 Mtriode=1.5 Vto=2.4 ksubthres=100m Theta=.25 Rd=1.8m Rs=1.25m Rb=1m Kp=100 Lambda=.02 Cgdmin=1f Cgdmax=650p A=5 Cgs=1.2n Cjo=1.3n M=.5 Is=1.8p N=1.15 VJ=1 mfg=Alpha_&_Omega Vds=40 Ron=5.6m Qg=18.5n)

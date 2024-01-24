@@ -1,0 +1,1 @@
+.model RB058LAM150 D(Is=17.821E-9 N=1.1099 Rs=14.223E-3 Ikf=41.417E-3 Xti=2.0 Eg=0.851 Cjo=200.10E-12 M=0.4473 Vj=0.5015 Isr=9.6164E-9 Nr=1.17 Bv=150 Trs1=-2.2000E-3 Iave=3 Vpk=150 mfg=Rohm type=Schottky)

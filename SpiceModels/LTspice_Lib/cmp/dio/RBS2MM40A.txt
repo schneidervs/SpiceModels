@@ -1,0 +1,1 @@
+.model RBS2MM40A D(Is=11.783E-6 N=.97929 Rs=55.550E-3 Ikf=.60626 Xti=2 Eg=.57 Cjo=210.87E-12 M=.52156 Vj=.50190 Isr=42.324E-6 Nr=1.1000 Bv=40.000 Trs1=6.0000E-3 Iave=2 Vpk=40 mfg=Rohm type=Schottky)

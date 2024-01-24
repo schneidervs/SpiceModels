@@ -1,0 +1,1 @@
+.model RB061QS-20 D(Is=3.9620E-6 N=1.231 Rs=64.510E-3 Ikf=98.150E-3 Xti=2 Eg=0.6 Cjo=143.12E-12 M=0.4014 Vj=0.5 Isr=51.480E-6 Nr=1.1 Bv=20 Trs1=3.2845E-3 Iave=2 Vpk=20 mfg=Rohm type=Schottky)

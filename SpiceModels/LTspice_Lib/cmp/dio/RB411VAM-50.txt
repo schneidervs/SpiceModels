@@ -1,0 +1,1 @@
+.model RB411VAM-50 D(Is=2.7074E-6 N=1.0630 Rs=178.60E-3 Ikf=.15491 Xti=2 Eg=.6 Cjo=95.043E-12 M=.47662 Vj=.50044 Isr=16.361E-6 Nr=1.2000 Bv=50 Trs1=1.9740E-3 Iave=0.5 Vpk=50 mfg=Rohm type=Schottky)

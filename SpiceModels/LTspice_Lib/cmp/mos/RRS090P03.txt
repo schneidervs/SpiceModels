@@ -1,0 +1,1 @@
+.model RRS090P03 VDMOS(pchan Rg=6.6 Vto=-2.231 Rd=8.21m Rs=1m Rb=10m Kp=72.47 Lambda=50m Cgdmin=250p Cgdmax=2.3n A=0.8 Cgso=2.64n Is=2.3625p N=976.43m Cjo=1.7093p M=1.08 Vj=777.53m TT=30n ksubthres=.1 mfg=Rohm Vds=-30 Ron=11.0m Qg=30n)

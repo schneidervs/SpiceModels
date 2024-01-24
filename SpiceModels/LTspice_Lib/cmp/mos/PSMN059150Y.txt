@@ -1,0 +1,1 @@
+.model PSMN059150Y VDMOS(Rg=1.077 Vto=3.11 Rd=42m Rs=100u Rb=2m Kp=39.1 Lambda=0 Cgdmin=66p Cgdmax=890p A=0.6 Cgs=1.27n Cjo=1.043n M=0.99 Is=1.1p VJ=0.5 N=1 TT=3n Fc=0.5 Bv=168 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=150 Ron=59m Qg=27.9n)

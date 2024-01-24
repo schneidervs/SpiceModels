@@ -1,0 +1,1 @@
+.model RFN5TF8S D(Is=25.640E-9 N=2.2001 Rs=35.046E-3 Ikf=.15787 Eg=1.1500 Cjo=141.10E-12 M=.47876 Vj=.63758 Isr=164.31E-12 Nr=3.2000 Bv=800 Tt=44.5n Tikf=0.01 Iave=5 Vpk=800 mfg=Rohm type=Silicon)

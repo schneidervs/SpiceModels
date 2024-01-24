@@ -1,0 +1,1 @@
+.model RBR20NS60A D(Is=1.1586E-6 N=0.9055 Rs=12.747E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.683 Cjo=824.00E-12 M=0.5235 Vj=0.6564 Isr=7.9657E-6 Nr=1.1211 Bv=60 Trs1=251.37E-6 Iave=20 Vpk=60 mfg=Rohm type=Schottky)

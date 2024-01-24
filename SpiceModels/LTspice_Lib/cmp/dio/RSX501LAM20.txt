@@ -1,0 +1,1 @@
+.model RSX501LAM20 D(Is=27.122E-6 N=0.9350 Rs=11.638E-3 Ikf=541.25E-3 Xti=2.0 Eg=0.574 Cjo=1.1420E-9 M=0.5475 Vj=0.5000 Isr=26.855E-6 Nr=1.1053 Bv=25 Trs1=-192.95E-6 Iave=5 Vpk=25 mfg=Rohm type=Schottky)

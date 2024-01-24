@@ -1,0 +1,1 @@
+.model RF05VAM1S D(Is=1.1825E-12 N=1.0061 Rs=52.469E-3 Ikf=12.140E-3 Eg=.9 Cjo=28.100E-12 M=.47776 Vj=.76142 Isr=91.946E-12 Nr=2.2000 Bv=100 Tt=28.8n Tikf=0.01 Iave=0.5 Vpk=100 mfg=Rohm type=Silicon)

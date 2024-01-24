@@ -1,0 +1,1 @@
+.model AONY36354_Bottom VDMOS(Kp=164.0991 Rs=0.0 Rd=0.0013 Rg=2.3 Vto=1.93 mtriode=1.5 Ksubthres=0.1 Lambda=0.20 Cgdmax=734p Cgdmin=5p Cgs=1835p tt=17n A=0.37 Is=1.39E-12 N=0.988 Rb=0.002351 M=0.333 Vj=0.39 Cjo=1150.0pF mfg=AOS Vds=30 Ron=2.1m Qg=11.5n)

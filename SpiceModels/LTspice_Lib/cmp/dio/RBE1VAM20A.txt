@@ -1,0 +1,1 @@
+.model RBE1VAM20A D(Is=10.105E-6 N=1.0425 Rs=.1706 Ikf=103.50 Xti=2 Eg=.55 Cjo=62.700E-12 M=.50752 Vj=.50214 Isr=4.2518E-6 Nr=1.1000 Bv=30 Trs1=0.005 Iave=1 Vpk=30 mfg=Rohm type=Schottky)

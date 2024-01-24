@@ -1,0 +1,1 @@
+.model CMDSH-4E D(Is=82.9n Rs=2.02 N=1.04 Cjo=12.802p M=.47462 Eg=0.69 Xti=2 Iave=200m Vpk=40 mfg= Central type=Schottky)

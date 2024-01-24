@@ -1,0 +1,1 @@
+.model UMP11N D(Is=3.8311E-12 N=1.1556 Rs=.16041 Ikf=1.0156E-3 Cjo=2.9921E-12 M=.17376 Vj=.80381 Isr=1.0089E-9 Nr=2.5000 Bv=80 Tt=27.500E-9 Iave=0.1 Vpk=80 mfg=Rohm type=Silicon)

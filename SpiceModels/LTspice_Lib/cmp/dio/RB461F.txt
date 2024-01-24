@@ -1,0 +1,1 @@
+.model RB461F D(Is=3.1358E-6 N=0.9968 Rs=0.1907 Ikf=157.01 Xti=4.7 Eg=0.53 Cjo=85.871E-12 M=0.5075 Vj=0.5083 Isr=7.2835E-6 Nr=1.2 Bv=25 Trs1=0.002 Iave=0.7 Vpk=25 mfg=Rohm type=Schottky)

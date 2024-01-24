@@ -1,0 +1,1 @@
+.model RB531CM-40 D(Is=264.06E-9 N=1.3383 Rs=3.6356 Ikf=3.7079 Xti=2 Eg=.62 Cjo=6.4000E-12 M=.3375 Vj=.5017 Isr=325.21E-9 Nr=1.2000 Bv=40 Trs1=-0.0004 Iave=0.1 Vpk=40 mfg=Rohm type=Schottky)

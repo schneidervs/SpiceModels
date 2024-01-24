@@ -1,0 +1,1 @@
+.model PSMN2R825MLC VDMOS(Rg=0.7112 Vto=2.23 Rd=1.5m Rs=100u Rb=816u Kp=399 Lambda=0 Cgdmin=179p Cgdmax=806p A=0.6 Cgs=2.07n Cjo=2.2n M=0.73 Is=1.53p VJ=0.98 N=1 TT=3n Fc=0.5 Bv=27.5 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=25 Ron=2.8m Qg=16.3n)

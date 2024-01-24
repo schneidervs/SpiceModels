@@ -1,0 +1,1 @@
+.model BSC600N25NS3 VDMOS(Rg=2.4 Vto=3.7 Rd=47.17m Rs=404u Rb=3.79m Kp=48.7 Lambda=0.015 Cgdmin=6p Cgdmax=0.27n A=0.5 Cgs=1.77n Cjo=2.66n M=0.48 Is=16.8p VJ=0.9 N=1.12 TT=150n ksubthres=.1 mfg=Infineon Vds=250 Ron=60m Qg=21n RthetaJA=50 Imult=50 Iexponent=.4 R6=21.5m C6=.291u R5=52m C5=.457u R4=215m C4=1.78m R3=676m C3=11.1m R2=102m C2=2.38m R1=9.39m C1=.972u)

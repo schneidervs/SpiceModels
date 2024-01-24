@@ -1,0 +1,1 @@
+.model SQJ910AEP_Q2 VDMOS(Kp=62.1464 Rs=0.0187 Rd=0.0372 Rg=1.38 Vto=2.0 lambda=0.001 Cgdmax=1000p Cgdmin=100p Cgs=1369p TT=39n Is=2.47E-11 N=1.104 Rb=0.002823 M=0.278 VJ=0.1 Cjo=1009.26pF mfg=Vishay Vds=30 Ron=0.007 Qg=25.8n)

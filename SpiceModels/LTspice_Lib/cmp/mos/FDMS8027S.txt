@@ -1,0 +1,1 @@
+.model FDMS8027S VDMOS(Rg=.5 Vto=1.85 Rd=.3m Rs=1.8m Rb=3.5m Kp=100 Theta=.3 Ksubthres=.08 Mtriode=2 Lambda=.35 Cgdmin=30p Cgdmax=.7n A=.5 Cgs=1.5n Cjo=1.6n M=.4 Vj=.7 Is=300n N=1.5 mfg=Fairchild Vds=30 Ron=4.2m Qg=11n)

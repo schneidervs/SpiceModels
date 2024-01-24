@@ -1,0 +1,1 @@
+.model RRS075P03 VDMOS(pchan Rg=12.7 Vto=-2.041 Rd=1.97m Rs=10m Rb=10m Kp=40.53 Lambda=50m Cgdmin=180p Cgdmax=1.1n A=0.7 Cgso=1.65n Is=78.053p N=1.16 Cjo=16.452p M=1.333 Vj=1.393 TT=26n ksubthres=.1 mfg=Rohm Vds=-30 Ron=15m Qg=21n)

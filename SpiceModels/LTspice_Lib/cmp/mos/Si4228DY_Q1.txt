@@ -1,0 +1,1 @@
+.model Si4228DY_Q1 VDMOS(Kp=34.1713 Rs=0.0116 Rd=0.001 Rg=2.5 Vto=1.0 lambda=0.01 Cgdmax=610p Cgdmin=70p Cgs=714p TT=22n Is=1.24E-09 N=1.251 Rb=0.01043 M=0.677 VJ=1.02 Cjo=263.63pF mfg=Vishay Vds=25 Ron=0.018 Qg=7.8n)

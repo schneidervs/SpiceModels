@@ -1,0 +1,1 @@
+.model PSMN8R280YS VDMOS(Rg=0.85 Vto=3.44 Rd=4.7m Rs=100u Rb=443u Kp=239 Lambda=0 Cgdmin=177p Cgdmax=2555p A=0.6 Cgs=3.51n Cjo=1.93n M=0.67 Is=2p VJ=0.83 N=1 TT=3n Fc=0.5 Bv=89.6 Ibv=10u Nbv=1 ksubthres=.1 mfg=NXP Vds=80 Ron=8.5m Qg=55n)

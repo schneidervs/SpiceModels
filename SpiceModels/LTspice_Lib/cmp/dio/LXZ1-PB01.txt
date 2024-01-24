@@ -1,0 +1,1 @@
+.model LXZ1-PB01 D(Is=2.1635E-06 Rs=0.0949 N=8.8328 Cj0=1.67n Iave=500m mfg=Lumileds type=LED)

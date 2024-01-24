@@ -1,0 +1,1 @@
+.model CSD17506Q5A VDMOS(mtriode=1.9 Rg=3 Vto=1.6 Rd=1m Rs=1.3m Rb=3.5m Kp=90 Cgdmax=280p Cgdmin=40p A=.2 Cgs=1.3n Cjo=4n Is=10p M=.5 VJ=.6 ksubthres=.1 mfg=TI Vds=30 Ron=4.2m Qg=8.3n)

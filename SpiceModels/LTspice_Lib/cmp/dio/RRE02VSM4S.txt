@@ -1,0 +1,1 @@
+.model RRE02VSM4S D(Is=24.195E-12 N=1.5366 Rs=.23596 Ikf=.62542 Cjo=3.4000E-12 M=.31934 Vj=.50899 Isr=218.42E-12 Nr=3.6000 Bv=400 Tt=810.00E-9 Trs1=0.001 Iave=0.2 Vpk=400 mfg=Rohm type=Silicon)

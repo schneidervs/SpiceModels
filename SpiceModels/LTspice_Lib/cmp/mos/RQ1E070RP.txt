@@ -1,0 +1,1 @@
+.model RQ1E070RP VDMOS(pchan Rg=11 Vto=-2.1120 Rd=8.5m Rs=1m Rb=10m Kp=50 Lambda=0.05 Cgdmin=250p Cgdmax=1700p A=0.7 Cgso=2.35n Is=36.639p N=1.113 Cjo=201.58p M=613.91m Vj=773.05m TT=23n ksubthres=.1 mfg=Rohm Vds=-30 Ron=12m Qg=26n)

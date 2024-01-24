@@ -1,0 +1,1 @@
+.model RBR10T40ANZ D(Is=448.06E-9 N=0.9479 Rs=15.996E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.695 Cjo=462.00E-12 M=0.4951 Vj=0.5000 Isr=1.7072E-6 Nr=1.1546 Bv=40 Trs1=2.8140E-3 Iave=10 Vpk=40 mfg=Rohm type=Schottky)

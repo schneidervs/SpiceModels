@@ -1,0 +1,1 @@
+.model RSR020P05 VDMOS(pchan Rg=33.7 Vto=-2.2158 Rd=109.4m Rs=1m Rb=32.104m Kp=6.5 Lambda=0.03 Cgdmin=20p Cgdmax=100p A=0.3 Cgso=460p Is=455.12f N=1.023 Cjo=140.85p M=481.53m Vj=790.12m TT=42n ksubthres=.1 mfg=Rohm Vds=-45 Ron=130m Qg=9.5n)

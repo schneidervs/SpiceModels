@@ -1,0 +1,1 @@
+.model LSJ74A PJF(Beta=38m Betatce=-0.5 Vto=-.38 Vtotc=-2.5m Lambda=3m Is=12980f Xti=3 Isr=0 Nr=2 Alpha=10u N=1 Rd=7.748 Rs=7.748 Cgd=85.67p Cgs=78.27p Fc=0.5 Vk=100 M=324m Pb=0.3905 Kf=26640f Mfg=Linear_Systems)

@@ -1,0 +1,1 @@
+.model PSMN6R030YLD VDMOS(Rg=2.36 Vto=2.24 Rd=3.9m Rs=100u Rb=1.9m Kp=185 Lambda=0 Cgdmin=62.9p Cgdmax=575p A=0.6 Cgs=0.72n Cjo=1.4n M=0.31 Is=0.7p VJ=0.65 N=1 TT=3n Fc=0.5 Bv=33 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=6m Qg=6.5n)

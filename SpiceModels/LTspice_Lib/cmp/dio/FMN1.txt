@@ -1,0 +1,1 @@
+.model FMN1 D(Is=2.0235E-9 N=1.7300 Rs=1.6409 Ikf=17.788 Eg=1.1500 Cjo=1.8691E-12 M=.19217 Vj=.80284 Isr=1.7281E-9 Nr=2.6000 Bv=80 Tt=28.300E-9 Iave=0.025 Vpk=80 mfg=Rohm type=Silicon)

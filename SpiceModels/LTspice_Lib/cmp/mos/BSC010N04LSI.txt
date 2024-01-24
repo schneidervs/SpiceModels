@@ -1,0 +1,1 @@
+.model BSC010N04LSI VDMOS(Rg=.65 Vto=2.1 Rd=590u Rs=90u Rb=2m Kp=740 Ksubthres=.1 Mtriode=1.8 Theta=.15 Lambda=.06 Cgdmin=1p Cgdmax=2.2n A=.2 Cgs=6n Cjo=4n M=.5 Is=800n VJ=1 N=1 mfg=Infineon Vds=40 Ron=1.05m Qg=87n)

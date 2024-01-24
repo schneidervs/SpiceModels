@@ -1,0 +1,1 @@
+.model RBR30NS60A D(Is=436.20E-9 N=0.9025 Rs=9.1379E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.684 Cjo=1.0700E-9 M=0.5377 Vj=0.7832 Isr=11.219E-6 Nr=1.1095 Bv=60 Trs1=3.1298E-3 Iave=30 Vpk=60 mfg=Rohm type=Schottky)

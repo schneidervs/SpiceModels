@@ -1,0 +1,1 @@
+.model RHU002N06 VDMOS(Rg=160 Vto=2.08 Rd=220m Rs=1.2 Rb=199.07m Kp=456.6m Lambda=50m Cgdmin=2.7p Cgdmax=26p A=0.8 Cgso=11p Is=327.79f N=1.117 Cjo=6.0086p M=189.32m Vj=1.32 TT=50n ksubthres=.1 mfg=Rohm Vds=60 Ron=1700m Qg=2.2n)

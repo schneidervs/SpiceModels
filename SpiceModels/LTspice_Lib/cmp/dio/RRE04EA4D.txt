@@ -1,0 +1,1 @@
+.model RRE04EA4D D(Is=946.50E-12 N=1.8158 Rs=.18161 Ikf=286.43 Eg=1.0500 Cjo=3.4000E-12 M=.35303 Vj=.75844 Isr=77.233E-12 Bv=400 Tt=737.42E-9 Trs1=0.0015 Iave=0.4 Vpk=400 mfg=Rohm type=Silicon)

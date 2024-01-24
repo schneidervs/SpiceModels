@@ -1,0 +1,1 @@
+.model 1SS390SM D(Is=12.658E-15 N=1.1755 Rs=102.16E-3 Ikf=33.250E-3 Eg=1.130 Cjo=2.0600E-12 M=0.3054 Vj=0.5000 Isr=967.35E-15 Nr=3.9715 Bv=35 Tt=152.95E-09 Iave=0.1 Vpk=35 mfg=Rohm type=Silicon)

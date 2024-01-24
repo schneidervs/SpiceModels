@@ -1,0 +1,1 @@
+.model VS-E5TH3006 D(Is=29.784E-6 N=2.7020 Rs=2.9820E-3 Ikf=.66913 Cjo=431.94E-12 M=.42079 Vj=.3905 Isr=10.010E-21 Nr=4.9950 Bv=717.66 Ibv=25.865E-3 tt=25.489E-9 Vp=0.19 Xti=4.5 Tikf=0.06 Trs1=0.001 Iave=30 Vpk=600 mfg=Vishay type=FastRecovery)

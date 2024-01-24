@@ -1,0 +1,1 @@
+.model AON6512 VDMOS(Kp=85 Rs=0.0 Rd=0.0001 Rg=0.7 Vto=2.29 mtriode=1.3 Ksubthres=.1 Lambda=0.33 Cgdmax=2194p Cgdmin=24p Cgs=3255p tt=32n A=0.37 Is=5.41E-13 N=0.916 Rb=0.000918 M=0.658 Vj=5.07 Cjo=2850.0pF mfg=AOS Vds=30 Ron=1.4m Qg=25n)

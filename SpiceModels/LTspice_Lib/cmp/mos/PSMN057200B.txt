@@ -1,0 +1,1 @@
+.model PSMN057200B VDMOS(Rg=2 Vto=3.5 Rd=37m Rs=100u Rb=2.54m Kp=58 Lambda=0 Cgdmin=154p Cgdmax=3925p A=0.6 Cgs=2.99n Cjo=1.52n M=0.55 Is=2.5p VJ=0.5 N=1 TT=3n Fc=0.5 Bv=200 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=200 Ron=57m Qg=96n)

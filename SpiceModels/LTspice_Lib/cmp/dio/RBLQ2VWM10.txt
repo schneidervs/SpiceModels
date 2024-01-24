@@ -1,0 +1,1 @@
+.model RBLQ2VWM10 D(Is=59.587E-9 N=0.9781 Rs=0.1034 Ikf=0.4467 Xti=2 Eg=0.71 Cjo=146.51E-12 M=0.4865 Vj=0.5007 Isr=70.432E-9 Nr=1.16 Bv=100 Trs1=-0.0048 Tikf=-0.0075 Iave=2 Vpk=100 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model J309 NJF(Beta=4.682m Betatce=-0.5 Vto=-2.075 Vtotc=-2.5m Lambda=14.5m Is=193.9f Xti=3 Isr=1881f Nr=2 Alpha=7.533u N=1 Rd=1 Rs=1 Cgd=6.2p Cgs=6.2p Fc=0.5 Vk=74.1 M=465m Pb=1 Kf=64120f Af=1 Mfg=Linear_Systems)

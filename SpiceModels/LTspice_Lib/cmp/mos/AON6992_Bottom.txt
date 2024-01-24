@@ -1,0 +1,1 @@
+.model AON6992_Bottom VDMOS(Kp=220.5452 Rs=0.0 Rd=0.001 Rg=1.9 Vto=2.04 mtriode=1.5 Ksubthres=0.1 Lambda=0.30 Cgdmax=1718p Cgdmin=0p Cgs=3010p tt=25n A=0.44 Is=2.46E-05 N=1.543 Rb=0.026478 M=0.594 Vj=3.44 Cjo=2250.0pF mfg=AOS Vds=30 Ron=1.6m Qg=21n)

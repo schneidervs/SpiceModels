@@ -1,0 +1,1 @@
+.model R6020PNJ VDMOS(Rg=19.5 Vto=4.486 Rd=170.2m Rs=15m Rb=15m Kp=39.78 Lambda=50m Cgdmin=13p Cgdmax=3.5n A=1.2 Cgso=1.97n Is=581.06p N=1.245 Cjo=6.7667n M=900.62m Vj=2.19 TT=680n ksubthres=.1 mfg=Rohm Vds=600 Ron=190m Qg=65n)

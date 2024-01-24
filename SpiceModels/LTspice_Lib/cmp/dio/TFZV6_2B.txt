@@ -1,0 +1,1 @@
+.model TFZV6_2B D(Is=1.6177E-15 N=1.0122 Rs=197.47E-3 Ikf=0.2814 Cjo=185.10E-12 M=0.3493 Vj=0.7757 Isr=3.6742E-12 Nr=5.9 Bv=6.12 Ibv=20.000E-3 Nbv=0.33 Tbv1=0.3700E-3 Nbvl=11 Ibvl=15.000E-6 Trs1=-0.0005 Vpk=6.2 mfg=Rohm type=Zener)

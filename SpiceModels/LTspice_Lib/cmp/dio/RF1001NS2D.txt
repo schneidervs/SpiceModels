@@ -1,0 +1,1 @@
+.model RF1001NS2D D(Is=58.151E-12 N=1.0482 Rs=7.1487E-3 Ikf=39.496E-3 Eg=.9 Cjo=186.24E-12 M=.42565 Vj=.48647 Isr=1.0282E-9 Nr=3.2000 Bv=200 Tt=30.089E-9 Tikf=0.01 Iave=10 Vpk=200 mfg=Rohm type=Silicon)

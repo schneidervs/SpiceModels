@@ -1,0 +1,1 @@
+.model AOTL66518 VDMOS(Rs=1.27m Rd=1.27m Rg=2.3 Vto=4.41 Kp=81.4 lambda=25m mtriode=2.51 ksubthres=.1 Is=43p N=1.11854 Rb=408u Eg=1.11 XTI=0.304817 trb1=1.81m vtotc=-5m trd1=12m trs1=12m Cgs=6n Cgdmin=10p Cgdmax=1.8n Cjo=8n m=.6 tt=46n mfg=Alpha_&_Omega Vds=150 Ron=3.9m Qg=80n)

@@ -1,0 +1,1 @@
+.model RFUH20NS4S D(Is=16.259E-9 N=1.9942 Rs=8.5699E-3 Ikf=.54992 Eg=1.0700 Cjo=266.00E-12 M=.45918 Vj=.51161 Isr=175.51E-12 Bv=430 Tt=34n Tikf=0.01 Iave=20 Vpk=430 mfg=Rohm type=Silicon)

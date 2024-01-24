@@ -1,0 +1,1 @@
+.model AONP36336_Q2 VDMOS(Rs=2.02m Rd=2.02m Rg=1.8 Vto=1.76 Kp=106 lambda=334m mtriode=1.97 ksubthres=.1 Is=3.18p N=1.01302 Rb=5.49m Eg=1.11 XTI=0.304817 trb1=-706u vtotc=-2m trd1=5m trs1=5m Cgs=.8n Cgdmin=50p Cgdmax=400p Cjo=.48n m=.42 tt=.7n mfg=Alpha_&_Omega Vds=30 Ron=5.8m Qg=6n)

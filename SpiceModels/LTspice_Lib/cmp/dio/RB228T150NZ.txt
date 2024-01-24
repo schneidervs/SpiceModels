@@ -1,0 +1,1 @@
+.model RB228T150NZ D(Is=8.4135E-8 N=1.1833 Rs=8.3621E-3 Ikf=.15067 Xti=2 Eg=.77 Cjo=1.0140E-9 M=.51123 Vj=.56164 Isr=1.40474E-8 Nr=1.1500 Bv=150 Trs1=4.2500E-4 Iave=30 Vpk=150 mfg=Rohm type=Schottky)

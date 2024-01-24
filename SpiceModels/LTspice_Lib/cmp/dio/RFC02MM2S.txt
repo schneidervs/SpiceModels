@@ -1,0 +1,1 @@
+.model RFC02MM2S D(Is=21.556E-12 N=1.1821 Rs=69.396E-3 Ikf=8.9028E-3 Eg=1.0000 Cjo=12.289E-12 M=.32225 Vj=.50152 Isr=1.1879E-9 Nr=1.8500 Bv=200 Tt=42.420E-9 Tikf=0.011 Iave=0.5 Vpk=200 mfg=Rohm type=Silicon)

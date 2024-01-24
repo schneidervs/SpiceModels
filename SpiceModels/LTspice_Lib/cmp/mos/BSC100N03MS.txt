@@ -1,0 +1,1 @@
+.model BSC100N03MS VDMOS(Rg=0.9 Vto=2.52 Rd=5.18m Rs=449u Rb=2.31m Kp=120.9 Lambda=0.07 Cgdmin=23p Cgdmax=0.32n A=0.6 Cgs=1.3n Cjo=1.19n M=0.3 Is=7.9p VJ=0.9 N=1.11 TT=3n ksubthres=.1 mfg=Infineon Vds=30 Ron=12m Qg=8n)

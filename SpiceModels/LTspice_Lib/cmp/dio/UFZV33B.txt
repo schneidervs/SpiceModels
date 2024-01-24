@@ -1,0 +1,1 @@
+.model UFZV33B D(Is=3.5673E-15 N=1.0706 Rs=0.2203 Ikf=198.15 Eg=1.13 Cjo=36.598E-12 M=0.3284 Vj=0.6165 Isr=2.7998E-12 Nr=4.2 Bv=31.5 Ibv=5.0000E-3 Nbv=0.9 Tbv1=0.8600E-3 Vpk=33 mfg=Rohm type=Zener)

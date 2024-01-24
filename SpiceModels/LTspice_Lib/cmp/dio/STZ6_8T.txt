@@ -1,0 +1,1 @@
+.model STZ6_8T D(Is=121.28E-18 N=1.0086 Rs=.21944 Ikf=.13889 Cjo=18.108E-12 M=.3538 Vj=.80345 Isr=66.267E-12 Nr=3 Bv=6.8050 Ibv=4.9900E-3 Tt=274.11E-9 Nbv=0.3 Tbv1=0.00048 Nbvl=13 Ibvl=1.0000E-7 Vpk=6.8 mfg=Rohm type=Zener)

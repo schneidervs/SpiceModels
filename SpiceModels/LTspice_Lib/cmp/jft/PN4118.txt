@@ -1,0 +1,1 @@
+.model PN4118 NJF(Beta=2.04m Betatce=-0.5 Vto=-2.37 Vtotc=-2.5m Lambda=10.26m Is=3.99f Xti=0 Rd=7 Rs=8 Cgd=1p Cgs=1p Fc=0.5 M=500m Pb=0.8 Kf=76700f Af=1 Mfg=Linear_Systems)

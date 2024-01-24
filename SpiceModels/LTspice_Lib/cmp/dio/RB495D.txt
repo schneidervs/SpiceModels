@@ -1,0 +1,1 @@
+.model RB495D D(Is=1.9668E-6 N=1.0101 Rs=.27703 Ikf=27.254 Xti=2 Eg=.59 Cjo=64.352E-12 M=.49607 Vj=.5015 Isr=9.010E-6 Nr=1.2000 Bv=40 Trs1=0.0061 Iave=0.4 Vpk=40 mfg=Rohm type=Schottky)

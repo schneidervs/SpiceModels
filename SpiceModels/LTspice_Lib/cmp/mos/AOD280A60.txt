@@ -1,0 +1,1 @@
+.model AOD280A60 VDMOS(Kp=8.0432 Rs=0.0025 Rd=0.2226 Rg=5.3 Vto=4.99 Lambda=0.004 Cgdmax=813p Cgdmin=3p Cgs=1348p tt=403n A=7.77 Is=4.97E-10 N=1.386 Rb=0.003259 BV=679 IBV=1u M=0.632 Vj=0.1 Cjo=5842.0pF mfg=AOS Vds=600 Ron=250m Qg=23.5n)

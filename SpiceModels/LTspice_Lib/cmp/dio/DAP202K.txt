@@ -1,0 +1,1 @@
+.model DAP202K D(Is=12.022E-12 N=1.2200 Rs=.1833 Ikf=1.4153E-3 Cjo=3.1126E-12 M=.2257 Vj=.82009 Isr=5.3768E-9 Nr=2.3000 Bv=80 Tt=21.700E-9 Iave=0.1 Vpk=80 mfg=Rohm type=Silicon)

@@ -1,0 +1,1 @@
+.model PMEG2010AEB D(Is=87.24u Rs=.2728 N=.9699 Cjo=29.99p M=.3755 Eg=.69 Xti=2 BV=22 IBV=.0004 Vj=.2604 Iave=1 Vpk=20 mfg=NXP type=Schottky)

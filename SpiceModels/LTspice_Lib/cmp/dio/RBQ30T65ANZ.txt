@@ -1,0 +1,1 @@
+.model RBQ30T65ANZ D(Is=179.97E-9 N=0.8873 Rs=8.4332E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.731 Cjo=1.1995E-9 M=0.4962 Vj=0.5000 Isr=3.1974E-6 Nr=1.1954 Bv=65 Trs1=-870.46E-6 Iave=30 Vpk=65 mfg=Rohm type=Schottky)

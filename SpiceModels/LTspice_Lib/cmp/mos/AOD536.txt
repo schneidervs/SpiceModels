@@ -1,0 +1,1 @@
+.model AOD536 VDMOS(Kp=42.3159 Rs=0.0038 Rd=0.001 Rg=2.5 Vto=2.4 Lambda=0.08 mtriode=1 Ksubthres=0.1 Cgdmax=237p Cgdmin=14p Cgs=1095p tt=17n A=0.18 Is=2.96E-12 N=1.058 Rb=0.004115 M=0.658 Vj=4.99 Cjo=885.0pF mfg=AOS Vds=30 Ron=7m Qg=14n)

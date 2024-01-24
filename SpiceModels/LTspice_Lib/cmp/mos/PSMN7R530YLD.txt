@@ -1,0 +1,1 @@
+.model PSMN7R530YLD VDMOS(Rg=0.25 Vto=2.2 Rd=5m Rs=100u Rb=4m Kp=150 Lambda=0 Cgdmin=50p Cgdmax=464p A=0.6 Cgs=0.63n Cjo=1.19n M=0.25 Is=0.26p VJ=0.6 N=1 TT=3n Fc=0.5 Bv=33 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=7.5m Qg=5.5n)

@@ -1,0 +1,1 @@
+.model AONS62602 VDMOS(Rs=712u Rd=712u Rg=700m Vto=2.41 Kp=118 lambda=238m mtriode=2.84 ksubthres=.1 Is=5.45p N=1.01857 Rb=1.19m Eg=1.11 XTI=1.04393 vtotc=-1.8m trd1=8m trs1=8m Cgs=5n Cgdmin=25p Cgdmax=3n Cjo=2.4n m=.3 tt=5.65n mfg=Alpha_&_Omega Vds=60 Ron=2.85m Qg=35.5n)

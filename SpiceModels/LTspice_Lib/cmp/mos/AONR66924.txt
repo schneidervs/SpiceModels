@@ -1,0 +1,1 @@
+.model AONR66924 VDMOS(Rs=4.8m Rd=4.8m Rg=1.4 Vto=2.64 Kp=64.5 lambda=99.8m mtriode=2.02 ksubthres=.1 Is=2.09p N=1.04682 Rb=3.84m Eg=1.11 XTI=1.96526 trb1=1.37m vtotc=-2m trd1=6.5m trs1=6.5m Cgs=.6n Cgdmin=25p Cgdmax=300p Cjo=900p m=.5 tt=7.4n mfg=Alpha_&_Omega Vds=100 Ron=14m Qg=9.8n)

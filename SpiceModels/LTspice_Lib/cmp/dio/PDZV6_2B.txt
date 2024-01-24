@@ -1,0 +1,1 @@
+.model PDZV6_2B D(Is=798.00E-18 N=0.9366 Rs=87.150E-3 Ikf=29.650E-3 Cjo=655.00E-12 M=0.3756 Vj=0.8407 Isr=3.4700E-12 Nr=5 Bv=6.61 Ibv=0.04 Nbv=0.33 Tbv1=0.4300E-3 Nbvl=9.7 Ibvl=200.00E-6 Vpk=6.2 mfg=Rohm type=Zener)

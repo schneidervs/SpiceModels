@@ -1,0 +1,1 @@
+.model RSJ400N06 VDMOS(Rg=6.1 Vto=2.752 Rd=5.35m Rs=5m Rb=3m Kp=184.2 Lambda=50m Cgdmin=90p Cgdmax=1.7n A=0.5 Cgso=2.15n Is=9.424p N=1.046 Cjo=916.02p M=505.77m Vj=761.65m TT=53n mfg=Rohm Vds=60 Ron=11m Qg=52n)

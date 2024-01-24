@@ -1,0 +1,1 @@
+.model RB501VM-40 D(Is=1.8328E-6 N=1.1427 Rs=.89254 Ikf=12.564 Xti=2 Eg=.6100 Cjo=23.035E-12 M=.42022 Vj=.3905 Isr=2.110E-6 Nr=1.3000 Bv=45 Trs1=0.0070 Iave=0.1 Vpk=45 mfg=Rohm type=Schottky)

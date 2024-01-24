@@ -1,0 +1,1 @@
+.model LS840 NJF(Beta=0.88m Betatce=-0.5 Vto=-1.81 Vtotc=-2.5m Lambda=8.47m Is=2.56f Xti=0 Rd=11 Rs=13 Cgd=1p Cgs=1p Fc=0.5 M=500m Pb=0.8 Kf=0 Af=1 Mfg=Linear_Systems)

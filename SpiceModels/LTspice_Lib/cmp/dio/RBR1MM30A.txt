@@ -1,0 +1,1 @@
+.model RBR1MM30A D(Is=.34865E-6 N=0.9964 Rs=33.832E-3 Ikf=2.9622 Xti=2 Eg=.69 Cjo=219.88E-12 M=.47548 Vj=.50421 Isr=1.25974E-6 Nr=1.2700 Bv=30 Trs1=4.1000E-3 Iave=1 Vpk=30 mfg=Rohm type=Schottky)

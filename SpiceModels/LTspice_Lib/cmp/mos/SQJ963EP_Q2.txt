@@ -1,0 +1,1 @@
+.model SQJ963EP_Q2 VDMOS(pchan Kp=4.0048 Rs=0.0007 Rd=0.0351 Rg=6.9 Vto=-2.0 lambda=0.01 Cgdmax=875p Cgdmin=40p Cgs=852p TT=52n Is=2.22E-12 N=1.068 Rb=0.018832 M=0.714 VJ=1.63 Cjo=365.76pF mfg=Vishay Vds=-60 Ron=0.085 Qg=26.5n)

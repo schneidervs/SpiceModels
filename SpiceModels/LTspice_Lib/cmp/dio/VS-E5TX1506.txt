@@ -1,0 +1,1 @@
+.model VS-E5TX1506 D(Is=476.13E-6 N=4.4507 Rs=4.4171E-3 Ikf=.92778 Cjo=220.63E-12 M=.40833 Vj=.3925 Isr=10.010E-21 Nr=4.9950 Bv=716.57 Ibv=25.865E-3 tt=16.371E-9 Vp=0.11 Xti=13 Tikf=0.08 Trs1=0.0005 Iave=15 Vpk=600 mfg=Vishay type=FastRecovery)

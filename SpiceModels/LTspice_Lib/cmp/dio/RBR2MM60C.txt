@@ -1,0 +1,1 @@
+.model RBR2MM60C D(Is=610.09E-9 N=0.9995 Rs=47.773E-3 Ikf=5.3565 Xti=2 Eg=.69 Cjo=305.30E-12 M=.51471 Vj=.50368 Isr=2.2499E-6 Nr=1.2200 Bv=60 Trs1=5.7600E-3 Iave=2 Vpk=60 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model RB532HS-30 D(Is=175.10E-9 N=1.0710 Rs=1.4130 Ikf=396.53E-3 Xti=3.5 Eg=.55 Cjo=18.124E-12 M=.37942 Vj=.5012 Isr=4.4870E-6 Nr=1.1500 Bv=30 Trs1=2.5450E-3 Iave=0.2 Vpk=30 mfg=Rohm type=Schottky)

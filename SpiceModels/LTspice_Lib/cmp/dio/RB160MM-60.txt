@@ -1,0 +1,1 @@
+.model RB160MM-60 D(Is=245.71E-9 N=.93892 Rs=56.215E-3 Ikf=46.870E-3 Xti=2 Eg=.65 Cjo=209.47E-12 M=.5166 Vj=.42273 Isr=214.58E-9 Nr=1.7000 Bv=60 Iave=1 Vpk=60 mfg=Rohm type=Schottky)

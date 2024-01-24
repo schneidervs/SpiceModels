@@ -1,0 +1,1 @@
+.model UFZV36B D(Is=2.9793E-15 N=1.0611 Rs=0.1974 Ikf=0.3284 Eg=1.125 Cjo=34.511E-12 M=0.3294 Vj=0.6145 Isr=2.0578E-12 Nr=4 Bv=34.175 Ibv=5.0000E-3 Nbv=1.4 Tbv1=0.8100E-3 Vpk=36 mfg=Rohm type=Zener)

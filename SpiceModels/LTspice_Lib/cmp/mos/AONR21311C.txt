@@ -1,0 +1,1 @@
+.model AONR21311C VDMOS(pchan Rs=13.9m Rd=13.9m Rg=15 Vto=-1.86 Kp=9.33 lambda=129m mtriode=2.19 ksubthres=.1 Is=4.38p N=1.08551 Rb=15m Eg=1.11 XTI=1.50279 trb1=2.37m vtotc=2.5m trd1=5.2m trs1=5.2m Cgs=.6n Cgdmin=50p Cgdmax=500p Cjo=50p m=.5 tt=1.86n mfg=Alpha_&_Omega Vds=-30 Ron=48m Qg=6n)

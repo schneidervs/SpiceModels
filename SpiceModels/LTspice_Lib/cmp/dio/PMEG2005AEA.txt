@@ -1,0 +1,1 @@
+.model PMEG2005AEA D(Is=3.334u Rs=.08222 N=.9791 Cjo=.1266n M=.5 Eg=.69 Xti=2 BV=22 IBV=.0001 Vj=.3619 Iave=.5 Vpk=20 mfg=NXP type=Schottky)

@@ -1,0 +1,1 @@
+.model IXFX90N30 VDMOS(Rg=3 Vto=3.6 Rd=13.2m Rs=9.9m Rb=17m Kp=90 Cgdmax=30n Cgdmin=10n Cgs=100n Cjo=30n Is=720p ksubthres=.1 mfg=IXYS Vds=300 Ron=33m Qg=360n)

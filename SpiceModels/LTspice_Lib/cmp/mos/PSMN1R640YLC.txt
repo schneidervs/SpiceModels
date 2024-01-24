@@ -1,0 +1,1 @@
+.model PSMN1R640YLC VDMOS(Rg=1.185 Vto=1.97 Rd=785u Rs=100u Rb=679u Kp=700 Lambda=0 Cgdmin=372p Cgdmax=4608p A=0.6 Cgs=6.72n Cjo=7.78n M=0.79 Is=0 VJ=0.99 N=1 TT=3n Fc=0.5 Bv=44 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=40 Ron=1.55m Qg=59n)

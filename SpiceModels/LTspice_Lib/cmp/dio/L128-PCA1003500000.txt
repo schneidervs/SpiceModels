@@ -1,0 +1,1 @@
+.model L128-PCA1003500000 D(Is=1.0029E-28 Rs=2.1139 N=1.7146 Cj0=309p Iave=120m mfg=Lumileds type=LED)

@@ -1,0 +1,1 @@
+.model UMN11N D(Is=936.79E-12 N=1.7211 Rs=1.0196 Ikf=28.904 Cjo=1.7934E-12 M=.18986 Vj=.86529 Isr=2.0505E-9 Nr=2.4000 Bv=80 Tt=37.000E-9 Iave=0.1 Vpk=80 mfg=Rohm type=Silicon)

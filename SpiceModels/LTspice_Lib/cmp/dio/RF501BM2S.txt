@@ -1,0 +1,1 @@
+.model RF501BM2S D(Is=29.875E-12 N=1.0196 Rs=6.7508E-3 Ikf=74.606E-3 Eg=0.91 Cjo=203.53E-12 M=0.4286 Vj=0.5153 Isr=397.65E-12 Bv=200 Tt=28.7n Trs1=0.0012 Tikf=0.014 Iave=5 Vpk=200 mfg=Rohm type=Silicon)

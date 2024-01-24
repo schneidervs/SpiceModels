@@ -1,0 +1,1 @@
+.model SP8J66 VDMOS(pchan Rg=14 Vto=-2.105 Rd=1.9m Rs=10m Rb=12m Kp=76.27 Lambda=50m Cgdmin=250p Cgdmax=1.8n A=0.6 Cgso=2.6n Is=4.021p N=982.63m Cjo=97.023p M=1.342 Vj=810.61m TT=28n ksubthres=.1 mfg=Rohm Vds=-30 Ron=13.5m Qg=35n)

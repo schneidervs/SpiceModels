@@ -1,0 +1,1 @@
+.model SQ4920EY_Q1 VDMOS(Kp=11.6376 Rs=0.0001 Rd=0.0021 Rg=5.0 Vto=2.0 lambda=0.001 Cgdmax=673p Cgdmin=100p Cgs=1090p TT=10n Is=9.15E-13 N=0.966 Rb=0.007414 M=0.431 VJ=0.37 Cjo=731.49pF mfg=Vishay Vds=30 Ron=0.0145 Qg=19.7n)

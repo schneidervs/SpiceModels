@@ -1,0 +1,1 @@
+.model L128-xxyyCA3500001 D(Is=9.8947E-23 Rs=2.2451 N=2.1894 Cj0=147p Iave=120m mfg=Lumileds type=LED)

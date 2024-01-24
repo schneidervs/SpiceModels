@@ -1,0 +1,1 @@
+.model UFZV39B D(Is=2.3020E-15 N=1.0498 Rs=0.1998 Ikf=0.3088 Eg=1.14 Cjo=32.357E-12 M=0.3315 Vj=0.6233 Isr=2.1494E-12 Nr=2.55 Bv=36.89 Ibv=5.0000E-3 Nbv=1.6 Tbv1=0.9000E-3 Ibvl=200.00E-12 Nbvl=87 Vpk=39 mfg=Rohm type=Zener)

@@ -1,0 +1,1 @@
+.model RF071MM2S D(Is=30.548E-12 N=1.0916 Rs=17.205E-3 Ikf=18.602E-3 Eg=.95 Cjo=37.745E-12 M=.4084 Vj=.49252 Isr=770.05E-12 Nr=2.2000 Bv=200 Tt=28.4n Tikf=0.01 Iave=0.7 Vpk=200 mfg=Rohm type=Silicon)

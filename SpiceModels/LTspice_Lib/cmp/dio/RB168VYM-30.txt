@@ -1,0 +1,1 @@
+.model RB168VYM-30 D(Is=7.404n N=1.178 Rs=37.36m Ikf=310m Xti=2 Eg=840m Cjo=115p M=448m Vj=510.3m Isr=723p Nr=1.2 Bv=30 Trs1=220u Iave=0.001 Vpk=40 mfg=Rohm type=Schottky)

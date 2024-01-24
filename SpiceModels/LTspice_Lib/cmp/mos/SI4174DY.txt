@@ -1,0 +1,1 @@
+.model SI4174DY VDMOS(Kp=40.0982 Rs=0.0001 Rd=0.0047 Rg=1.3 Vto=1.61 lambda=0.001 Cgdmax=606p Cgdmin=50p Cgs=909p TT=20n Is=2.25E-11 N=1.098 Rb=0.003855 M=0.275 VJ=0.1 Cjo=637.09pF mfg=Vishay Vds=30 Ron=0.0095 Qg=8n)

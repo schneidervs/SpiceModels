@@ -1,0 +1,1 @@
+.model DAN202UM D(Is=1.0978E-9 N=1.7176 Rs=.32884 Ikf=10.057E-3 Eg=1.09 Cjo=740.00E-15 M=.10237 Vj=.5009 Isr=3.7486E-9 Nr=2.6 Bv=80 Tt=37.000E-9 Tikf=0.005 Iave=0.1 Vpk=80 mfg=Rohm type=Silicon)

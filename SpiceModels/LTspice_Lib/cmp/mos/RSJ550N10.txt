@@ -1,0 +1,1 @@
+.model RSJ550N10 VDMOS(Rg=6.2 Vto=2.104 Rd=10.5m Rs=1m Rb=3m Kp=264.6 Lambda=50m Cgdmin=200p Cgdmax=6n A=1.2 Cgso=5.83n Is=108.17p N=1.091 Cjo=1.3108n M=635.77m Vj=763.99m TT=58n mfg=Rohm Vds=100 Ron=12m Qg=143n)

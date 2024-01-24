@@ -1,0 +1,1 @@
+.model TFZV8_2B D(Is=1.0892E-15 N=1.0325 Rs=0.3054 Ikf=51.938 Cjo=147.23E-12 M=0.3279 Vj=0.6068 Isr=34.177E-12 Nr=4 Bv=7.985 Ibv=20.000E-3 Tt=33.000E-9 Nbv=0.36 Tbv1=0.5100E-3 Nbvl=12.7 Ibvl=10.000E-6 Vpk=8.2 mfg=Rohm type=Zener)

@@ -1,0 +1,1 @@
+.model BSC009NE2LS5I VDMOS(Rg=.65 Vto=2.05 Rd=450u Rs=70u Rb=1.8m Kp=600 Ksubthres=.1 Mtriode=1.7 Theta=.15 Lambda=.1 Cgdmin=80p Cgdmax=900p A=.5 Cgs=2.5n Cjo=5n M=.5 Is=400n VJ=.8 N=1 mfg=Infineon Vds=25 Ron=.95m Qg=17n RthetaJA=50 Imult=10 Iexponent=.3 R6=31.8m C6=.177u R5=101m C5=.277u R4=274m C4=1.6m R3=849m C3=8.83m R2=73.4m C2=3.3m R1=1.05m C1=1.82m)

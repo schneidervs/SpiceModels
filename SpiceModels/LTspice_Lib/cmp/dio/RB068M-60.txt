@@ -1,0 +1,1 @@
+.model RB068M-60 D(Is=6.9603E-9 N=1.0258 Rs=14.447E-3 Ikf=67.536E-3 Xti=2 Eg=.69 Cjo=206.00E-12 M=.50548 Vj=.56077 Isr=2.3017E-9 Nr=1.2500 Bv=60 Iave=2 Vpk=60 mfg=Rohm type=Schottky)

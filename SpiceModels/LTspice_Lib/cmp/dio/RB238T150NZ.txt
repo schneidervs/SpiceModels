@@ -1,0 +1,1 @@
+.model RB238T150NZ D(Is=2.9433E-7 N=1.1583 Rs=4.9695E-3 Ikf=.28076 Xti=2 Eg=.77 Cjo=1.6090E-9 M=.50566 Vj=.50865 Isr=1.0470E-8 Nr=1.1700 Bv=150 Trs1=4.2500E-4 Iave=40 Vpk=150 mfg=Rohm type=Schottky)

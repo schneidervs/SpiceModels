@@ -1,0 +1,1 @@
+.model RB511VM-30 D(Is=272.96E-9 N=1.0408 Rs=2.1384 Ikf=16.845 Xti=2 Eg=.58 Cjo=7.1582E-12 M=.39951 Vj=.5013 Isr=0.8010E-6 Nr=1.3000 Bv=30 Trs1=0.0053 Iave=0.1 Vpk=30 mfg=Rohm type=Schottky)

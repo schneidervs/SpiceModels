@@ -1,0 +1,1 @@
+.model RJK005N03 VDMOS(Rg=90 Vto=1.554 Rd=107m Rs=200m Rb=150m Kp=3.77 Lambda=50m Cgdmin=6.5p Cgdmax=90p A=1 Cgso=48p Is=62.344f N=991.87m Cjo=53.385p M=501.21m Vj=536.23m TT=22n ksubthres=.1 mfg=Rohm Vds=30 Ron=400m Qg=2n)

@@ -1,0 +1,1 @@
+.model TFZV12B D(Is=0.8556E-15 N=1.0199 Rs=35.074E-3 Ikf=41.548E-3 Xti=3.8 Cjo=86.000E-12 M=0.3466 Vj=0.7225 Isr=1.4809E-12 Nr=2.48 Bv=11.75 Ibv=10.000E-3 Nbv=0.4 Tbv1=0.0007 Nbvl=38 Ibvl=450.00E-12 Vpk=12 mfg=Rohm type=Zener)

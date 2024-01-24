@@ -1,0 +1,1 @@
+.model SP8K22 VDMOS(Rg=19.5 Vto=2.31 Rd=9.6m Rs=20m Rb=26.776m Kp=38.29 Lambda=30m Cgdmin=35p Cgdmax=380p A=0.6 Cgso=480p Is=6.6298p N=1.097 Cjo=153.13p M=449.32m Vj=2.123 TT=28n mfg=Rohm Vds=45 Ron=33m Qg=6.8n)

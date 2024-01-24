@@ -1,0 +1,1 @@
+.model U401 NJF(Beta=1.577m Betatce=-0.5 Vto=-1.316 Vtotc=-2.5m Lambda=10m Is=19.73f Xti=3 Isr=191.3f Nr=2 Alpha=68.56u N=1 Rd=1 Rs=1 Cgd=5.6p Cgs=6.044p Fc=0.5 Vk=212.2 M=.3916 Pb=0.5 Kf=45920f Af=1 Mfg=Linear_Systems)

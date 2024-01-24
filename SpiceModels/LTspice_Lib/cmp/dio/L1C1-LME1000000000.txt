@@ -1,0 +1,1 @@
+.model L1C1-LME1000000000 D(Is=3.3507E-29 Rs=0.1706 N=1.6232 Cj0=1.406n Iave=350m mfg=Lumileds type=LED)

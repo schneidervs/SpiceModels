@@ -1,0 +1,1 @@
+.model SQJ844AEP_Q1 VDMOS(Kp=12.6184 Rs=0.0001 Rd=0.0049 Rg=3.28 Vto=0.97 lambda=0.001 Cgdmax=440p Cgdmin=80p Cgs=836p TT=06n Is=2.59E-11 N=1.152 Rb=0.004114 M=0.519 VJ=1.3 Cjo=729.23pF mfg=Vishay Vds=30 Ron=0.0166 Qg=17n)

@@ -1,0 +1,1 @@
+.model RB751VM-40 D(Is=0.7600E-9 N=0.9090 Rs=6.8891 Ikf=2.4808E-3 Xti=2 Eg=0.6500 Cjo=2.1997E-12 M=.32799 Vj=.5050 Isr=58.001E-9 Nr=1.2500 Bv=40 Trs1=0.003 Iave=0.03 Vpk=40 mfg=Rohm type=Schottky)

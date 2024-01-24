@@ -1,0 +1,1 @@
+.model AOTL66912 VDMOS(Kp=142 Rs=100u Rd=1.01m Rg=1.75 Vto=3.8 mtriode=3.7 Ksubthres=0.18 VtoTc=-5m Bex=-1.69 Trd1=5.9m Trd2=16u Eg=1.06 Trb1=2.4m Lambda=0.038 Cgdmax=2994p Cgdmin=48p Cgs=12445p tt=79n A=3.4 Is=10.33E-12 N=1.01 Rb=735u BV=115.6 IBV=250u M=7.87 Vj=394.59 Cjo=8017.0pF mfg=AOS Vds=100 Ron=1.4m Qg=155n)

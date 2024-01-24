@@ -1,0 +1,1 @@
+.model RHP020N06 VDMOS(Rg=14 Vto=2.026 Rd=25m Rs=100m Rb=40.08m Kp=5.124 Lambda=50m Cgdmin=20p Cgdmax=350p A=0.9 Cgso=100p Is=370.12f N=1.012 Cjo=119.82p M=521.48m Vj=755.74m TT=10n ksubthres=.1 mfg=Rohm Vds=60 Ron=150m Qg=7n)

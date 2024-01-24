@@ -1,0 +1,1 @@
+.model RB228T100NZ D(Is=14.683E-9 N=1.1561 Rs=5.4852E-3 Ikf=.26541 Xti=2 Eg=.73 Cjo=516.00E-12 M=.54424 Vj=.5157 Isr=5.3880E-9 Nr=1.5000 Bv=110 Iave=30 Vpk=110 mfg=Rohm type=Schottky)

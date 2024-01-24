@@ -1,0 +1,1 @@
+.model AOD4184A VDMOS(Kp=70.0022 Rs=0.0001 Rd=0.0038 Rg=3.0 Vto=2.61 mtriode=0.8 Ksubthres=0.1 Lambda=0.11 Cgdmax=1294p Cgdmin=24p Cgs=1365p tt=42n A=0.22 Is=5.47E-14 N=0.88 Rb=0.005291 M=0.678 Vj=1.44 Cjo=500.0pF mfg=AOS Vds=40 Ron=5.8m Qg=14n)

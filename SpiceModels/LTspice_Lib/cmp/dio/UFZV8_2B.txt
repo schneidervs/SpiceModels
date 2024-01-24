@@ -1,0 +1,1 @@
+.model UFZV8_2B D(Is=1.1485E-15 N=1.0287 Rs=0.2848 Ikf=0.3976 Eg=1.13 Cjo=147.23E-12 M=0.3274 Vj=0.6073 Isr=373.78E-12 Nr=7 Bv=8.042 Ibv=20.000E-3 Nbv=0.34 Tbv1=0.5000E-3 Nbvl=10 Ibvl=10.000E-6 Vpk=8.2 mfg=Rohm type=Zener)

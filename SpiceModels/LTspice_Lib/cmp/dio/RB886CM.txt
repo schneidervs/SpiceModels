@@ -1,0 +1,1 @@
+.model RB886CM D(Is=1.5377E-6 N=1.1060 Rs=82.547 Ikf=0.6125 Xti=1.7 Eg=0.39 Cjo=645.48E-15 M=0.2092 Vj=0.5026 Isr=2.4125E-6 Nr=1.9 Bv=15 Trs1=0.005 Iave=0.01 Vpk=5 mfg=Rohm type=Schottky)

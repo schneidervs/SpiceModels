@@ -1,0 +1,1 @@
+.model RBQ30NS65A D(Is=522.89E-9 N=1.0082 Rs=10.224E-3 Ikf=4.0679 Xti=2 Eg=.69 Cjo=1.2240E-9 M=.51737 Vj=.51071 Isr=539.52E-9 Nr=1.2000 Bv=65 Trs1=0.002 Iave=30 Vpk=65 mfg=Rohm type=Schottky)

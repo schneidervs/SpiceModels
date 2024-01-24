@@ -1,0 +1,1 @@
+.model UMZ5_1N D(Is=195.31E-18 N=1.0202 Rs=.18755 Ikf=23.861 Cjo=33.759E-12 M=.46336 Vj=.80698 Isr=71.903E-12 Bv=5.0900 Ibv=4.6000E-3 Tt=44.724E-9 Nbv=0.3 Tbv1=0.00025 Nbvl=8.5 Ibvl=4.0000E-4 Vpk=5.1 mfg=Rohm type=Zener)

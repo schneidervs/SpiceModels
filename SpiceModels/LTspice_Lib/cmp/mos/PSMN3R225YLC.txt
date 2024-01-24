@@ -1,0 +1,1 @@
+.model PSMN3R225YLC VDMOS(Rg=1.78 Vto=1.97 Rd=1.77m Rs=100u Rb=803u Kp=283 Lambda=0 Cgdmin=143p Cgdmax=1783p A=0.6 Cgs=1.8n Cjo=2.18n M=0.61 Is=1.31p VJ=0.64 N=1 TT=3n Fc=0.5 Bv=26 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=25 Ron=3.4m Qg=14n)

@@ -1,0 +1,1 @@
+.model Si7461DP VDMOS(Rg=3 Vto=-2.62 ksubthres=.1 mtriode=1.4 theta=.2 Rd=6.68m Rs=3.1m Rb=5m Kp=140 lambda=.02 A=1 Cgdmax=5n Cgdmin=250p Cgs=5.3n Cjo=1n M=.5 Is=250p N=1.2 mfg=Siliconix Vds=-60 Ron=11.5m Qg=121n pchan)

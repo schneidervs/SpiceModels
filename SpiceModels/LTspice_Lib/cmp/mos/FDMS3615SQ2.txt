@@ -1,0 +1,1 @@
+.model FDMS3615SQ2 VDMOS(mtriode=2 Rg=1.4 Vto=2.4 Rd=.4m Rs=1.6m Rb=70m Kp=120 Lambda=0.5 Cgdmin=90p Cgdmax=0.5n A=0.9 Cgs=2.4n Cjo=1.7n M=0.5 VJ=0.5 Is=50u N=1.1 ksubthres=.1 mfg=Fairchild Vds=25 Ron=.9m Qg=43n)

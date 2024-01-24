@@ -1,0 +1,1 @@
+.model IPB600N25N3 VDMOS(Rg=2.4 Vto=3.7 Rd=47.17m Rs=1.05m Rb=4.44m Kp=48.7 Lambda=0.015 Cgdmin=6p Cgdmax=0.27n A=0.5 Cgs=1.77n Cjo=2.66n M=0.48 Is=16.8p VJ=0.9 N=1.12 TT=150n ksubthres=.1 mfg=Infineon Vds=250 Ron=60m Qg=21n RthetaJA=40 Imult=50 Iexponent=.4 R6=21.5m C6=.291u R5=52m C5=.457u R4=215m C4=1.43m R3=676m C3=11.1m R2=102m C2=258m R1=9.39m C1=1.9m)

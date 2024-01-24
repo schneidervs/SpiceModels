@@ -1,0 +1,1 @@
+.model PSMN3R7-100BSE VDMOS(Rg=1 Mtriode=1.53 Vto=3.6 ksubthres=80m theta=.01 Rd=.1m Rs=.1m Rb=.9m Kp=35 Lambda=.01 Cgdmin=120p Cgdmax=5n A=.5 Cgs=10n Cjo=5n M=0.45 Is=5p VJ=0.25 mfg=NXP Vds=100 Ron=3.36m Qg=176n)

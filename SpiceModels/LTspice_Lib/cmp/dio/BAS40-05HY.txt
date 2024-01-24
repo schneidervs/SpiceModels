@@ -1,0 +1,1 @@
+.model BAS40-05HY D(Is=81.057E-9 N=1.3591 Rs=1.4757 Ikf=1.1850E-3 Xti=2 Eg=.68 Cjo=6.1909E-12 M=.35121 Vj=.5005 Isr=9.8518E-9 Nr=1.1500 Bv=40 Trs1=-950.70E-6 Iave=0.12 Vpk=40 mfg=Rohm type=Schottky)

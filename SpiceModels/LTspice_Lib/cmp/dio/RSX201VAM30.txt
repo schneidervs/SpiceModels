@@ -1,0 +1,1 @@
+.model RSX201VAM30 D(Is=4.2082E-6 N=1.0435 Rs=55.729E-3 Ikf=3.2785 Xti=2 Eg=.59 Cjo=234.59E-12 M=.52838 Vj=.75122 Isr=10.751E-6 Nr=1.1000 Bv=30 Trs1=0.005 Iave=1.5 Vpk=30 mfg=Rohm type=Schottky)

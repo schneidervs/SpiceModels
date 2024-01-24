@@ -1,0 +1,1 @@
+.model DAN217UM D(Is=2.6342E-9 N=1.8236 Rs=.76118 Ikf=.10618 Cjo=661.82E-15 M=.11919 Vj=5.5076 Isr=5.7268E-9 Bv=80 Tt=15n Iave=0.1 Vpk=80 mfg=Rohm type=Silicon)

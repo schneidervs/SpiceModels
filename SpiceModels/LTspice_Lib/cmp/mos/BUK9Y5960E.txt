@@ -1,0 +1,1 @@
+.model BUK9Y5960E VDMOS(Rg=5.73 Vto=2.16 Rd=40m Rs=100u Rb=5.4m Kp=35.7 Lambda=0 Cgdmin=37.4p Cgdmax=550p A=0.6 Cgs=0.49n Cjo=0.19n M=0.53 Is=0 VJ=0.52 N=1 TT=3n Fc=0.5 Bv=66 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=60 Ron=59m Qg=6.1n)

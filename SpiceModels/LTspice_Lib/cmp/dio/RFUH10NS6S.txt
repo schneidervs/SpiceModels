@@ -1,0 +1,1 @@
+.model RFUH10NS6S D(Is=17.288E-9 N=2.4086 Rs=20.868E-3 Ikf=.33206 Eg=1.3000 Cjo=158.20E-12 M=.45903 Vj=.54883 Isr=131.51E-12 Nr=3 Bv=600 Tt=28n Tikf=0.01 Trs1=-0.001 Iave=10 Vpk=600 mfg=Rohm type=Silicon)

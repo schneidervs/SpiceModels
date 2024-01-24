@@ -1,0 +1,1 @@
+.model RSS100N03 VDMOS(Rg=6.5 Vto=2.024 Rd=240u Rs=8m Rb=30m Kp=100.3 Lambda=30m Cgdmin=120p Cgdmax=1050p A=0.5 Cgso=870p Is=800.23f N=947.39m Cjo=244.3p M=430.88m Vj=2.377 TT=25n ksubthres=.1 mfg=Rohm Vds=30 Ron=9.5m Qg=14n)

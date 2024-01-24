@@ -1,0 +1,1 @@
+.model Si7164DP VDMOS(Rg=1.5 Rd=.5m Rs=3.05m mtriode=2 lambda=0.05 Vto=4.2 Kp=60 Cgdmax=1.4n Cgdmin=150p A=1.2 Cgs=2.9n Cjo=2n M=.5 Is=2.6p Rb=1.6m ksubthres=.1 mfg=Siliconix Vds=60 Ron=5m Qg=49.5n)

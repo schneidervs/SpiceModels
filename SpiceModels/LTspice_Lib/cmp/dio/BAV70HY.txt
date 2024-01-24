@@ -1,0 +1,1 @@
+.model BAV70HY D(Is=413.50E-12 N=1.6925 Rs=.82236 Ikf=1.8661 Cjo=564.00E-15 M=.05352 Vj=0.5705 Isr=3.2850E-9 Nr=2.05 Bv=90 Tt=2.9419E-9 Trs1=-6.9700E-3 Iave=0.215 Vpk=90 mfg=Rohm type=Silicon)

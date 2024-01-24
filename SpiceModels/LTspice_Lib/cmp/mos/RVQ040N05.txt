@@ -1,0 +1,1 @@
+.model RVQ040N05 VDMOS(Rg=21 Vto=2.074 Rd=18.4m Rs=15m Rb=17m Kp=27.48 Lambda=50m Cgdmin=30p Cgdmax=300p A=0.7 Cgso=430p Is=2.1851p N=1.037 Cjo=234.68p M=545.8m Vj=753.45m TT=30n mfg=Rohm Vds=45 Ron=38m Qg=6.3n)

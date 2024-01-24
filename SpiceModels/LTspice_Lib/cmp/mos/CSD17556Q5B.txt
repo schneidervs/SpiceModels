@@ -1,0 +1,1 @@
+.model CSD17556Q5B VDMOS(mtriode=2.5 Rg=3 Vto=1.9 Rd=500u Rs=600u Rb=.6m Kp=360 Cgdmax=500p Cgdmin=10p A=.2 Cgs=5.5n Cjo=7n Is=10p M=.4 VJ=.2 ksubthres=.1 mfg=TI Vds=30 Ron=1.5m Qg=30n)

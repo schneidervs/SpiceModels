@@ -1,0 +1,1 @@
+.model RB558WM D(Is=1.1043E-6 N=1.1087 Rs=.65402 Ikf=26.142 Xti=2 Eg=.60 Cjo=17.232E-12 M=.45993 Vj=.50021 Isr=885.10E-9 Nr=1.2000 Bv=30 Trs1=0.0065 Iave=0.1 Vpk=30 mfg=Rohm type=Schottky)

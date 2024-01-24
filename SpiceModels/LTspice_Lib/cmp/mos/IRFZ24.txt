@@ -1,0 +1,1 @@
+.model IRFZ24 VDMOS(Rg=3 Rd=30m Rs=9m Vto=3.5 mtriode=1.8 lambda=.01 Kp=3 Cgdmax=950p Cgdmin=65p A=2 Cgs=650p Cjo=850p Vj=.3 M=.3 Is=.035p Rb=14.5m ksubthres=.1 mfg=International_Rectifier Vds=60 Ron=100m Qg=25n)

@@ -1,0 +1,1 @@
+.model RRS100P03 VDMOS(pchan Rg=11 Vto=-2.19 Rd=2.45m Rs=5m Rb=6.6378m Kp=84.56 Lambda=50m Cgdmin=280p Cgdmax=1.5n A=0.5 Cgso=3.15n Is=77.24p N=1.119 Cjo=50.066p M=1.889 Vj=1.441 TT=60n ksubthres=.1 mfg=Rohm Vds=-30 Ron=9.0m Qg=39n)

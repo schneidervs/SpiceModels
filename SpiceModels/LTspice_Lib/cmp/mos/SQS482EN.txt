@@ -1,0 +1,1 @@
+.model SQS482EN VDMOS(Kp=30.6247 Rs=0.0011 Rd=0.0017 Rg=10.0 Vto=2.0 lambda=0.001 Cgdmax=831p Cgdmin=108p Cgs=1384p TT=71n Is=4.57E-12 N=1.047 Rb=0.003741 M=0.47 VJ=0.5 Cjo=806.41pF mfg=Vishay Vds=30 Ron=0.0085 Qg=26n)

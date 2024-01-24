@@ -1,0 +1,1 @@
+.model AON6162 VDMOS(Kp=100 Rs=0.0 Rd=0.0001 Rg=0.7 Vto=3.35 mtriode=1 Ksubthres=0.01 Lambda=0.18 Cgdmax=2128p Cgdmin=0p Cgs=4720p tt=43n A=0.21 Is=9.40E-13 N=0.93 Rb=0.003845 M=0.824 Vj=13.59 Cjo=4100.0pF mfg=AOS Vds=60 Ron=1.75m Qg=70n)

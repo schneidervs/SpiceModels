@@ -1,0 +1,1 @@
+.model RB160MM-90 D(Is=233.40E-9 N=.92201 Rs=.19364 Ikf=31.868E-3 Xti=2 Eg=.65 Cjo=141.32E-12 M=.51103 Vj=.54163 Isr=121.15E-9 Bv=90 Iave=1 Vpk=90 mfg=Rohm type=Schottky)

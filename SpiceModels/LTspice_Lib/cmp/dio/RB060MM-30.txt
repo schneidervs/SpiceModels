@@ -1,0 +1,1 @@
+.model RB060MM-30 D(Is=684.81E-9 N=1.0244 Rs=44.953E-3 Ikf=25.757 Xti=2 Eg=.69 Cjo=400.26E-12 M=.53071 Vj=.4532 Isr=386.49E-9 Bv=30 Iave=2 Vpk=30 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model EMZT6_8E D(Is=156.41E-18 N=1.0395 Rs=.67858 Ikf=61.182E-3 Cjo=7.0024E-12 M=.27092 Vj=.80496 Isr=1.6068E-9 Nr=3.5000 Bv=6.8050 Ibv=4.9950E-3 Tt=43.281E-9 Nbv=0.5 Tbv1=0.00047 Nbvl=25 Ibvl=5.0000E-6 Vpk=6.8 mfg=Rohm type=Zener)

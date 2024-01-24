@@ -1,0 +1,1 @@
+.model AON6884 VDMOS(Rg=3.5 Vto=2.74 Rd=0.0076 Rs=0.0001 Rb=0.004937 Kp=82.4015 Lambda=0.14 mtriode=1.1 Ksubthres=0.1 Cgdmin=65p Cgdmax=1268p A=4 Cgs=1365p Cjo=500.0pF M=0.678 Is=3.09E-13 Vj=1.44 N=0.933 tt=19n mfg=AOS Vds=40 Ron=9.4m Qg=13.6n)

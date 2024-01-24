@@ -1,0 +1,1 @@
+.model L1HZ-5780100000000 D(Is=3.3766E-22 Rs=0.2718 N=2.1758 Cj0=82.2p Iave=350m mfg=Lumileds type=LED)

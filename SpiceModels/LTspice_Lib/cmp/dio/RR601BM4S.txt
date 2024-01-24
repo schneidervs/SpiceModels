@@ -1,0 +1,1 @@
+.model RR601BM4S D(Is=992.18E-12 N=1.5103 Rs=18.496E-3 Ikf=999.24 Eg=1.1 Cjo=132.94E-12 M=.43093 Vj=.50219 Isr=1.0218E-9 Nr=2.3000 Bv=400 Tt=2.5379E-6 Trs1=0.001 Iave=6 Vpk=400 mfg=Rohm type=Silicon)

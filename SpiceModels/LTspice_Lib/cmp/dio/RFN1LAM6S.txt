@@ -1,0 +1,1 @@
+.model RFN1LAM6S D(Is=5.2996E-9 N=1.6014 Rs=.13712 Ikf=2.9349E-3 Eg=.9 Cjo=13.995E-12 M=.37975 Vj=.50305 Isr=405.68E-12 Nr=3.8000 Bv=600 Tt=60.7n Tikf=0.0100 Trs1=-2.7000E-3 Iave=0.8 Vpk=600 mfg=Rohm type=Silicon)

@@ -1,0 +1,1 @@
+.model SQ4431EY VDMOS(pchan Kp=5.6947 Rs=0.0002 Rd=0.001 Rg=3.36 Vto=-2.0 lambda=0.01 Cgdmax=1132p Cgdmin=150p Cgs=843p TT=48n Is=3.14E-12 N=1.087 Rb=0.005798 M=0.512 VJ=0.28 Cjo=503.11pF mfg=Vishay Vds=-30 Ron=0.03 Qg=25n)

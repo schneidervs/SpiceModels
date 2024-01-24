@@ -1,0 +1,1 @@
+.model AOB66914L VDMOS(Rs=945u Rd=945u Rg=1.75 Vto=3.89 Kp=190 lambda=57.8m mtriode=3.07 ksubthres=.1 Is=14.3p N=1.04161 Rb=403u Eg=1.11 XTI=0.304817 trb1=-10m vtotc=-2.7m trd1=6m trs1=6m Cgs=12n Cgdmin=800p Cgdmax=2n Cjo=9n m=.44 tt=16.75n mfg=Alpha_&_Omega Vds=100 Ron=2.7m Qg=155n)

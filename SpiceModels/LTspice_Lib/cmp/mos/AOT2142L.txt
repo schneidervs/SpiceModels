@@ -1,0 +1,1 @@
+.model AOT2142L VDMOS(Rs=682u Rd=682u Rg=1.15 Vto=2.76 Kp=529 lambda=145m mtriode=1.85 ksubthres=.1 Is=11.2p N=1.02235 Rb=487u Eg=1.11 XTI=1.34132 trb1=-588u vtotc=-2.5m trd1=5m trs1=5m Cgs=7n Cgdmin=10p Cgdmax=3n Cjo=6n m=.3 tt=4.15n mfg=Alpha_&_Omega Vds=40 Ron=1.95m Qg=45n)

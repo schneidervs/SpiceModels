@@ -1,0 +1,1 @@
+.model L128-RYL1003500000 D(Is=3.5247E-21 Rs=2.2575 N=2.3621 Cj0=1.374n Iave=120m mfg=Lumileds type=LED)

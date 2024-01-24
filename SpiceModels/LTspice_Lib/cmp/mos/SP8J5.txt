@@ -1,0 +1,1 @@
+.model SP8J5 VDMOS(pchan Rg=11 Vto=-2.043 Rd=1.9m Rs=15m Rb=40m Kp=40.19 Lambda=50m Cgdmin=250p Cgdmax=1.1n A=0.4 Cgso=2250p Is=4.0821f N=798.72m Cjo=378.83p M=569.6m Vj=1.068 TT=28n mfg=Rohm Vds=-30 Ron=20m Qg=25n)

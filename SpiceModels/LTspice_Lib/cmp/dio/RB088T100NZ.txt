@@ -1,0 +1,1 @@
+.model RB088T100NZ D(Is=8.0702E-8 N=1.2024 Rs=1.5540E-2 Ikf=8.8379E-2 Xti=2 Eg=.78 Cjo=5.1574E-10 M=.55286 Vj=.50685 Isr=2.8607E-9 Nr=1.1000 Bv=110.00 Trs1=-3.2500E-4 Iave=10 Vpk=110 mfg=Rohm type=Schottky)

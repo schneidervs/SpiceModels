@@ -1,0 +1,1 @@
+.model RBR3LAM30B D(Is=715.41E-9 N=1.0181 Rs=26.044E-3 Ikf=379.63 Xti=2 Eg=.69 Cjo=354.14E-12 M=.50858 Vj=.50307 Isr=1.6897E-6 Nr=1.2400 Bv=30 Trs1=4.9600E-3 Iave=3 Vpk=30 mfg=Rohm type=Schottky)

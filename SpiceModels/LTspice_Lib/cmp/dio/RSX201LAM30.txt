@@ -1,0 +1,1 @@
+.model RSX201LAM30 D(Is=7.9939E-6 N=0.9649 Rs=14.234E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.581 Cjo=563.27E-12 M=0.4895 Vj=0.5000 Isr=7.9609E-6 Nr=1.085 Bv=30 Trs1=-0.4745E-3 Tikf=9.6940E-03 Iave=2 Vpk=30 mfg=Rohm type=Schottky)

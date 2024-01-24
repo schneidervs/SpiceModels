@@ -1,0 +1,1 @@
+.model RB060MM-40 D(Is=6.0287E-7 N=1.0068 Rs=5.2387E-2 Ikf=101.65 Xti=2 Eg=.64 Cjo=3.1470E-10 M=.51289 Vj=.51236 Isr=4.7586E-7 Nr=1.2500 Bv=40.000 Trs1=4.8900E-3 Iave=2 Vpk=40 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model RRQ030P03 VDMOS(pchan Rg=50 Vto=-2.3235 Rd=34.2m Rs=10m Rb=40m Kp=12 Lambda=0.05 Cgdmin=50p Cgdmax=180p A=0.5 Cgso=410p Is=41.481p N=1.106 Cjo=40.57p M=1.166 Vj=819.33m TT=16n ksubthres=.1 mfg=Rohm Vds=-30 Ron=55m Qg=5.2n)

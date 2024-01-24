@@ -1,0 +1,1 @@
+.model RBR10T60ANZ D(Is=646.07E-9 N=0.9459 Rs=26.226E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.693 Cjo=412.16E-12 M=0.4984 Vj=0.5000 Isr=3.5042E-6 Nr=1.1596 Bv=60 Trs1=1.2353E-3 Tikf=1.0594E-03 Iave=10 Vpk=60 mfg=Rohm type=Schottky)

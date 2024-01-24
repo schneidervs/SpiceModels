@@ -1,0 +1,1 @@
+.model UMN20N D(Is=630.74E-15 N=1.3208 Rs=.34914 Ikf=22.806E-3 Cjo=2.2100E-12 M=.36689 Vj=.80373 Isr=4.0521E-12 Nr=2.5000 Bv=80 Tt=310.00E-9 Iave=0.1 Vpk=40 mfg=Rohm type=Silicon)

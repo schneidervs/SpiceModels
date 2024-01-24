@@ -1,0 +1,1 @@
+.model RBQ30NS45B D(Is=196.10E-9 N=0.8657 Rs=3.4619E-3 Ikf=28.46 Xti=2.0 Eg=0.71 Cjo=4.7800E-9 M=0.5189 Vj=0.5002 Isr=8.9793E-6 Nr=1.13 Bv=45 Trs1=3.9811E-3 Iave=30 Vpk=45 mfg=Rohm type=Schottky)

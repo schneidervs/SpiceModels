@@ -1,0 +1,1 @@
+.model RB420D D(Is=40.936E-9 N=1.0726 Rs=.59846 Ikf=13.557E-3 Xti=2 Eg=.69 Cjo=22.398E-12 M=.4428 Vj=.5094 Isr=0.510E-7 Nr=1.3000 Bv=40 Trs1=0.0061 Iave=0.1 Vpk=40 mfg=Rohm type=Schottky)

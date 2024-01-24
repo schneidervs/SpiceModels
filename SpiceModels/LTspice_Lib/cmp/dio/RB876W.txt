@@ -1,0 +1,1 @@
+.model RB876W D(Is=1.6577E-6 N=1.3060 Rs=71.547 Ikf=7.2109 Xti=2 Eg=.42 Cjo=788.48E-15 M=.30823 Vj=.51668 Isr=6.2805E-6 Nr=2.6000 Bv=5 Trs1=0.006 Iave=0.01 Vpk=5 mfg=Rohm type=Schottky)

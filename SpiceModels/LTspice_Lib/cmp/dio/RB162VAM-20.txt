@@ -1,0 +1,1 @@
+.model RB162VAM-20 D(Is=34.907E-6 N=.9947 Rs=4.3098E-3 Ikf=.35077 Xti=2 Eg=.59 Cjo=178.07E-12 M=.5229 Vj=.44257 Isr=27.785E-6 Nr=1.2000 Bv=25 Iave=1 Vpk=25 mfg=Rohm type=Schottky)

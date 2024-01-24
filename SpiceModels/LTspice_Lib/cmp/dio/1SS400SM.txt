@@ -1,0 +1,1 @@
+.model 1SS400SM D(Is=1.7962E-9 N=1.7555 Rs=.55113 Ikf=72.153E-3 Cjo=1.3304E-12 M=.11174 Vj=4.1020 Isr=3.2239E-9 Nr=4.0000 Bv=90 Tt=11.542E-9 Iave=0.1 Vpk=90 mfg=Rohm type=Silicon)

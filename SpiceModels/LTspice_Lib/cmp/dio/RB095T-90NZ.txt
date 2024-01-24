@@ -1,0 +1,1 @@
+.model RB095T-90NZ D(Is=379.10E-9 N=.92937 Rs=83.553E-3 Ikf=92.784E-3 Xti=2 Eg=.69 Cjo=362.74E-12 M=.50014 Vj=.40817 Isr=464.11E-9 Bv=90 Iave=6 Vpk=90 mfg=Rohm type=Schottky)

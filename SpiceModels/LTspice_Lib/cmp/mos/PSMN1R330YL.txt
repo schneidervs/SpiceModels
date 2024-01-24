@@ -1,0 +1,1 @@
+.model PSMN1R330YL VDMOS(Rg=0.888 Vto=1.99 Rd=248u Rs=100u Rb=453u Kp=415 Lambda=0 Cgdmin=420p Cgdmax=1.4n A=0.6 Cgs=4.78n Cjo=4.85n M=0.56 Is=10.6p VJ=0.5 N=1 TT=3n Fc=0.5 Bv=33.6 Ibv=250u Nbv=1 ksubthres=.1 mfg=NXP Vds=30 Ron=1.3m Qg=46.6n)

@@ -1,0 +1,1 @@
+.model RB238NS-60 D(Is=41.454E-9 N=1.0327 Rs=6.6479E-3 Ikf=1.8261 Xti=2 Eg=.79 Cjo=1.8265E-9 M=.51276 Vj=.57227 Isr=53.361E-9 Nr=1.2000 Bv=60.000 Trs1=-0.0025 Tikf=-0.0040 Iave=40 Vpk=60 mfg=Rohm type=Schottky)

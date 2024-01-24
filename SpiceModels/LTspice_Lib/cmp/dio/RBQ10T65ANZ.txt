@@ -1,0 +1,1 @@
+.model RBQ10T65ANZ D(Is=92.464E-9 N=0.9450 Rs=24.611E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.730 Cjo=386.44E-12 M=0.4856 Vj=0.5000 Isr=961.53E-9 Nr=1.2091 Bv=65 Trs1=-1.7272E-3 Iave=10 Vpk=65 mfg=Rohm type=Schottky)

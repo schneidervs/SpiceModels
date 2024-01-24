@@ -1,0 +1,1 @@
+.model RB058LAM-30 D(Is=2.1531E-9 N=0.9533 Rs=5.3925E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.843 Cjo=628.07E-12 M=0.4898 Vj=0.5399 Isr=17.206E-9 Nr=1.1816 Bv=30 Trs1=868.13E-6 Iave=3 Vpk=30 mfg=Rohm type=Schottky)

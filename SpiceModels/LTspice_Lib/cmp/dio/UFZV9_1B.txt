@@ -1,0 +1,1 @@
+.model UFZV9_1B D(Is=795.29E-18 N=1.0174 Rs=0.3002 Ikf=125.20 Eg=1.13 Cjo=126.57E-12 M=0.3275 Vj=0.6196 Isr=76.914E-12 Nr=6 Bv=8.87 Ibv=20.000E-3 Nbv=0.34 Tbv1=0.5600E-3 Nbvl=1.6 Ibvl=30.000E-6 Vpk=9.1 mfg=Rohm type=Zener)

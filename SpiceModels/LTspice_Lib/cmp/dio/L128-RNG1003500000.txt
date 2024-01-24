@@ -1,0 +1,1 @@
+.model L128-RNG1003500000 D(Is=1.5726E-14 Rs=1.7628 N=2.4781 Cj0=64.8p Iave=120m mfg=Lumileds type=LED)

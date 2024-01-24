@@ -1,0 +1,1 @@
+.model RHU003N03 VDMOS(Rg=230 Vto=2.206 Rd=146m Rs=500m Rb=136.25m Kp=846.65m Lambda=50m Cgdmin=3.5p Cgdmax=9p A=0.7 Cgso=16p Is=2.0316p N=1.172 Cjo=29.842p M=433.44m Vj=671.71m TT=28n ksubthres=.1 mfg=Rohm Vds=30 Ron=800m Qg=1n)

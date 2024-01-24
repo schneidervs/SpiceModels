@@ -1,0 +1,1 @@
+.model RB706F-40 D(Is=25.660E-9 N=1.0632 Rs=10.765 Ikf=7.8943 Xti=2 Eg=.62 Cjo=2.0853E-12 M=.31825 Vj=.5105 Isr=81.000E-9 Nr=1.3000 Bv=45 Trs1=0.007 Iave=0.03 Vpk=45 mfg=Rohm type=Schottky)

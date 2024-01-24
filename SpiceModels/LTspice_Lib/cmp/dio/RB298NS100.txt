@@ -1,0 +1,1 @@
+.model RB298NS100 D(Is=27.665E-9 N=1.0136 Rs=10.4231E-3 Ikf=.33927 Xti=2 Eg=.81 Cjo=1.2121E-9 M=.53051 Vj=.59122 Isr=28.587E-9 Nr=1.1700 Bv=110 Trs1=-0.0025 Tikf=-0.0028 Iave=30 Vpk=110 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model AOB2144L VDMOS(Rs=612u Rd=612u Rg=2 Vto=2.75 Kp=522 lambda=96.1m mtriode=892m ksubthres=.1 Is=10.1p N=1.04191 Rb=467u Eg=1.11 XTI=2.95589 vtotc=-3m trd1=3m trs1=3m Cgs=6n Cgdmin=50p Cgdmax=.9n Cjo=4.5n m=.5 tt=3n mfg=Alpha_&_Omega Vds=40 Ron=2.45m Qg=28n)

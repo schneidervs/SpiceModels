@@ -1,0 +1,1 @@
+.model RTR040N03 VDMOS(Rg=28 Vto=1.2262 Rd=16.6m Rs=10m Rb=30m Kp=41 Lambda=0.05 Cgdmin=40p Cgdmax=300p A=0.6 Cgso=405p Is=866.27f N=967.59m Cjo=226.65p M=575.76m Vj=780.9m TT=25n ksubthres=.1 mfg=Rohm Vds=20 Ron=25m Qg=8n)

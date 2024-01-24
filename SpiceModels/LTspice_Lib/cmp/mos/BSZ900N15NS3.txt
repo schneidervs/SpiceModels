@@ -1,0 +1,1 @@
+.model BSZ900N15NS3 VDMOS(Rg=1.7 Vto=4.4 Rd=57.81m Rs=954u Rb=6.83m Kp=10.3 Lambda=0.02 Cgdmin=1p Cgdmax=0.06n A=0.5 Cgs=0.37n Cjo=0.56n M=0.4 Is=14.2p VJ=0.9 N=1.185 TT=100n ksubthres=.1 mfg=Infineon Vds=150 Ron=90m Qg=5n)

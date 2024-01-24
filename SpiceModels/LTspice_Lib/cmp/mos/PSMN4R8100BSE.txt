@@ -1,0 +1,1 @@
+.model PSMN4R8100BSE VDMOS(Rg=1 Mtriode=2 Vto=3.7 Rd=2.2m Rs=.4m Rb=1.1m Kp=80 Theta=.08 Lambda=.02 Cgdmin=100p Cgdmax=7n A=.3 Cgs=8.96n Cjo=5n M=0.5 Is=10p Vj=0.4 ksubthres=.1 mfg=NXP Vds=100 Ron=4.1m Qg=196n RthetaJA=50 Imult=30 Iexponent=250m R6=7.35m C6=.956u R5=12.9m C5=2.14m R4=46.1m C4=4.67m R3=254m C3=29.5m R2=21m C2=209m R1=1.4m C1=8.18m)

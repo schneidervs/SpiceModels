@@ -1,0 +1,1 @@
+.model RSJ250P10 VDMOS(pchan Rg=17.2 Vto=-2.077 Rd=23.6m Rs=20m Rb=5m Kp=95 Lambda=50m Cgdmin=100p Cgdmax=600p A=0.1 Cgso=7.77n Is=20.02p N=1.089 Cjo=884p M=622.43m Vj=777.43m TT=78n ksubthres=.1 mfg=Rohm Vds=-100 Ron=45m Qg=60n)

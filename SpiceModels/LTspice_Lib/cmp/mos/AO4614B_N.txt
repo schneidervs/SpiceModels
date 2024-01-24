@@ -1,0 +1,1 @@
+.model AO4614B_N VDMOS(Kp=19.4363 Rs=0.006 Rd=0.0105 Rg=4.6 Vto=2.68 mtriode=1.2 Ksubthres=.0001 Lambda=0.14 Cgdmax=349p Cgdmin=17p Cgs=473p tt=26n A=0.24 Is=7.78E-15 N=0.896 Rb=0.007406 m=0.963 Vj=4.79 Cjo=190.0pF mfg=AOS Vds=40 Ron=24m Qg=4.3n)

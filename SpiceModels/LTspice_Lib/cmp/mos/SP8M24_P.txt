@@ -1,0 +1,1 @@
+.model SP8M24_P VDMOS(pchan Rg=15 Vto=-2.286 Rd=29.2m Rs=10m Rb=50m Kp=22.42 Lambda=50m Cgdmin=70p Cgdmax=370p A=0.3 Cgso=1565p Is=79.551f N=914.34m Cjo=287.77p M=753m Vj=1.61 TT=38n mfg=Rohm Vds=-45 Ron=45m Qg=13n)

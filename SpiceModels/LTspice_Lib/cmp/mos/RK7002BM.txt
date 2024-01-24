@@ -1,0 +1,1 @@
+.model RK7002BM VDMOS(Rg=380 Vto=1.92 Rd=1.47 Rs=30m Rb=250m Kp=601.15m Lambda=50m Cgdmin=1.6p Cgdmax=12p A=0.65 Cgso=13p Is=212.7f N=1.095 Cjo=7.6938p M=313.22m Vj=532.83m TT=13n mfg=Rohm Vds=60 Ron=1700m Qg=1.8n)

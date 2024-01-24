@@ -1,0 +1,1 @@
+.model RBR40NS40A D(Is=1.5256E-6 N=0.8552 Rs=3.9921E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.662 Cjo=2.7200E-9 M=0.5283 Vj=0.5000 Isr=9.6374E-6 Nr=1.1831 Bv=40 Trs1=2.0785E-3 Tikf=8.3064E-03 Iave=40 Vpk=40 mfg=Rohm type=Schottky)

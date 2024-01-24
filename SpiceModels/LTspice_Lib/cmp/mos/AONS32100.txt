@@ -1,0 +1,1 @@
+.model AONS32100 VDMOS(Kp=225 Rs=50u Rd=200u Rg=1.4 Vto=1.67 VtoTc=-2.2m Bex=-1.15 mtriode=2 Ksubthres=0.1 Lambda=0.063 Cgdmax=5963p Cgdmin=1207p Cgs=13800p tt=36n A=0.49 Is=1.61E-10 N=1.035 Rb=1u Eg=1.03 Trb1=2.5m M=0.503 Vj=0.94 Cjo=2580.0pF mfg=AOS Vds=25 Ron=0.6m Qg=115n)

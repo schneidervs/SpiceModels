@@ -1,0 +1,1 @@
+.model RSX071VYM-30 D(Is=2.46u N=866m Rs=60.09m Ikf=34.19m Xti=2 Eg=570m Cjo=157.5p M=588.4m Vj=734.1m Isr=4.536u Nr=1.2 Bv=30 Iave=0.0007 Vpk=30 mfg=Rohm type=Schottky)

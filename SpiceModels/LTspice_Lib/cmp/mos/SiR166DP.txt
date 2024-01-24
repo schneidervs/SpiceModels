@@ -1,0 +1,1 @@
+.model SiR166DP VDMOS(Kp=76.2705 Rs=1u Rd=0.001 Rg=1.5 Vto=1.7 lambda=0.001 Cgdmax=2082p Cgdmin=200p Cgs=3050p TT=39n Is=4.12E-12 N=1.002 Rb=0.001587 M=0.308 VJ=0.1 Cjo=1814.2pF mfg=Vishay Vds=30 Ron=0.0032 Qg=25n)

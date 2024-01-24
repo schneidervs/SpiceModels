@@ -1,0 +1,1 @@
+.model RSJ800N06 VDMOS(Rg=5.2 Vto=2.236 Rd=3.359m Rs=1m Rb=3m Kp=900.8 Lambda=50m Cgdmin=350p Cgdmax=4800p A=0.7 Cgso=5.35n Is=61.95p N=1.042 Cjo=2.2489n M=692.87m Vj=1.745 TT=42n ksubthres=.1 mfg=Rohm Vds=60 Ron=4.5m Qg=130n)

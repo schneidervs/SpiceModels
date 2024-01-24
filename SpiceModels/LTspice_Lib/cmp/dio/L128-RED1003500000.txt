@@ -1,0 +1,1 @@
+.model L128-RED1003500000 D(Is=6.1149E-16 Rs=1.0889 N=2.3293 Cj0=81.7p Iave=120m mfg=Lumileds type=LED)

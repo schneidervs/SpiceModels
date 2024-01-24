@@ -1,0 +1,1 @@
+.model RBQ20BM100A D(Is=292.16E-9 N=0.9039 Rs=15.843E-3 Ikf=141.25E-3 Xti=2.0 Eg=0.742 Cjo=1.4200E-9 M=0.5237 Vj=0.5000 Isr=2.1089E-6 Nr=1.1839 Bv=100 Trs1=1.1721E-3 Tikf=502.81E-06 Iave=20 Vpk=100 mfg=Rohm type=Schottky)

@@ -1,0 +1,1 @@
+.model AON2392 VDMOS(Kp=25.3986 Rs=0.0003 Rd=0.0208 Rg=1.4 Vto=2.09 mtriode=0.9 Ksubthres=.001 Lambda=0.02 Cgdmax=162p Cgdmin=2p Cgs=836p tt=29n A=0.62 Is=1.62E-12 N=1.029 Rb=0.017635 m=0.352 Vj=0.1 Cjo=530.0pF mfg=AOS Vds=100 Ron=26m Qg=6.1n)

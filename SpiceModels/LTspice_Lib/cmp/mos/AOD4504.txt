@@ -1,0 +1,1 @@
+.model AOD4504 VDMOS(Kp=7 Rs=0.0033 Rd=0.3102 Rg=2.0 Vto=3.34 Lambda=0.03 mtriode=1 Ksubthres=0.1 Cgdmax=373p Cgdmin=6p Cgs=320p tt=50n A=0.72 Is=1.57E-06 N=2.164 Rb=0.002352 M=0.474 Vj=1.26 Cjo=100.0pF mfg=AOS Vds=200 Ron=333m Qg=44n)

@@ -1,0 +1,1 @@
+.model AONS66908 VDMOS(Rs=1.72m Rd=1.72m Rg=1.4 Vto=2.72 Kp=316 lambda=64.2m mtriode=2.07 ksubthres=.1 Is=4.76p N=1.02988 Rb=1.75m Eg=1.11 XTI=2.94707 trb1=3.42m vtotc=-1m trd1=7m trs1=7m Cgs=4.5n Cgdmin=50p Cgdmax=1.5n Cjo=2.6n m=.4 tt=13n mfg=Alpha_&_Omega Vds=100 Ron=4.3m Qg=32n)

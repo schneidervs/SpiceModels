@@ -1,0 +1,1 @@
+.model RJK0301DPB VDMOS(Rg=.8 Vto=2.15 Rd=.9m Rs=.2m Rb=.5m Kp=170. Lambda=.06 Cgdmax=1n Cgdmin=.4n Cgs=4n Cjo=.56n Is=56p ksubthres=.1 mfg=Renesas Vds=30 Ron=2.3m Qg=32n)

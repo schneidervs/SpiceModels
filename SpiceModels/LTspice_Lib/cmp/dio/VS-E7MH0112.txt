@@ -1,0 +1,1 @@
+.model VS-E7MH0112 D(Is=5.0000E-6 N=3.7808 Rs=65.513E-3 Ikf=.40226 Cjo=14.055E-12 M=.19493 Vj=.2 Isr=10.010E-21 Nr=4.9950 Bv=1.345E3 Ibv=0.01 tt=145.658E-9 Vp=0.18 Xti=16 Tikf=0.066 Trs1=0.0025 Iave=1 Vpk=1200 mfg=Vishay type=FastRecovery)

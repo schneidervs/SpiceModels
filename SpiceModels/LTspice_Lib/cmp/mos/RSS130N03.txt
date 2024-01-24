@@ -1,0 +1,1 @@
+.model RSS130N03 VDMOS(Rg=2.3 Vto=1.987 Rd=1.24m Rs=4m Rb=30m Kp=190.8 Lambda=50m Cgdmin=160p Cgdmax=2300p A=0.5 Cgso=1680p Is=121.28f N=845.01m Cjo=329.03p M=106.33m Vj=3.343 TT=49n ksubthres=.1 mfg=Rohm Vds=30 Ron=5.9m Qg=25n)

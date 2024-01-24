@@ -1,0 +1,1 @@
+.model LS5911 NJF(Beta=2.80m Betatce=-0.5 Vto=-1.64 Vtotc=-2.5m Lambda=12.06m Is=2.71f Xti=0 Rd=7 Rs=9 Cgd=1p Cgs=1p Fc=0.5 M=500m Pb=0.8 Kf=0 Af=1 Mfg=Linear_Systems)

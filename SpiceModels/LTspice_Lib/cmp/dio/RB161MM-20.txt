@@ -1,0 +1,1 @@
+.model RB161MM-20 D(Is=47.873E-6 N=1.0674 Rs=12.756E-3 Ikf=.47478 Xti=2 Eg=.55 Cjo=350.27E-12 M=.60349 Vj=.64083 Isr=18.739E-6 Bv=25 Iave=1 Vpk=25 mfg=Rohm type=Schottky)

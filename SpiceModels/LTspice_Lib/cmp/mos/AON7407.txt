@@ -1,0 +1,1 @@
+.model AON7407 VDMOS(pchan Kp=91.0922 Rs=0.0001 Rd=0.0046 Rg=2.8 Vto=-0.65 mtriode=0.6 Ksubthres=.001 Lambda=0.01 Cgdmax=6017p Cgdmin=318p Cgs=3070p tt=48n A=2.07 Is=8.66E-08 N=1.228 Rb=0.003877 mfg=AOS Vds=-20 Ron=7.6m Qg=44n)

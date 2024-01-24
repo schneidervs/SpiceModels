@@ -1,0 +1,1 @@
+.model STW8B12C D(Is=1e-23 Rs=6 N=2 Cjo=840p Iave=120m Vpk=5 mfg=Seoul_Semiconductor type=LED)
